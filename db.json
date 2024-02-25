@@ -2980,11 +2980,11 @@
         "demand": "1/10"
     },
     "CHEST BREAKER ENCHANT": {
-        "value": "32M",
-        "demand": "4/10"
+        "value": "40M",
+        "demand": "7/10"
     },
     "CHEST MIMIC ENCHANT": {
-        "value": "135M",
+        "value": "100M",
         "demand": "7/10"
     },
     "EXOTIC PET ENCHANT": {
