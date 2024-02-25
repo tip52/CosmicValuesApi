@@ -257,7 +257,7 @@
     },
     "HUGE PARTY CAT": {
         "value": "46M",
-        "demand": "5/10"
+        "demand": "6/10"
     },
     "HUGE PARTY CAT (GOLDEN)": {
         "value": "60M",
@@ -428,8 +428,8 @@
         "demand": "7/10"
     },
     "HUGE PARTY DOG": {
-        "value": "36M",
-        "demand": "5/10"
+        "value": "33M",
+        "demand": "6/10"
     },
     "HUGE PARTY DOG (GOLDEN)": {
         "value": "52M",
@@ -520,7 +520,7 @@
         "demand": "7/10"
     },
     "HUGE PARTY CROWN DUCKY": {
-        "value": "33M",
+        "value": "31.5M",
         "demand": "6/10"
     },
     "HUGE PARTY CROWN DUCKY (GOLDEN)": {
@@ -572,7 +572,7 @@
         "demand": "7/10"
     },
     "HUGE NEON CAT": {
-        "value": "34.5M",
+        "value": "31.5M",
         "demand": "6/10"
     },
     "HUGE NEON CAT (RAINBOW)": {
@@ -668,8 +668,8 @@
         "demand": "6/10"
     },
     "HUGE PARTY AXOLOTL": {
-        "value": "31M",
-        "demand": "5/10"
+        "value": "29M",
+        "demand": "6/10"
     },
     "HUGE PARTY AXOLOTL (GOLDEN)": {
         "value": "36M",
@@ -692,7 +692,7 @@
         "demand": "6/10"
     },
     "HUGE KNIFE CAT": {
-        "value": "30.5M",
+        "value": "29M",
         "demand": "6/10"
     },
     "HUGE KNIFE CAT (RAINBOW)": {
@@ -756,7 +756,7 @@
         "demand": "8/10"
     },
     "HUGE STORM DOMINUS": {
-        "value": "32M",
+        "value": "30M",
         "demand": "6/10"
     },
     "HUGE STORM DOMINUS (RAINBOW)": {
@@ -956,7 +956,7 @@
         "demand": "6/10"
     },
     "HUGE REDSTONE CAT": {
-        "value": "30.5M",
+        "value": "28.5M",
         "demand": "6/10"
     },
     "HUGE REDSTONE CAT (RAINBOW)": {
@@ -1348,7 +1348,7 @@
         "demand": "7/10"
     },
     "HUGE COSMIC AXOLOTL": {
-        "value": "39.5M",
+        "value": "34.5M",
         "demand": "5/10"
     },
     "HUGE COSMIC AXOLOTL (RAINBOW)": {
@@ -1380,7 +1380,7 @@
         "demand": "7/10"
     },
     "HUGE VAMPIRE BAT": {
-        "value": "31.5M",
+        "value": "29.5M",
         "demand": "6/10"
     },
     "HUGE VAMPIRE BAT (GOLDEN)": {
@@ -1392,7 +1392,7 @@
         "demand": "7/10"
     },
     "HUGE STEALTH DRAGON": {
-        "value": "32M",
+        "value": "29.5M",
         "demand": "6/10"
     },
     "HUGE STEALTH DRAGON (GOLDEN)": {
@@ -1404,7 +1404,7 @@
         "demand": "7/10"
     },
     "HUGE STEALTH BOBCAT": {
-        "value": "33M",
+        "value": "31M",
         "demand": "6/10"
     },
     "HUGE STEALTH BOBCAT (GOLDEN)": {
@@ -1452,7 +1452,7 @@
         "demand": "6/10"
     },
     "HUGE PIXEL DRAGON": {
-        "value": "35M",
+        "value": "32M",
         "demand": "5/10"
     },
     "HUGE PIXEL DRAGON (GOLDEN)": {
