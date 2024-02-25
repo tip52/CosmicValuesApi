@@ -220,11 +220,11 @@
         "demand": "6/10"
     },
     "HUGE HELL ROCK": {
-        "value": "20M",
+        "value": "16.25M",
         "demand": "6/10"
     },
     "HUGE HELL ROCK (GOLDEN)": {
-        "value": "23M",
+        "value": "18.5M",
         "demand": "6/10"
     },
     "HUGE HELL ROCK (RAINBOW)": {
@@ -468,7 +468,7 @@
         "demand": "7/10"
     },
     "HUGE JOLLY PENGUIN": {
-        "value": "21.75M",
+        "value": "19M",
         "demand": "5/10"
     },
     "HUGE JOLLY PENGUIN (GOLDEN)": {
@@ -600,7 +600,7 @@
         "demand": "6/10"
     },
     "HUGE PTERODACTYL": {
-        "value": "21M",
+        "value": "19M",
         "demand": "5/10"
     },
     "HUGE PTERODACTYL (GOLDEN)": {
@@ -620,7 +620,7 @@
         "demand": "6/10"
     },
     "HUGE KING COBRA": {
-        "value": "21.5M",
+        "value": "19.5M",
         "demand": "5/10"
     },
     "HUGE KING COBRA (GOLDEN)": {
@@ -632,7 +632,7 @@
         "demand": "7/10"
     },
     "HUGE PEACOCK": {
-        "value": "20M",
+        "value": "18M",
         "demand": "5/10"
     },
     "HUGE PEACOCK (GOLDEN)": {
@@ -984,7 +984,7 @@
         "demand": "6/10"
     },
     "HUGE GOBLIN": {
-        "value": "20M",
+        "value": "16M",
         "demand": "5/10"
     },
     "HUGE GOBLIN (GOLDEN)": {
@@ -996,7 +996,7 @@
         "demand": "5/10"
     },
     "HUGE COLORFUL SLIME": {
-        "value": "20.1M",
+        "value": "17M",
         "demand": "5/10"
     },
     "HUGE COLORFUL SLIME (GOLDEN)": {
@@ -1368,7 +1368,7 @@
         "demand": "8/10"
     },
     "HUGE HAPPY ROCK": {
-        "value": "19.5M",
+        "value": "15.5M",
         "demand": "6/10"
     },
     "HUGE HAPPY ROCK (GOLDEN)": {
@@ -1464,7 +1464,7 @@
         "demand": "6/10"
     },
     "HUGE PIXEL CORGI": {
-        "value": "22.5M",
+        "value": "19M",
         "demand": "5/10"
     },
     "HUGE PIXEL CORGI (GOLDEN)": {
@@ -4124,7 +4124,7 @@
         "demand": "8/10"
     },
     "HUGE JOLLY NARWHAL": {
-        "value": "20.5M",
+        "value": "17.5M",
         "demand": "5/10"
     },
     "HUGE PROPELLER CAT": {
@@ -4818,5 +4818,13 @@
     "TITANIC LOVE LAMB": {
         "value": "2.2B",
         "demand": "8/10"
+    },
+    "HUGE HAPPY COMPUTER": {
+        "value": "15.5M",
+        "demand": "5/10"
+    },
+    "GOLDEN HUGE HAPPY COMPUTER": {
+        "value": "25M",
+        "demand": "5/10"
     }
 }
