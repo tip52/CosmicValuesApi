@@ -2948,32 +2948,32 @@
         "demand": "2/10"
     },
     "AGILITY CHARM": {
-        "value": "500",
-        "demand": "1/10"
-    },
-    "BONUS CHARM": {
         "value": "1K",
         "demand": "1/10"
     },
+    "BONUS CHARM": {
+        "value": "1.1K",
+        "demand": "1/10"
+    },
     "COINS CHARM": {
-        "value": "2K",
+        "value": "2.5K",
         "demand": "1/10"
     },
     "DIAMONDS CHARM": {
-        "value": "14K",
-        "demand": "4/10"
+        "value": "10K",
+        "demand": "2/10"
     },
     "GLITTERING CHARM": {
-        "value": "850K",
-        "demand": "5/10"
+        "value": "350K",
+        "demand": "4/10"
     },
     "ROYALTY CHARM": {
-        "value": "8.75M",
-        "demand": "8/10"
+        "value": "4.5M",
+        "demand": "4/10"
     },
     "STRENGTH CHARM": {
-        "value": "5K",
-        "demand": "3/10"
+        "value": "4.5K",
+        "demand": "2/10"
     },
     "BLAST ENCHANT": {
         "value": "3.4K",
@@ -4144,8 +4144,8 @@
         "demand": "7/10"
     },
     "CHARM STONE": {
-        "value": "48K",
-        "demand": "5/10"
+        "value": "35K",
+        "demand": "3/10"
     },
     "SHINY HUGE DOVE": {
         "value": "325M",
@@ -4268,7 +4268,7 @@
         "demand": "7/10"
     },
     "2024 NEW YEARS GIFT": {
-        "value": "3.25M",
+        "value": "1.6M",
         "demand": "4/10"
     },
     "SHINY TITANIC REINDEER": {
@@ -4428,8 +4428,8 @@
         "demand": "7/10"
     },
     "CRITICAL CHARM": {
-        "value": "2.2K",
-        "demand": "2/10"
+        "value": "2K",
+        "demand": "1/10"
     },
     "ENCHANT BUNDLE": {
         "value": "3K",
@@ -4512,20 +4512,20 @@
         "demand": "4/10"
     },
     "LIGHTNING CHARM": {
-        "value": "8.5K",
+        "value": "8K",
         "demand": "2/10"
     },
     "OVERLOAD CHARM": {
-        "value": "5.5M",
-        "demand": "5/10"
+        "value": "3.2M",
+        "demand": "4/10"
     },
     "TNT CHARM": {
-        "value": "4.5K",
+        "value": "9K",
         "demand": "2/10"
     },
     "XP CHARM": {
-        "value": "15K",
-        "demand": "7/10"
+        "value": "12.5K",
+        "demand": "5/10"
     },
     "DIAMOND FISHING ROD": {
         "value": "14.5M",
