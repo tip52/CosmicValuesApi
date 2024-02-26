@@ -2112,11 +2112,11 @@
         "demand": "9/10"
     },
     "TITANIC JOLLY CAT": {
-        "value": "2.05B",
+        "value": "1.85B",
         "demand": "9/10"
     },
     "TITANIC JOLLY CAT (RAINBOW)": {
-        "value": "13.75B",
+        "value": "7.2B",
         "demand": "7/10"
     },
     "TITANIC BALLOON MONKEY": {
@@ -2160,7 +2160,7 @@
         "demand": "5/10"
     },
     "TITANIC BLOBFISH": {
-        "value": "5.2B",
+        "value": "4.4b",
         "demand": "6/10"
     },
     "TITANIC HOLOGRAM CAT": {
@@ -2188,19 +2188,19 @@
         "demand": "6/10"
     },
     "TITANIC MYSTIC CORGI": {
-        "value": "1.95B",
+        "value": "1.72B",
         "demand": "9/10"
     },
     "TITANIC MYSTIC CORGI (RAINBOW)": {
-        "value": "14.6B",
+        "value": "9.9B",
         "demand": "8/10"
     },
     "TITANIC JELLY CAT": {
-        "value": "2B",
+        "value": "1.83B",
         "demand": "9/10"
     },
     "TITANIC JELLY CAT (RAINBOW)": {
-        "value": "18.85B",
+        "value": "13.2B",
         "demand": "9/10"
     },
     "TITANIC TIEDYE CAT": {
@@ -2216,15 +2216,15 @@
         "demand": "7/10"
     },
     "TITANIC ATLANTEAN JELLYFISH": {
-        "value": "2.25B",
+        "value": "2B",
         "demand": "9/10"
     },
     "TITANIC ATLANTEAN JELLYFISH (RAINBOW)": {
-        "value": "13B",
+        "value": "7.7B",
         "demand": "7/10"
     },
     "TITANIC CAT": {
-        "value": "4.6B",
+        "value": "3.9B",
         "demand": "7/10"
     },
     "TITANIC COSMIC PEGASUS": {
@@ -2244,11 +2244,11 @@
         "demand": "9/10"
     },
     "TITANIC SHADOW GRIFFIN": {
-        "value": "1.95B",
+        "value": "1.7B",
         "demand": "9/10"
     },
     "TITANIC SHADOW GRIFFIN (RAINBOW)": {
-        "value": "15.85B",
+        "value": "8.8B",
         "demand": "9/10"
     },
     "TITANIC SCARY CORGI": {
@@ -2828,7 +2828,7 @@
         "demand": "5/10"
     },
     "SHINY TITANIC JOLLY CAT": {
-        "value": "9.25B",
+        "value": "4.95B",
         "demand": "8/10"
     },
     "SHINY TITANIC BALLOON MONKEY": {
@@ -2836,7 +2836,7 @@
         "demand": "6/10"
     },
     "SHINY TITANIC NEON AGONY": {
-        "value": "8.15B",
+        "value": "5.5B",
         "demand": "8/10"
     },
     "SHINY TITANIC BLUE BALLOON CAT": {
@@ -2868,11 +2868,11 @@
         "demand": "7/10"
     },
     "SHINY TITANIC MYSTIC CORGI": {
-        "value": "5.55B",
+        "value": "3.3B",
         "demand": "7/10"
     },
     "SHINY TITANIC JELLY CAT": {
-        "value": "7.4B",
+        "value": "4.4B",
         "demand": "8/10"
     },
     "SHINY TITANIC TIEDYE CAT": {
@@ -2884,7 +2884,7 @@
         "demand": "7/10"
     },
     "SHINY TITANIC ATLANTEAN JELLYFISH": {
-        "value": "6.5B",
+        "value": "3.85B",
         "demand": "7/10"
     },
     "SHINY TITANIC COSMIC PEGASUS": {
@@ -4060,7 +4060,7 @@
         "demand": "6/10"
     },
     "TITANIC SILVER DRAGON": {
-        "value": "2B",
+        "value": "1.8B",
         "demand": "9/10"
     },
     "UNICORN DRAGON": {
@@ -4088,7 +4088,7 @@
         "demand": "4/10"
     },
     "TITANIC SILVER DRAGON (RAINBOW)": {
-        "value": "15.85B",
+        "value": "9.9B",
         "demand": "9/10"
     },
     "HUGE PRESENT CAT": {
@@ -4320,7 +4320,7 @@
         "demand": "6/10"
     },
     "SHINY TITANIC SILVER DRAGON": {
-        "value": "7.4B",
+        "value": "4.4B",
         "demand": "7/10"
     },
     "SHINY HUGE CELESTIAL DRAGON": {
@@ -4664,7 +4664,7 @@
         "demand": "4/10"
     },
     "SHINY TITANIC SHADOW GRIFFIN": {
-        "value": "7.3B",
+        "value": "4.4B",
         "demand": "8/10"
     },
     "SHINY TITANIC SCARY CORGI": {
