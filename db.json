@@ -2464,7 +2464,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE COMET AGONY": {
-        "value": "370M",
+        "value": "385M",
         "demand": "6/10"
     },
     "SHINY HUGE COMET CYCLOPS": {
@@ -2568,7 +2568,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE BASKETBALL RETRIEVER": {
-        "value": "1.1B",
+        "value": "1.3B",
         "demand": "7/10"
     },
     "SHINY HUGE FIREFIGHTER DALMATIAN": {
@@ -2752,7 +2752,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE FAIRY": {
-        "value": "205M",
+        "value": "245M",
         "demand": "7/10"
     },
     "SHINY HUGE SHADOW GRIFFIN": {
@@ -2764,11 +2764,11 @@
         "demand": "7/10"
     },
     "SHINY HUGE BEAR": {
-        "value": "210M",
+        "value": "250M",
         "demand": "7/10"
     },
     "SHINY HUGE APPLE CAPYBARA": {
-        "value": "300M",
+        "value": "375M",
         "demand": "7/10"
     },
     "SHINY HUGE UNICORN": {
@@ -2784,7 +2784,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE CHEST MIMIC": {
-        "value": "290M",
+        "value": "325M",
         "demand": "7/10"
     },
     "SHINY HUGE ENCHANTED DEER": {
@@ -2812,7 +2812,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE AXOLOTL": {
-        "value": "1.05B",
+        "value": "1.2B",
         "demand": "7/10"
     },
     "SHINY HUGE PASTEL SOCK DRAGON": {
@@ -4148,7 +4148,7 @@
         "demand": "3/10"
     },
     "SHINY HUGE DOVE": {
-        "value": "325M",
+        "value": "350M",
         "demand": "6/10"
     },
     "HUGE SHADOW DOMINUS": {
@@ -4232,8 +4232,8 @@
         "demand": "3/10"
     },
     "DIAMOND CHEST MIMIC ENCHANT": {
-        "value": "30M",
-        "demand": "3/10"
+        "value": "25.5M",
+        "demand": "4/10"
     },
     "HUGE LUCKI": {
         "value": "54M",
@@ -4328,7 +4328,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE CELESTIAL DRAGON": {
-        "value": "950M",
+        "value": "1.1B",
         "demand": "7/10"
     },
     "SHINY HUGE HIPPOMELON": {
@@ -4532,11 +4532,11 @@
         "demand": "5/10"
     },
     "DIAMOND FISHING ROD": {
-        "value": "14.5M",
+        "value": "5M",
         "demand": "5/10"
     },
     "DIAMOND SHOVEL": {
-        "value": "29M",
+        "value": "17.5M",
         "demand": "4/10"
     },
     "MINI CHEST": {
