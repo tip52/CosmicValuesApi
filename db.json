@@ -2980,51 +2980,51 @@
         "demand": "1/10"
     },
     "CHEST BREAKER ENCHANT": {
-        "value": "40M",
-        "demand": "7/10"
+        "value": "75M",
+        "demand": "8/10"
     },
     "CHEST MIMIC ENCHANT": {
-        "value": "100M",
-        "demand": "7/10"
+        "value": "75M",
+        "demand": "5/10"
     },
     "EXOTIC PET ENCHANT": {
-        "value": "45K",
+        "value": "35K",
         "demand": "2/10"
     },
     "FIREWORKS ENCHANT": {
-        "value": "675K",
+        "value": "550K",
         "demand": "3/10"
     },
     "FORTUNE ENCHANT": {
-        "value": "145K",
-        "demand": "4/10"
+        "value": "80K",
+        "demand": "2/10"
     },
     "HUGE HUNTER ENCHANT": {
-        "value": "9M",
-        "demand": "7/10"
+        "value": "7M",
+        "demand": "4/10"
     },
     "LIGHTNING ENCHANT": {
         "value": "8K",
         "demand": "1/10"
     },
     "LUCKY BLOCK ENCHANT": {
-        "value": "18M",
-        "demand": "5/10"
+        "value": "7.5M",
+        "demand": "4/10"
     },
     "MIDAS TOUCH": {
         "value": "12.5K",
         "demand": "1/10"
     },
     "SHINY HUNTER ENCHANT": {
-        "value": "2.4M",
-        "demand": "6/10"
+        "value": "1.6M",
+        "demand": "4/10"
     },
     "STARFALL ENCHANT": {
-        "value": "1.25M",
+        "value": "900K",
         "demand": "3/10"
     },
     "SUPER LIGHTNING ENCHANT": {
-        "value": "950K",
+        "value": "800K",
         "demand": "3/10"
     },
     "COINS FLAG": {
@@ -3312,24 +3312,24 @@
         "demand": "2/10"
     },
     "SMALL CHRISTMAS PRESENT": {
-        "value": "17K",
-        "demand": "4/10"
+        "value": "15K",
+        "demand": "3/10"
     },
     "MEDIUM CHRISTMAS PRESENT": {
-        "value": "27K",
-        "demand": "5/10"
+        "value": "20K",
+        "demand": "4/10"
     },
     "LARGE CHRISTMAS PRESENT": {
-        "value": "75K",
-        "demand": "5/10"
+        "value": "55K",
+        "demand": "4/10"
     },
     "X-LARGE CHRISTMAS PRESENT": {
-        "value": "490K",
-        "demand": "6/10"
+        "value": "190K",
+        "demand": "5/10"
     },
     "TITANIC CHRISTMAS PRESENT": {
-        "value": "9.2M",
-        "demand": "8/10"
+        "value": "6M",
+        "demand": "7/10"
     },
     "CANDY CANE": {
         "value": "2.5K",
@@ -4224,16 +4224,16 @@
         "demand": "5/10"
     },
     "PARTY TIME ENCHANT": {
-        "value": "2.1M",
-        "demand": "4/10"
+        "value": "1.2M",
+        "demand": "2/10"
     },
     "MASSIVE COMET ENCHANT": {
-        "value": "16M",
-        "demand": "4/10"
+        "value": "10.5M",
+        "demand": "3/10"
     },
     "DIAMOND CHEST MIMIC ENCHANT": {
-        "value": "50M",
-        "demand": "6/10"
+        "value": "30M",
+        "demand": "3/10"
     },
     "HUGE LUCKI": {
         "value": "54M",
@@ -4468,8 +4468,8 @@
         "demand": "3/10"
     },
     "MAGIC ORB ENCHANT": {
-        "value": "400K",
-        "demand": "5/10"
+        "value": "250K",
+        "demand": "3/10"
     },
     "MAGIC SHARD": {
         "value": "10K",
@@ -4484,8 +4484,8 @@
         "demand": "2/10"
     },
     "PINATA": {
-        "value": "90K",
-        "demand": "6/10"
+        "value": "40K",
+        "demand": "4/10"
     },
     "SECRET KEY LOWER HALF": {
         "value": "10K",
