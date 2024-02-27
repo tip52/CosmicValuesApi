@@ -732,16 +732,16 @@
         "demand": "6/10"
     },
     "HUGE MEEBO IN A SPACESHIP": {
-        "value": "195M",
-        "demand": "7/10"
+        "value": "100M",
+        "demand": "6/10"
     },
     "HUGE MEEBO IN A SPACESHIP (GOLDEN)": {
-        "value": "220M",
-        "demand": "7/10"
+        "value": "200M",
+        "demand": "6/10"
     },
     "HUGE MEEBO IN A SPACESHIP (RAINBOW)": {
-        "value": "875M",
-        "demand": "8/10"
+        "value": "700M",
+        "demand": "7/10"
     },
     "HUGE DIAMOND CAT": {
         "value": "400M",
@@ -4782,6 +4782,10 @@
     "SHINY HUGE HEART BALLOON CAT": {
         "value": "200M",
         "demand": "6/10"
+    },
+    "SHINY TITANIC LOVEMELON": {
+        "value": "6.5B",
+        "demand": "7/10"
     },
     "HUGE VALENTINES CAT (RAINBOW)": {
         "value": "250M",
