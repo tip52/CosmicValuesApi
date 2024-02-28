@@ -444,7 +444,7 @@
         "demand": "5/10"
     },
     "HUGE ELF CAT (GOLDEN)": {
-        "value": "26M",
+        "value": "28M",
         "demand": "6/10"
     },
     "HUGE ELF CAT (RAINBOW)": {
@@ -456,7 +456,7 @@
         "demand": "5/10"
     },
     "HUGE ELF DOG (GOLDEN)": {
-        "value": "27.5M",
+        "value": "28M",
         "demand": "6/10"
     },
     "HUGE ELF DOG (RAINBOW)": {
@@ -476,7 +476,7 @@
         "demand": "5/10"
     },
     "HUGE JOLLY PENGUIN (GOLDEN)": {
-        "value": "26M",
+        "value": "28M",
         "demand": "5/10"
     },
     "HUGE JOLLY PENGUIN (RAINBOW)": {
@@ -500,7 +500,7 @@
         "demand": "5/10"
     },
     "HUGE MRS CLAWS (GOLDEN)": {
-        "value": "32M",
+        "value": "34M",
         "demand": "5/10"
     },
     "HUGE MRS CLAWS (RAINBOW)": {
@@ -640,7 +640,7 @@
         "demand": "5/10"
     },
     "HUGE PEACOCK (GOLDEN)": {
-        "value": "25M",
+        "value": "24M",
         "demand": "5/10"
     },
     "HUGE PEACOCK (RAINBOW)": {
@@ -664,7 +664,7 @@
         "demand": "5/10"
     },
     "HUGE ORCA (GOLDEN)": {
-        "value": "38M",
+        "value": "50M",
         "demand": "5/10"
     },
     "HUGE ORCA (RAINBOW)": {
@@ -4400,7 +4400,7 @@
         "demand": "6/10"
     },
     "HUGE EMOJI CAT (RAINBOW)": {
-        "value": "250M",
+        "value": "260M",
         "demand": "7/10"
     },
     "SHINY HUGE EMOJI CAT": {
