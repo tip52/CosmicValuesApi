@@ -2112,7 +2112,7 @@
         "demand": "9/10"
     },
     "TITANIC JOLLY CAT": {
-        "value": "2.25B",
+        "value": "2.4B",
         "demand": "9/10"
     },
     "TITANIC JOLLY CAT (RAINBOW)": {
@@ -2120,7 +2120,7 @@
         "demand": "7/10"
     },
     "TITANIC BALLOON MONKEY": {
-        "value": "1.95B",
+        "value": "2.1B",
         "demand": "8/10"
     },
     "TITANIC BALLOON MONKEY (RAINBOW)": {
@@ -2128,7 +2128,7 @@
         "demand": "7/10"
     },
     "TITANIC BLUE BALLOON CAT": {
-        "value": "1.73B",
+        "value": "1.9B",
         "demand": "7/10"
     },
     "TITANIC BLUE BALLOON CAT (RAINBOW)": {
@@ -2136,7 +2136,7 @@
         "demand": "6/10"
     },
     "TITANIC RED BALLOON CAT": {
-        "value": "1.73B",
+        "value": "1.9B",
         "demand": "7/10"
     },
     "TITANIC RED BALLOON CAT (RAINBOW)": {
@@ -2144,7 +2144,7 @@
         "demand": "7/10"
     },
     "TITANIC HUBERT": {
-        "value": "1.72B",
+        "value": "1.87B",
         "demand": "7/10"
     },
     "TITANIC HUBERT (RAINBOW)": {
@@ -2152,7 +2152,7 @@
         "demand": "6/10"
     },
     "TITANIC DOMINUS ASTRA": {
-        "value": "1.67B",
+        "value": "1.82B",
         "demand": "7/10"
     },
     "TITANIC DOMINUS ASTRA (RAINBOW)": {
@@ -2160,11 +2160,11 @@
         "demand": "5/10"
     },
     "TITANIC BLOBFISH": {
-        "value": "5.6B",
+        "value": "6.6B",
         "demand": "6/10"
     },
     "TITANIC HOLOGRAM CAT": {
-        "value": "1.67B",
+        "value": "1.85B",
         "demand": "7/10"
     },
     "TITANIC HOLOGRAM CAT (RAINBOW)": {
@@ -2172,7 +2172,7 @@
         "demand": "5/10"
     },
     "TITANIC CAPYBARA": {
-        "value": "1.8B",
+        "value": "1.93B",
         "demand": "8/10"
     },
     "TITANIC CAPYBARA (RAINBOW)": {
@@ -2180,7 +2180,7 @@
         "demand": "9/10"
     },
     "TITANIC LUCKI": {
-        "value": "1.78B",
+        "value": "1.91B",
         "demand": "7/10"
     },
     "TITANIC LUCKI (RAINBOW)": {
@@ -2188,7 +2188,7 @@
         "demand": "6/10"
     },
     "TITANIC MYSTIC CORGI": {
-        "value": "2.05B",
+        "value": "2.17B",
         "demand": "9/10"
     },
     "TITANIC MYSTIC CORGI (RAINBOW)": {
@@ -2196,7 +2196,7 @@
         "demand": "8/10"
     },
     "TITANIC JELLY CAT": {
-        "value": "2.17B",
+        "value": "2.5B",
         "demand": "9/10"
     },
     "TITANIC JELLY CAT (RAINBOW)": {
@@ -2204,7 +2204,7 @@
         "demand": "9/10"
     },
     "TITANIC TIEDYE CAT": {
-        "value": "1.85B",
+        "value": "1.97B",
         "demand": "8/10"
     },
     "TITANIC TIEDYE CAT (RAINBOW)": {
@@ -2212,11 +2212,11 @@
         "demand": "9/10"
     },
     "TITANIC TIEDYE DRAGON": {
-        "value": "1.82B",
+        "value": "1.93B",
         "demand": "7/10"
     },
     "TITANIC ATLANTEAN JELLYFISH": {
-        "value": "2.55B",
+        "value": "2.7B",
         "demand": "9/10"
     },
     "TITANIC ATLANTEAN JELLYFISH (RAINBOW)": {
@@ -2224,11 +2224,11 @@
         "demand": "7/10"
     },
     "TITANIC CAT": {
-        "value": "4.97B",
+        "value": "5.45B",
         "demand": "7/10"
     },
     "TITANIC COSMIC PEGASUS": {
-        "value": "1.71B",
+        "value": "1.95B",
         "demand": "8/10"
     },
     "TITANIC COSMIC PEGASUS (RAINBOW)": {
@@ -2236,7 +2236,7 @@
         "demand": "6/10"
     },
     "TITANIC FIRE DRAGON": {
-        "value": "1.93B",
+        "value": "2.06B",
         "demand": "9/10"
     },
     "TITANIC FIRE DRAGON (RAINBOW)": {
@@ -2244,7 +2244,7 @@
         "demand": "9/10"
     },
     "TITANIC SHADOW GRIFFIN": {
-        "value": "2.02B",
+        "value": "2.2B",
         "demand": "9/10"
     },
     "TITANIC SHADOW GRIFFIN (RAINBOW)": {
@@ -2252,7 +2252,7 @@
         "demand": "9/10"
     },
     "TITANIC SCARY CORGI": {
-        "value": "1.87B",
+        "value": "1.95B",
         "demand": "7/10"
     },
     "TITANIC SCARY CORGI (RAINBOW)": {
@@ -2260,7 +2260,7 @@
         "demand": "7/10"
     },
     "TITANIC BANANA CAT": {
-        "value": "1.48B",
+        "value": "1.6B",
         "demand": "6/10"
     },
     "TITANIC BANANA CAT (RAINBOW)": {
@@ -2268,7 +2268,7 @@
         "demand": "5/10"
     },
     "TITANIC FAWN": {
-        "value": "1.42B",
+        "value": "1.55B",
         "demand": "6/10"
     },
     "TITANIC FAWN (RAINBOW)": {
@@ -2276,7 +2276,7 @@
         "demand": "4/10"
     },
     "TITANIC REINDEER": {
-        "value": "1.45B",
+        "value": "1.57B",
         "demand": "6/10"
     },
     "TITANIC REINDEER (RAINBOW)": {
@@ -4060,7 +4060,7 @@
         "demand": "6/10"
     },
     "TITANIC SILVER DRAGON": {
-        "value": "2.13B",
+        "value": "2.3B",
         "demand": "9/10"
     },
     "UNICORN DRAGON": {
@@ -4244,7 +4244,7 @@
         "demand": "3/10"
     },
     "TITANIC CHEERFUL YETI": {
-        "value": "1.52B",
+        "value": "1.62B",
         "demand": "7/10"
     },
     "SHINY TITANIC CHEERFUL YETI": {
@@ -4280,11 +4280,11 @@
         "demand": "5/10"
     },
     "TITANIC MONKEY": {
-        "value": "1.59B",
+        "value": "1.75B",
         "demand": "7/10"
     },
     "TITANIC RED PANDA": {
-        "value": "1.58B",
+        "value": "1.72B",
         "demand": "6/10"
     },
     "HUGE FOX": {
@@ -4372,11 +4372,11 @@
         "demand": "5/10"
     },
     "TITANIC CORGI": {
-        "value": "1.58B",
+        "value": "1.7B",
         "demand": "7/10"
     },
     "TITANIC AXOLOTL": {
-        "value": "1.58B",
+        "value": "1.72B",
         "demand": "7/10"
     },
     "HUGE SENSEI PENGUIN": {
@@ -4420,7 +4420,7 @@
         "demand": "7/10"
     },
     "TITANIC EMOJI CORGI": {
-        "value": "1.93B",
+        "value": "2.05B",
         "demand": "8/10"
     },
     "TITANIC EMOJI CORGI (RAINBOW)": {
@@ -4780,7 +4780,7 @@
         "demand": "7/10"
     },
     "TITANIC LOVEMELON": {
-        "value": "3.65B",
+        "value": "3.8B",
         "demand": "8/10"
     },
     "SHINY HUGE HEART BALLOON CAT": {
@@ -4828,7 +4828,7 @@
         "demand": "7/10"
     },
     "TITANIC LOVE LAMB": {
-        "value": "1.7B",
+        "value": "1.97B",
         "demand": "8/10"
     },
     "HUGE HAPPY COMPUTER": {
