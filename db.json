@@ -64,7 +64,7 @@
         "demand": "5/10"
     },
     "HUGE HACKED CAT (RAINBOW)": {
-        "value": "93.4M",
+        "value": "91M",
         "demand": "6/10"
     },
     "HUGE GARGOYLE DRAGON": {
@@ -124,7 +124,7 @@
         "demand": "6/10"
     },
     "HUGE CUPCAKE (RAINBOW)": {
-        "value": "73.2M",
+        "value": "76M",
         "demand": "6/10"
     },
     "HUGE PONY": {
@@ -160,7 +160,7 @@
         "demand": "5/10"
     },
     "HUGE PIXEL CAT (RAINBOW)": {
-        "value": "74.1M",
+        "value": "75M",
         "demand": "6/10"
     },
     "HUGE EASTER CAT": {
@@ -228,7 +228,7 @@
         "demand": "6/10"
     },
     "HUGE HELL ROCK (RAINBOW)": {
-        "value": "53M",
+        "value": "51M",
         "demand": "7/10"
     },
     "HUGE CYBORG CAPYBARA": {
@@ -276,7 +276,7 @@
         "demand": "6/10"
     },
     "HUGE SCARY CAT (RAINBOW)": {
-        "value": "82.1M",
+        "value": "82M",
         "demand": "6/10"
     },
     "HUGE SCARY CORGI": {
@@ -288,7 +288,7 @@
         "demand": "6/10"
     },
     "HUGE SCARY CORGI (RAINBOW)": {
-        "value": "82.1M",
+        "value": "83M",
         "demand": "6/10"
     },
     "HUGE GRIM REAPER": {
@@ -392,7 +392,7 @@
         "demand": "5/10"
     },
     "HUGE SCARECROW CAT (RAINBOW)": {
-        "value": "82M",
+        "value": "83M",
         "demand": "6/10"
     },
     "HUGE LUCKI (GOLDEN)": {
@@ -444,7 +444,7 @@
         "demand": "6/10"
     },
     "HUGE ELF CAT (RAINBOW)": {
-        "value": "73.9M",
+        "value": "75.2M",
         "demand": "6/10"
     },
     "HUGE ELF DOG": {
@@ -476,7 +476,7 @@
         "demand": "5/10"
     },
     "HUGE JOLLY PENGUIN (RAINBOW)": {
-        "value": "82M",
+        "value": "81.5M",
         "demand": "6/10"
     },
     "HUGE SNOWMAN": {
@@ -500,7 +500,7 @@
         "demand": "5/10"
     },
     "HUGE MRS CLAWS (RAINBOW)": {
-        "value": "79.4M",
+        "value": "80.2M",
         "demand": "6/10"
     },
     "HUGE GRINCH CAT": {
@@ -608,7 +608,7 @@
         "demand": "5/10"
     },
     "HUGE PTERODACTYL (RAINBOW)": {
-        "value": "76.2M",
+        "value": "77.5M",
         "demand": "6/10"
     },
     "HUGE CHAMELEON": {
@@ -628,7 +628,7 @@
         "demand": "5/10"
     },
     "HUGE KING COBRA (RAINBOW)": {
-        "value": "81.3M",
+        "value": "82M",
         "demand": "7/10"
     },
     "HUGE PEACOCK": {
@@ -640,7 +640,7 @@
         "demand": "5/10"
     },
     "HUGE PEACOCK (RAINBOW)": {
-        "value": "65M",
+        "value": "66M",
         "demand": "6/10"
     },
     "HUGE ANGELUS": {
@@ -664,7 +664,7 @@
         "demand": "5/10"
     },
     "HUGE ORCA (RAINBOW)": {
-        "value": "110M",
+        "value": "120M",
         "demand": "6/10"
     },
     "HUGE PARTY AXOLOTL": {
@@ -688,7 +688,7 @@
         "demand": "5/10"
     },
     "HUGE CUPID CORGI (RAINBOW)": {
-        "value": "77.5M",
+        "value": "78M",
         "demand": "6/10"
     },
     "HUGE KNIFE CAT": {
@@ -816,7 +816,7 @@
         "demand": "5/10"
     },
     "HUGE CLOVER UNICORN (RAINBOW)": {
-        "value": "86.7M",
+        "value": "87M",
         "demand": "6/10"
     },
     "HUGE LEPRECHAUN CAT": {
@@ -828,7 +828,7 @@
         "demand": "5/10"
     },
     "HUGE LEPRECHAUN CAT (RAINBOW)": {
-        "value": "83.1M",
+        "value": "80.5M",
         "demand": "6/10"
     },
     "HUGE BREAD SHIBA": {
@@ -904,7 +904,7 @@
         "demand": "5/10"
     },
     "HUGE ERROR CAT (RAINBOW)": {
-        "value": "72.5M",
+        "value": "70M",
         "demand": "6/10"
     },
     "HUGE MARSHMALLOW AGONY": {
@@ -916,7 +916,7 @@
         "demand": "6/10"
     },
     "HUGE MARSHMALLOW AGONY (RAINBOW)": {
-        "value": "88.4M",
+        "value": "85.5M",
         "demand": "7/10"
     },
     "HUGE EASTER DOMINUS": {
@@ -1376,7 +1376,7 @@
         "demand": "6/10"
     },
     "HUGE HAPPY ROCK (RAINBOW)": {
-        "value": "53.2M",
+        "value": "50M",
         "demand": "7/10"
     },
     "HUGE VAMPIRE BAT": {
@@ -4838,6 +4838,10 @@
     "HUGE HAPPY COMPUTER (GOLDEN)": {
         "value": "21M",
         "demand": "5/10"
+    },
+    "HUGE HAPPY COMPUTER (RAINBOW)": {
+        "value": "49M",
+        "demand": "6/10"
     },
     "HUGE JELLY AXOLOTL": {
         "value": "39M",
