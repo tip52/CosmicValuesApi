@@ -2296,7 +2296,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE GREEN BALLOON CAT": {
-        "value": "115M",
+        "value": "125M",
         "demand": "5/10"
     },
     "SHINY HUGE WHITE BALLOON CAT": {
@@ -2332,7 +2332,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE GRINCH CAT": {
-        "value": "107.5M",
+        "value": "117.5M",
         "demand": "5/10"
     },
     "SHINY HUGE MRS CLAWS": {
@@ -2348,11 +2348,11 @@
         "demand": "4/10"
     },
     "SHINY HUGE ELF CAT": {
-        "value": "78M",
+        "value": "79M",
         "demand": "4/10"
     },
     "SHINY HUGE ELF DOG": {
-        "value": "78M",
+        "value": "79M",
         "demand": "4/10"
     },
     "SHINY HUGE DOG": {
@@ -2412,7 +2412,7 @@
         "demand": "5/10"
     },
     "SHINY HUGE KING COBRA": {
-        "value": "79M",
+        "value": "82M",
         "demand": "5/10"
     },
     "SHINY HUGE PEACOCK": {
@@ -2432,7 +2432,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE KNIFE CAT": {
-        "value": "85M",
+        "value": "88M",
         "demand": "6/10"
     },
     "SHINY HUGE SAFARI CAT": {
@@ -2460,7 +2460,7 @@
         "demand": "5/10"
     },
     "SHINY HUGE INFERNO DOMINUS": {
-        "value": "117.5M",
+        "value": "125M",
         "demand": "6/10"
     },
     "SHINY HUGE COMET AGONY": {
@@ -2484,23 +2484,23 @@
         "demand": "4/10"
     },
     "SHINY HUGE KAWAII CAT": {
-        "value": "250M",
+        "value": "265M",
         "demand": "6/10"
     },
     "SHINY HUGE KAWAII DRAGON": {
-        "value": "80M",
+        "value": "86M",
         "demand": "5/10"
     },
     "SHINY HUGE HOLOGRAM SHARK": {
-        "value": "97.5M",
+        "value": "100M",
         "demand": "5/10"
     },
     "SHINY HUGE HOLOGRAM AXOLOTL": {
-        "value": "120M",
+        "value": "130M",
         "demand": "5/10"
     },
     "SHINY HUGE ERROR CAT": {
-        "value": "74M",
+        "value": "75M",
         "demand": "4/10"
     },
     "SHINY HUGE MARSHMALLOW AGONY": {
@@ -2540,7 +2540,7 @@
         "demand": "4/10"
     },
     "SHINY HUGE GECKO": {
-        "value": "82M",
+        "value": "87M",
         "demand": "5/10"
     },
     "SHINY HUGE KRAKEN": {
@@ -2560,11 +2560,11 @@
         "demand": "6/10"
     },
     "SHINY HUGE JELLY PIG": {
-        "value": "250M",
+        "value": "265M",
         "demand": "7/10"
     },
     "SHINY HUGE JELLY CORGI": {
-        "value": "140M",
+        "value": "150M",
         "demand": "6/10"
     },
     "SHINY HUGE BASKETBALL RETRIEVER": {
@@ -2572,7 +2572,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE FIREFIGHTER DALMATIAN": {
-        "value": "120M",
+        "value": "130M",
         "demand": "6/10"
     },
     "SHINY HUGE NIGHTMARE SPIRIT": {
@@ -2728,7 +2728,7 @@
         "demand": "5/10"
     },
     "SHINY HUGE EXQUISITE PARROT": {
-        "value": "135M",
+        "value": "145M",
         "demand": "5/10"
     },
     "SHINY HUGE EXQUISITE CAT": {
@@ -2788,7 +2788,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE ENCHANTED DEER": {
-        "value": "74.5M",
+        "value": "75.5M",
         "demand": "4/10"
     },
     "SHINY HUGE SAPPHIRE PHOENIX": {
@@ -2824,7 +2824,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE GLEEBO THE ALIEN": {
-        "value": "260M",
+        "value": "280M",
         "demand": "5/10"
     },
     "SHINY TITANIC JOLLY CAT": {
@@ -4056,7 +4056,7 @@
         "demand": "5/10"
     },
     "SHINY HUGE EMPYREAN AGONY": {
-        "value": "135M",
+        "value": "145M",
         "demand": "6/10"
     },
     "TITANIC SILVER DRAGON": {
@@ -4332,7 +4332,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE HIPPOMELON": {
-        "value": "150M",
+        "value": "160M",
         "demand": "6/10"
     },
     "NYAN CAT": {
@@ -4404,7 +4404,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE EMOJI CAT": {
-        "value": "115M",
+        "value": "96.5M",
         "demand": "6/10"
     },
     "HUGE EMOJI MONKEY": {
@@ -4664,7 +4664,7 @@
         "demand": "5/10"
     },
     "SHINY HUGE GHOST": {
-        "value": "77M",
+        "value": "79M",
         "demand": "4/10"
     },
     "SHINY TITANIC SHADOW GRIFFIN": {
@@ -4854,6 +4854,14 @@
     "TITANIC JELLY DRAGON": {
         "value": "3.15B",
         "demand": "6/10"
+    },
+    "SHINY HUGE JELLY AXOLOTL": {
+        "value": "115M",
+        "demand": "6/10"
+    },
+    "SHINY HUGE JELLY MONKEY": {
+        "value": "230M",
+        "demand": "7/10"
     },
     "TECH KEY": {
         "value": "100K",
