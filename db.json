@@ -952,7 +952,7 @@
         "demand": "5/10"
     },
     "HUGE EASTER BUNNY (RAINBOW)": {
-        "value": "200M",
+        "value": "210M",
         "demand": "6/10"
     },
     "HUGE REDSTONE CAT": {
@@ -960,7 +960,7 @@
         "demand": "6/10"
     },
     "HUGE REDSTONE CAT (RAINBOW)": {
-        "value": "170M",
+        "value": "175M",
         "demand": "7/10"
     },
     "HUGE AMETHYST DRAGON": {
@@ -968,7 +968,7 @@
         "demand": "7/10"
     },
     "HUGE AMETHYST DRAGON (RAINBOW)": {
-        "value": "280M",
+        "value": "285M",
         "demand": "7/10"
     },
     "HUGE EASTER YETI": {
@@ -980,7 +980,7 @@
         "demand": "5/10"
     },
     "HUGE EASTER YETI (RAINBOW)": {
-        "value": "80M",
+        "value": "79.5M",
         "demand": "6/10"
     },
     "HUGE GOBLIN": {
@@ -992,7 +992,7 @@
         "demand": "5/10"
     },
     "HUGE GOBLIN (RAINBOW)": {
-        "value": "70.5M",
+        "value": "68M",
         "demand": "5/10"
     },
     "HUGE COLORFUL SLIME": {
@@ -1004,7 +1004,7 @@
         "demand": "5/10"
     },
     "HUGE COLORFUL SLIME (RAINBOW)": {
-        "value": "67M",
+        "value": "66.5M",
         "demand": "6/10"
     },
     "HUGE GECKO": {
@@ -1036,7 +1036,7 @@
         "demand": "7/10"
     },
     "HUGE M10 PROTOTYPE (RAINBOW)": {
-        "value": "250M",
+        "value": "260M",
         "demand": "6/10"
     },
     "HUGE PINATA CAT": {
@@ -1060,7 +1060,7 @@
         "demand": "6/10"
     },
     "HUGE COOL CAT (RAINBOW)": {
-        "value": "430M",
+        "value": "440M",
         "demand": "7/10"
     },
     "HUGE SAFARI DOG": {
@@ -1088,7 +1088,7 @@
         "demand": "7/10"
     },
     "HUGE JELLY CORGI (RAINBOW)": {
-        "value": "285M",
+        "value": "290M",
         "demand": "7/10"
     },
     "HUGE SOMBRERO CHIHUAHUA": {
@@ -1112,7 +1112,7 @@
         "demand": "6/10"
     },
     "HUGE PARTY PENGUIN (RAINBOW)": {
-        "value": "440M",
+        "value": "450M",
         "demand": "7/10"
     },
     "HUGE BASKETBALL RETRIEVER": {
@@ -1136,7 +1136,7 @@
         "demand": "6/10"
     },
     "HUGE FIREFIGHTER DALMATIAN (RAINBOW)": {
-        "value": "135M",
+        "value": "150M",
         "demand": "7/10"
     },
     "HUGE NIGHTMARE SPIRIT": {
@@ -1144,7 +1144,7 @@
         "demand": "6/10"
     },
     "HUGE NIGHTMARE SPIRIT (RAINBOW)": {
-        "value": "185M",
+        "value": "195M",
         "demand": "6/10"
     },
     "HUGE NIGHTMARE KRAKEN": {
@@ -1152,7 +1152,7 @@
         "demand": "7/10"
     },
     "HUGE NIGHTMARE KRAKEN (RAINBOW)": {
-        "value": "280M",
+        "value": "290M",
         "demand": "7/10"
     },
     "HUGE PIRATE PARROT": {
@@ -1164,7 +1164,7 @@
         "demand": "5/10"
     },
     "HUGE PIRATE PARROT (RAINBOW)": {
-        "value": "192.5M",
+        "value": "200M",
         "demand": "7/10"
     },
     "HUGE SAILOR SHARK": {
@@ -1176,7 +1176,7 @@
         "demand": "6/10"
     },
     "HUGE SAILOR SHARK (RAINBOW)": {
-        "value": "365M",
+        "value": "380M",
         "demand": "7/10"
     },
     "HUGE PINEAPPLE CAT": {
@@ -1188,7 +1188,7 @@
         "demand": "6/10"
     },
     "HUGE PINEAPPLE CAT (RAINBOW)": {
-        "value": "73M",
+        "value": "72.5M",
         "demand": "6/10"
     },
     "HUGE GAMER SHIBA": {
@@ -1252,7 +1252,7 @@
         "demand": "6/10"
     },
     "HUGE ATLANTEAN ORCA (RAINBOW)": {
-        "value": "220M",
+        "value": "230M",
         "demand": "6/10"
     },
     "HUGE ATLANTEAN DOLPHIN": {
@@ -1260,7 +1260,7 @@
         "demand": "7/10"
     },
     "HUGE ATLANTEAN DOLPHIN (RAINBOW)": {
-        "value": "400M",
+        "value": "415M",
         "demand": "7/10"
     },
     "HUGE LUAU CAT": {
@@ -1272,7 +1272,7 @@
         "demand": "6/10"
     },
     "HUGE LUAU CAT (RAINBOW)": {
-        "value": "145M",
+        "value": "150M",
         "demand": "6/10"
     },
     "HUGE SANDCASTLE CAT": {
@@ -1296,8 +1296,8 @@
         "demand": "5/10"
     },
     "HUGE ARCADE CAT (RAINBOW)": {
-        "value": "225M",
-        "demand": "6/10"
+        "value": "235M",
+        "demand": "7/10"
     },
     "HUGE SUN ANGELUS": {
         "value": "58M",
@@ -1308,7 +1308,7 @@
         "demand": "5/10"
     },
     "HUGE SUN ANGELUS (RAINBOW)": {
-        "value": "225M",
+        "value": "230M",
         "demand": "7/10"
     },
     "HUGE PARTY MONKEY": {
@@ -1344,15 +1344,15 @@
         "demand": "6/10"
     },
     "HUGE COSMIC AGONY (RAINBOW)": {
-        "value": "360M",
-        "demand": "7/10"
+        "value": "380M",
+        "demand": "8/10"
     },
     "HUGE COSMIC AXOLOTL": {
         "value": "26.5M",
         "demand": "5/10"
     },
     "HUGE COSMIC AXOLOTL (RAINBOW)": {
-        "value": "195M",
+        "value": "210M",
         "demand": "6/10"
     },
     "HUGE LUCKI AGONY": {
@@ -1376,7 +1376,7 @@
         "demand": "6/10"
     },
     "HUGE HAPPY ROCK (RAINBOW)": {
-        "value": "50M",
+        "value": "51.2M",
         "demand": "7/10"
     },
     "HUGE VAMPIRE BAT": {
