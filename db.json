@@ -324,7 +324,7 @@
         "demand": "7/10"
     },
     "HUGE INFERNO CAT (RAINBOW)": {
-        "value": "825M",
+        "value": "750M",
         "demand": "5/10"
     },
     "HUGE BALLOON CAT": {
@@ -1024,11 +1024,11 @@
         "demand": "6/10"
     },
     "HUGE KRAKEN (GOLDEN)": {
-        "value": "300M",
+        "value": "340M",
         "demand": "6/10"
     },
     "HUGE KRAKEN (RAINBOW)": {
-        "value": "900M",
+        "value": "1.1B",
         "demand": "7/10"
     },
     "HUGE M10 PROTOTYPE": {
@@ -2620,7 +2620,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE SUN ANGELUS": {
-        "value": "145M",
+        "value": "155M",
         "demand": "6/10"
     },
     "SHINY HUGE ARCADE CAT": {
@@ -2628,7 +2628,7 @@
         "demand": "5/10"
     },
     "SHINY HUGE WILD FIRE AGONY": {
-        "value": "160M",
+        "value": "170M",
         "demand": "6/10"
     },
     "SHINY HUGE COSMIC AXOLOTL": {
@@ -2648,23 +2648,23 @@
         "demand": "5/10"
     },
     "SHINY HUGE VAMPIRE BAT": {
-        "value": "120M",
+        "value": "130M",
         "demand": "6/10"
     },
     "SHINY HUGE TIEDYE AXOLOTL": {
-        "value": "180M",
+        "value": "190M",
         "demand": "4/10"
     },
     "SHINY HUGE TIEDYE BUNNY": {
-        "value": "140M",
+        "value": "150M",
         "demand": "3/10"
     },
     "SHINY HUGE TIEDYE CAT": {
-        "value": "105M",
+        "value": "115M",
         "demand": "5/10"
     },
     "SHINY HUGE TIEDYE CORGI": {
-        "value": "107.5M",
+        "value": "117.5M",
         "demand": "5/10"
     },
     "SHINY HUGE CRYSTAL DOG": {
@@ -2708,7 +2708,7 @@
         "demand": "5/10"
     },
     "SHINY HUGE STEALTH DRAGON": {
-        "value": "110M",
+        "value": "120M",
         "demand": "6/10"
     },
     "SHINY HUGE STEALTH BOBCAT": {
@@ -2796,7 +2796,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE TECHNO CAT": {
-        "value": "82M",
+        "value": "87M",
         "demand": "6/10"
     },
     "SHINY HUGE CHEERFUL YETI": {
@@ -4356,7 +4356,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE ZEBRA": {
-        "value": "87M",
+        "value": "77M",
         "demand": "5/10"
     },
     "SHINY HUGE HOLIDAY PEGASUS": {
@@ -4660,7 +4660,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE STRAWBERRY CORGI": {
-        "value": "84M",
+        "value": "87M",
         "demand": "5/10"
     },
     "SHINY HUGE GHOST": {
