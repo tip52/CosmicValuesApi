@@ -220,15 +220,15 @@
         "demand": "6/10"
     },
     "HUGE HELL ROCK": {
-        "value": "15.9M",
+        "value": "18.2M",
         "demand": "6/10"
     },
     "HUGE HELL ROCK (GOLDEN)": {
-        "value": "20M",
+        "value": "22.6M",
         "demand": "6/10"
     },
     "HUGE HELL ROCK (RAINBOW)": {
-        "value": "51M",
+        "value": "54M",
         "demand": "7/10"
     },
     "HUGE CYBORG CAPYBARA": {
@@ -468,11 +468,11 @@
         "demand": "6/10"
     },
     "HUGE JOLLY PENGUIN": {
-        "value": "18.7M",
+        "value": "19.6M",
         "demand": "5/10"
     },
     "HUGE JOLLY PENGUIN (GOLDEN)": {
-        "value": "28M",
+        "value": "27M",
         "demand": "5/10"
     },
     "HUGE JOLLY PENGUIN (RAINBOW)": {
@@ -492,11 +492,11 @@
         "demand": "7/10"
     },
     "HUGE MRS CLAWS": {
-        "value": "23.25M",
+        "value": "23.5M",
         "demand": "5/10"
     },
     "HUGE MRS CLAWS (GOLDEN)": {
-        "value": "34M",
+        "value": "32.75M",
         "demand": "5/10"
     },
     "HUGE MRS CLAWS (RAINBOW)": {
@@ -832,11 +832,11 @@
         "demand": "6/10"
     },
     "HUGE BREAD SHIBA": {
-        "value": "520M",
+        "value": "510M",
         "demand": "7/10"
     },
     "HUGE BREAD SHIBA (GOLDEN)": {
-        "value": "650M",
+        "value": "640M",
         "demand": "7/10"
     },
     "HUGE BREAD SHIBA (RAINBOW)": {
@@ -1240,11 +1240,11 @@
         "demand": "7/10"
     },
     "HUGE BUTTERFLY": {
-        "value": "650M",
+        "value": "630M",
         "demand": "8/10"
     },
     "HUGE BUTTERFLY (GOLDEN)": {
-        "value": "1.2B",
+        "value": "1.3B",
         "demand": "6/10"
     },
     "HUGE ATLANTEAN ORCA": {
@@ -1312,7 +1312,7 @@
         "demand": "7/10"
     },
     "HUGE PARTY MONKEY": {
-        "value": "140M",
+        "value": "130M",
         "demand": "6/10"
     },
     "HUGE PARTY MONKEY (GOLDEN)": {
@@ -1324,7 +1324,7 @@
         "demand": "7/10"
     },
     "HUGE STUNT UNICORN": {
-        "value": "1.2B",
+        "value": "1.4B",
         "demand": "5/10"
     },
     "HUGE WILD FIRE AGONY": {
@@ -1368,7 +1368,7 @@
         "demand": "8/10"
     },
     "HUGE HAPPY ROCK": {
-        "value": "16.2M",
+        "value": "16.8M",
         "demand": "6/10"
     },
     "HUGE HAPPY ROCK (GOLDEN)": {
@@ -1376,7 +1376,7 @@
         "demand": "6/10"
     },
     "HUGE HAPPY ROCK (RAINBOW)": {
-        "value": "51.2M",
+        "value": "53M",
         "demand": "7/10"
     },
     "HUGE VAMPIRE BAT": {
@@ -1496,7 +1496,7 @@
         "demand": "6/10"
     },
     "HUGE TIEDYE CORGI (RAINBOW)": {
-        "value": "150M",
+        "value": "165M",
         "demand": "7/10"
     },
     "HUGE TIEDYE CAT": {
@@ -1508,7 +1508,7 @@
         "demand": "6/10"
     },
     "HUGE TIEDYE CAT (RAINBOW)": {
-        "value": "135M",
+        "value": "160M",
         "demand": "6/10"
     },
     "HUGE TIEDYE BUNNY": {
@@ -1560,7 +1560,7 @@
         "demand": "5/10"
     },
     "HUGE EXQUISITE CAT": {
-        "value": "54M",
+        "value": "50M",
         "demand": "6/10"
     },
     "HUGE EXQUISITE CAT (GOLDEN)": {
@@ -1572,7 +1572,7 @@
         "demand": "7/10"
     },
     "HUGE EXQUISITE PARROT": {
-        "value": "32M",
+        "value": "31M",
         "demand": "5/10"
     },
     "HUGE EXQUISITE PARROT (GOLDEN)": {
@@ -1580,7 +1580,7 @@
         "demand": "6/10"
     },
     "HUGE EXQUISITE PARROT (RAINBOW)": {
-        "value": "165M",
+        "value": "180M",
         "demand": "6/10"
     },
     "HUGE MASKED OWL": {
@@ -2050,6 +2050,10 @@
     "HUGE FIRE HORSE": {
         "value": "38M",
         "demand": "6/10"
+    },
+    "HUGE FIRE HORSE (GOLDEN)": {
+        "value": "250M",
+        "demand": "5/10"
     },
     "HUGE POSEIDON CORGI": {
         "value": "16.7M",
@@ -2692,7 +2696,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE ANIME AGONY": {
-        "value": "1.15B",
+        "value": "1.25B",
         "demand": "6/10"
     },
     "SHINY HUGE PUMPKIN CAT": {
@@ -3376,7 +3380,7 @@
         "demand": "6/10"
     },
     "HUGE EVOLVED HELL ROCK": {
-        "value": "19M",
+        "value": "22.8M",
         "demand": "5/10"
     },
     "HUGE EVOLVED HELL ROCK (RAINBOW)": {
@@ -4124,7 +4128,7 @@
         "demand": "8/10"
     },
     "HUGE JOLLY NARWHAL": {
-        "value": "18.2M",
+        "value": "18.5M",
         "demand": "5/10"
     },
     "HUGE PROPELLER CAT": {
@@ -4832,23 +4836,23 @@
         "demand": "8/10"
     },
     "HUGE HAPPY COMPUTER": {
-        "value": "16.15M",
+        "value": "16.6M",
         "demand": "5/10"
     },
     "HUGE HAPPY COMPUTER (GOLDEN)": {
-        "value": "21M",
+        "value": "24M",
         "demand": "5/10"
     },
     "HUGE HAPPY COMPUTER (RAINBOW)": {
-        "value": "47.5M",
+        "value": "56M",
         "demand": "6/10"
     },
     "HUGE JELLY AXOLOTL": {
-        "value": "39M",
+        "value": "37.5M",
         "demand": "6/10"
     },
     "HUGE JELLY MONKEY": {
-        "value": "50M",
+        "value": "48M",
         "demand": "7/10"
     },
     "TITANIC JELLY DRAGON": {
