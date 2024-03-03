@@ -2148,7 +2148,7 @@
         "demand": "7/10"
     },
     "TITANIC HUBERT": {
-        "value": "1.93B",
+        "value": "2.03B",
         "demand": "7/10"
     },
     "TITANIC HUBERT (RAINBOW)": {
@@ -2156,8 +2156,8 @@
         "demand": "6/10"
     },
     "TITANIC DOMINUS ASTRA": {
-        "value": "1.89B",
-        "demand": "7/10"
+        "value": "1.99B",
+        "demand": "6/10"
     },
     "TITANIC DOMINUS ASTRA (RAINBOW)": {
         "value": "11.2B",
@@ -2168,8 +2168,8 @@
         "demand": "8/10"
     },
     "TITANIC HOLOGRAM CAT": {
-        "value": "1.9B",
-        "demand": "7/10"
+        "value": "2B",
+        "demand": "6/10"
     },
     "TITANIC HOLOGRAM CAT (RAINBOW)": {
         "value": "12B",
@@ -4284,7 +4284,7 @@
         "demand": "5/10"
     },
     "TITANIC MONKEY": {
-        "value": "1.81B",
+        "value": "1.91B",
         "demand": "7/10"
     },
     "TITANIC RED PANDA": {
