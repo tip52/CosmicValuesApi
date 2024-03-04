@@ -5082,5 +5082,17 @@
     "CRITICALS VII ENCHANT": {
         "value": "100K",
         "demand": "2/10"
+    },
+    "TITANIC LOVE LAMB (RAINBOW)": {
+        "value": "11.05B",
+        "demand": "8/10"
+    },
+    "SHINY TITANIC LOVE LAMB": {
+        "value": "5.1B",
+        "demand": "7/10"
+    },
+    "TITANIC VALENTINES CAT (RAINBOW)": {
+        "value": "8.5B",
+        "demand": "7/10"
     }
 }
