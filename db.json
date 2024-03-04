@@ -480,11 +480,11 @@
         "demand": "6/10"
     },
     "HUGE SNOWMAN": {
-        "value": "60M",
+        "value": "40M",
         "demand": "6/10"
     },
     "HUGE SNOWMAN (GOLDEN)": {
-        "value": "50M",
+        "value": "60M",
         "demand": "6/10"
     },
     "HUGE SNOWMAN (RAINBOW)": {
@@ -504,7 +504,7 @@
         "demand": "6/10"
     },
     "HUGE GRINCH CAT": {
-        "value": "30M",
+        "value": "31M",
         "demand": "6/10"
     },
     "HUGE GRINCH CAT (RAINBOW)": {
@@ -512,7 +512,7 @@
         "demand": "6/10"
     },
     "HUGE PRESENT CHEST MIMIC": {
-        "value": "42.5M",
+        "value": "41.5M",
         "demand": "6/10"
     },
     "HUGE PRESENT CHEST MIMIC (RAINBOW)": {
@@ -520,15 +520,15 @@
         "demand": "7/10"
     },
     "HUGE PARTY CROWN DUCKY": {
-        "value": "30M",
+        "value": "31.5M",
         "demand": "6/10"
     },
     "HUGE PARTY CROWN DUCKY (GOLDEN)": {
-        "value": "43M",
+        "value": "60M",
         "demand": "6/10"
     },
     "HUGE PARTY CROWN DUCKY (RAINBOW)": {
-        "value": "190M",
+        "value": "215M",
         "demand": "7/10"
     },
     "HUGE BALLOON AXOLOTL": {
@@ -540,7 +540,7 @@
         "demand": "8/10"
     },
     "HUGE BALLOON DRAGON": {
-        "value": "30M",
+        "value": "36M",
         "demand": "5/10"
     },
     "HUGE BALLOON DRAGON (RAINBOW)": {
@@ -560,7 +560,7 @@
         "demand": "7/10"
     },
     "HUGE DOODLE CAT": {
-        "value": "17.5M",
+        "value": "22M",
         "demand": "5/10"
     },
     "HUGE DOODLE CAT (GOLDEN)": {
@@ -568,19 +568,19 @@
         "demand": "5/10"
     },
     "HUGE DOODLE CAT (RAINBOW)": {
-        "value": "105M",
+        "value": "100M",
         "demand": "7/10"
     },
     "HUGE NEON CAT": {
-        "value": "25.2M",
+        "value": "30M",
         "demand": "6/10"
     },
     "HUGE NEON CAT (RAINBOW)": {
-        "value": "200M",
+        "value": "205M",
         "demand": "7/10"
     },
     "HUGE NEON GRIFFIN": {
-        "value": "35M",
+        "value": "38.5M",
         "demand": "6/10"
     },
     "HUGE NEON GRIFFIN (RAINBOW)": {
@@ -588,19 +588,19 @@
         "demand": "7/10"
     },
     "HUGE DOODLE FAIRY": {
-        "value": "21.4M",
+        "value": "22M",
         "demand": "5/10"
     },
     "HUGE DOODLE FAIRY (GOLDEN)": {
-        "value": "29M",
+        "value": "30M",
         "demand": "5/10"
     },
     "HUGE DOODLE FAIRY (RAINBOW)": {
-        "value": "103M",
+        "value": "110M",
         "demand": "6/10"
     },
     "HUGE PTERODACTYL": {
-        "value": "18.75M",
+        "value": "19M",
         "demand": "5/10"
     },
     "HUGE PTERODACTYL (GOLDEN)": {
@@ -608,11 +608,11 @@
         "demand": "5/10"
     },
     "HUGE PTERODACTYL (RAINBOW)": {
-        "value": "76M",
+        "value": "78.5M",
         "demand": "6/10"
     },
     "HUGE CHAMELEON": {
-        "value": "28M",
+        "value": "31M",
         "demand": "6/10"
     },
     "HUGE CHAMELEON (RAINBOW)": {
@@ -620,11 +620,11 @@
         "demand": "6/10"
     },
     "HUGE KING COBRA": {
-        "value": "18.6M",
+        "value": "19.5M",
         "demand": "5/10"
     },
     "HUGE KING COBRA (GOLDEN)": {
-        "value": "27.5M",
+        "value": "32.5M",
         "demand": "5/10"
     },
     "HUGE KING COBRA (RAINBOW)": {
@@ -632,23 +632,23 @@
         "demand": "7/10"
     },
     "HUGE PEACOCK": {
-        "value": "16M",
+        "value": "18.5M",
         "demand": "5/10"
     },
     "HUGE PEACOCK (GOLDEN)": {
-        "value": "24M",
+        "value": "25M",
         "demand": "5/10"
     },
     "HUGE PEACOCK (RAINBOW)": {
-        "value": "68.2M",
+        "value": "70M",
         "demand": "6/10"
     },
     "HUGE ANGELUS": {
-        "value": "590M",
+        "value": "570M",
         "demand": "8/10"
     },
     "HUGE ANGELUS (GOLDEN)": {
-        "value": "1.6B",
+        "value": "1.85B",
         "demand": "7/10"
     },
     "HUGE ANGELUS (RAINBOW)": {
@@ -4052,7 +4052,7 @@
         "demand": "6/10"
     },
     "HUGE CHAMELEON (GOLDEN)": {
-        "value": "80M",
+        "value": "85M",
         "demand": "6/10"
     },
     "SHINY HUGE NINJA AXOLOTL": {
