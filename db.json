@@ -116,19 +116,19 @@
         "demand": "7/10"
     },
     "HUGE CUPCAKE": {
-        "value": "16M",
+        "value": "19.5M",
         "demand": "5/10"
     },
     "HUGE CUPCAKE (GOLDEN)": {
-        "value": "24.5M",
+        "value": "25.5M",
         "demand": "6/10"
     },
     "HUGE CUPCAKE (RAINBOW)": {
-        "value": "77.7M",
+        "value": "80M",
         "demand": "6/10"
     },
     "HUGE PONY": {
-        "value": "37M",
+        "value": "38M",
         "demand": "6/10"
     },
     "HUGE PONY (GOLDEN)": {
@@ -140,11 +140,11 @@
         "demand": "7/10"
     },
     "HUGE STORM AGONY": {
-        "value": "200M",
+        "value": "195M",
         "demand": "8/10"
     },
     "HUGE STORM AGONY (GOLDEN)": {
-        "value": "400M",
+        "value": "410M",
         "demand": "7/10"
     },
     "HUGE STORM AGONY (RAINBOW)": {
@@ -160,7 +160,7 @@
         "demand": "5/10"
     },
     "HUGE PIXEL CAT (RAINBOW)": {
-        "value": "74.3M",
+        "value": "77.5M",
         "demand": "6/10"
     },
     "HUGE EASTER CAT": {
@@ -176,7 +176,7 @@
         "demand": "7/10"
     },
     "HUGE SUPER CORGI": {
-        "value": "29M",
+        "value": "32M",
         "demand": "6/10"
     },
     "HUGE SUPER CORGI (GOLDEN)": {
@@ -192,7 +192,7 @@
         "demand": "6/10"
     },
     "HUGE RAINBOW UNICORN (GOLDEN)": {
-        "value": "95.2M",
+        "value": "100M",
         "demand": "6/10"
     },
     "HUGE RAINBOW UNICORN (RAINBOW)": {
@@ -200,11 +200,11 @@
         "demand": "6/10"
     },
     "HUGE FLOPPA": {
-        "value": "32M",
+        "value": "35M",
         "demand": "6/10"
     },
     "HUGE FLOPPA (GOLDEN)": {
-        "value": "40.5M",
+        "value": "43M",
         "demand": "5/10"
     },
     "HUGE FLOPPA (RAINBOW)": {
@@ -216,7 +216,7 @@
         "demand": "7/10"
     },
     "HUGE SLEIPNIR (GOLDEN)": {
-        "value": "90M",
+        "value": "105M",
         "demand": "6/10"
     },
     "HUGE HELL ROCK": {
@@ -228,11 +228,11 @@
         "demand": "6/10"
     },
     "HUGE HELL ROCK (RAINBOW)": {
-        "value": "54M",
+        "value": "65M",
         "demand": "7/10"
     },
     "HUGE CYBORG CAPYBARA": {
-        "value": "115M",
+        "value": "110M",
         "demand": "7/10"
     },
     "HUGE CYBORG CAPYBARA (GOLDEN)": {
@@ -244,7 +244,7 @@
         "demand": "7/10"
     },
     "HUGE CAPYBARA": {
-        "value": "105M",
+        "value": "100M",
         "demand": "7/10"
     },
     "HUGE CAPYBARA (GOLDEN)": {
@@ -256,11 +256,11 @@
         "demand": "7/10"
     },
     "HUGE PARTY CAT": {
-        "value": "43M",
+        "value": "41M",
         "demand": "6/10"
     },
     "HUGE PARTY CAT (GOLDEN)": {
-        "value": "60M",
+        "value": "80M",
         "demand": "6/10"
     },
     "HUGE PARTY CAT (RAINBOW)": {
@@ -268,35 +268,35 @@
         "demand": "6/10"
     },
     "HUGE SCARY CAT": {
-        "value": "19.5M",
+        "value": "20.5M",
         "demand": "6/10"
     },
     "HUGE SCARY CAT (GOLDEN)": {
-        "value": "32M",
+        "value": "32.5M",
         "demand": "6/10"
     },
     "HUGE SCARY CAT (RAINBOW)": {
-        "value": "81M",
+        "value": "85M",
         "demand": "6/10"
     },
     "HUGE SCARY CORGI": {
-        "value": "20.75M",
+        "value": "22.5M",
         "demand": "6/10"
     },
     "HUGE SCARY CORGI (GOLDEN)": {
-        "value": "29M",
+        "value": "30M",
         "demand": "6/10"
     },
     "HUGE SCARY CORGI (RAINBOW)": {
-        "value": "81M",
+        "value": "85M",
         "demand": "6/10"
     },
     "HUGE GRIM REAPER": {
-        "value": "87.5M",
+        "value": "85M",
         "demand": "7/10"
     },
     "HUGE GRIM REAPER (GOLDEN)": {
-        "value": "110M",
+        "value": "115M",
         "demand": "6/10"
     },
     "HUGE GRIM REAPER (RAINBOW)": {
@@ -304,7 +304,7 @@
         "demand": "7/10"
     },
     "HUGE PRICKLY PANDA": {
-        "value": "165M",
+        "value": "157.5M",
         "demand": "7/10"
     },
     "HUGE PRICKLY PANDA (GOLDEN)": {
@@ -316,19 +316,19 @@
         "demand": "7/10"
     },
     "HUGE INFERNO CAT": {
-        "value": "400M",
+        "value": "380M",
         "demand": "8/10"
     },
     "HUGE INFERNO CAT (GOLDEN)": {
-        "value": "450M",
+        "value": "425M",
         "demand": "7/10"
     },
     "HUGE INFERNO CAT (RAINBOW)": {
-        "value": "760M",
+        "value": "775M",
         "demand": "5/10"
     },
     "HUGE BALLOON CAT": {
-        "value": "36M",
+        "value": "37.5M",
         "demand": "6/10"
     },
     "HUGE BALLOON CAT (GOLDEN)": {
@@ -336,7 +336,7 @@
         "demand": "5/10"
     },
     "HUGE BALLOON CAT (RAINBOW)": {
-        "value": "160M",
+        "value": "170M",
         "demand": "7/10"
     },
     "HUGE BLUE BALLOON CAT": {
@@ -348,11 +348,11 @@
         "demand": "7/10"
     },
     "HUGE GREEN BALLOON CAT": {
-        "value": "42M",
+        "value": "43M",
         "demand": "6/10"
     },
     "HUGE NEON TWILIGHT DRAGON": {
-        "value": "135M",
+        "value": "145M",
         "demand": "7/10"
     },
     "HUGE NEON TWILIGHT DRAGON (GOLDEN)": {
@@ -360,7 +360,7 @@
         "demand": "6/10"
     },
     "HUGE NEON TWILIGHT DRAGON (RAINBOW)": {
-        "value": "1.5B",
+        "value": "1.6B",
         "demand": "7/10"
     },
     "HUGE NEON TWILIGHT WOLF": {
