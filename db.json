@@ -5126,5 +5126,21 @@
     "HUGE WILLOW WISP (GOLDEN)": {
         "value": "40M",
         "demand": "5/10"
+    },
+    "HUGE WILLOW WISP (RAINBOW)": {
+        "value": "125M",
+        "demand": "7/10"
+    },
+    "HUGE RED FLUFFY": {
+        "value": "60M",
+        "demand": "7/10"
+    },
+    "HUGE PASTEL ELEPHANT": {
+        "value": "30M",
+        "demand": "6/10"
+    },
+    "HUGE PASTEL ELEPHANT (GOLDEN)": {
+        "value": "50M",
+        "demand": "4/10"
     }
 }
