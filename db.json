@@ -5142,5 +5142,45 @@
     "HUGE PASTEL ELEPHANT (GOLDEN)": {
         "value": "50M",
         "demand": "4/10"
+    },
+    "HUGE KOI FISH": {
+        "value": "35M",
+        "demand": "4/10"
+    },
+    "HUGE KOI FISH (GOLDEN)": {
+        "value": "55M",
+        "demand": "5/10"
+    },
+    "HUGE KOI FISH (RAINBOW)": {
+        "value": "95M",
+        "demand": "5/10"
+    },
+    "HUGE ELEPHANT": {
+        "value": "40M",
+        "demand": "4/10"
+    },
+    "HUGE ELEPHANT (GOLDEN)": {
+        "value": "65M",
+        "demand": "4/10"
+    },
+    "HUGE BEE": {
+        "value": "35M",
+        "demand": "4/10"
+    },
+    "HUGE BEE (GOLDEN)": {
+        "value": "45M",
+        "demand": "5/10"
+    },
+    "HUGE BEE (RAINBOW)": {
+        "value": "90M",
+        "demand": "6/10"
+    },
+    "SHINY HUGE HAPPY COMPUTER": {
+        "value": "55M",
+        "demand": "7/10"
+    },
+    "HUGE COLORFUL WISP": {
+        "value": "30M",
+        "demand": "6/10"
     }
 }
