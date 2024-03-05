@@ -1800,43 +1800,43 @@
         "demand": "6/10"
     },
     "HUGE CHEERFUL YETI": {
-        "value": "35M",
+        "value": "36.25M",
         "demand": "6/10"
     },
     "HUGE CHEERFUL YETI (GOLDEN)": {
-        "value": "40M",
+        "value": "42M",
         "demand": "6/10"
     },
     "HUGE CHEERFUL YETI (RAINBOW)": {
-        "value": "210M",
+        "value": "230M",
         "demand": "7/10"
     },
     "HUGE CORGI": {
-        "value": "34M",
+        "value": "37M",
         "demand": "5/10"
     },
     "HUGE CORGI (GOLDEN)": {
-        "value": "42.5M",
+        "value": "45M",
         "demand": "6/10"
     },
     "HUGE CORGI (RAINBOW)": {
-        "value": "305M",
+        "value": "320M",
         "demand": "7/10"
     },
     "HUGE DUCKY": {
-        "value": "45M",
+        "value": "42M",
         "demand": "5/10"
     },
     "HUGE DUCKY (GOLDEN)": {
-        "value": "50M",
+        "value": "55M",
         "demand": "6/10"
     },
     "HUGE DUCKY (RAINBOW)": {
-        "value": "315M",
+        "value": "325M",
         "demand": "7/10"
     },
     "HUGE SKELETON": {
-        "value": "22.25M",
+        "value": "23M",
         "demand": "5/10"
     },
     "HUGE SKELETON (GOLDEN)": {
@@ -1844,91 +1844,91 @@
         "demand": "5/10"
     },
     "HUGE SKELETON (RAINBOW)": {
-        "value": "110M",
+        "value": "125M",
         "demand": "5/10"
     },
     "HUGE GHOST": {
-        "value": "20.4M",
+        "value": "21M",
         "demand": "5/10"
     },
     "HUGE GHOST (GOLDEN)": {
-        "value": "27.5M",
+        "value": "35M",
         "demand": "5/10"
     },
     "HUGE GHOST (RAINBOW)": {
-        "value": "105M",
+        "value": "110M",
         "demand": "5/10"
     },
     "HUGE MONKEY": {
-        "value": "115M",
+        "value": "117.5M",
         "demand": "7/10"
     },
     "HUGE MONKEY (GOLDEN)": {
-        "value": "140M",
-        "demand": "6/10"
-    },
-    "HUGE MONKEY (RAINBOW)": {
-        "value": "1.3B",
-        "demand": "7/10"
-    },
-    "HUGE AXOLOTL": {
-        "value": "120M",
-        "demand": "6/10"
-    },
-    "HUGE AXOLOTL (GOLDEN)": {
         "value": "150M",
         "demand": "6/10"
     },
+    "HUGE MONKEY (RAINBOW)": {
+        "value": "1.32B",
+        "demand": "7/10"
+    },
+    "HUGE AXOLOTL": {
+        "value": "110M",
+        "demand": "6/10"
+    },
+    "HUGE AXOLOTL (GOLDEN)": {
+        "value": "130M",
+        "demand": "6/10"
+    },
     "HUGE AXOLOTL (RAINBOW)": {
-        "value": "1.8B",
+        "value": "1.9B",
         "demand": "8/10"
     },
     "HUGE REINDEER AXOLOTL": {
-        "value": "62M",
+        "value": "62.5M",
         "demand": "6/10"
     },
     "HUGE REINDEER AXOLOTL (GOLDEN)": {
-        "value": "70M",
+        "value": "90M",
         "demand": "6/10"
     },
     "HUGE REINDEER AXOLOTL (RAINBOW)": {
-        "value": "440M",
+        "value": "455M",
         "demand": "7/10"
     },
     "HUGE REINDEER DOG": {
-        "value": "53M",
+        "value": "53.5M",
         "demand": "5/10"
     },
     "HUGE REINDEER DOG (GOLDEN)": {
-        "value": "70M",
+        "value": "90M",
         "demand": "6/10"
     },
     "HUGE REINDEER DOG (RAINBOW)": {
-        "value": "450M",
+        "value": "465M",
         "demand": "7/10"
     },
     "HUGE SANTA DRAGON": {
-        "value": "50M",
+        "value": "52M",
         "demand": "6/10"
     },
     "HUGE SANTA DRAGON (GOLDEN)": {
-        "value": "65M",
+        "value": "67.5M",
         "demand": "6/10"
     },
     "HUGE SANTA DRAGON (RAINBOW)": {
-        "value": "655M",
+        "value": "670M",
         "demand": "8/10"
     },
     "HUGE SANTA MONKEY": {
-        "value": "68M",
+        "value": "70M",
         "demand": "5/10"
     },
     "HUGE SANTA MONKEY (GOLDEN)": {
-        "value": "75M",
+        "value": "82.5M",
         "demand": "6/10"
     },
     "HUGE SANTA MONKEY (RAINBOW)": {
-        "value": "610M",
+        "value": "625M",
         "demand": "7/10"
     },
     "HUGE SQUIRREL": {
