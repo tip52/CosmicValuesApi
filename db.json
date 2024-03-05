@@ -3004,8 +3004,8 @@
         "demand": "2/10"
     },
     "HUGE HUNTER ENCHANT": {
-        "value": "7M",
-        "demand": "4/10"
+        "value": "3.7M",
+        "demand": "3/10"
     },
     "LIGHTNING ENCHANT": {
         "value": "8K",
@@ -3020,8 +3020,8 @@
         "demand": "1/10"
     },
     "SHINY HUNTER ENCHANT": {
-        "value": "1.6M",
-        "demand": "4/10"
+        "value": "550K",
+        "demand": "3/10"
     },
     "STARFALL ENCHANT": {
         "value": "900K",
@@ -5087,6 +5087,10 @@
         "value": "100K",
         "demand": "2/10"
     },
+    "HUGE CYBER AGONY": {
+        "value": "43M",
+        "demand": "5/10"
+    },
     "TITANIC LOVE LAMB (RAINBOW)": {
         "value": "8.5B",
         "demand": "8/10"
@@ -5098,5 +5102,29 @@
     "TITANIC VALENTINES CAT (RAINBOW)": {
         "value": "8.5B",
         "demand": "7/10"
+    },
+    "HUGE HI-TECH TIGER": {
+        "value": "45M",
+        "demand": "5/10"
+    },
+    "HUGE BAT": {
+        "value": "20.5M",
+        "demand": "5/10"
+    },
+    "HUGE BAT (GOLDEN)": {
+        "value": "33.5M",
+        "demand": "5/10"
+    },
+    "HUGE BAT (RAINBOW)": {
+        "value": "95M",
+        "demand": "6/10"
+    },
+    "HUGE WILLOW WISP": {
+        "value": "21.5M",
+        "demand": "5/10"
+    },
+    "HUGE WILLOW WISP (GOLDEN)": {
+        "value": "40M",
+        "demand": "5/10"
     }
 }
