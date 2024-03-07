@@ -488,7 +488,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE SNOWMAN": {
-        "value": "565M",
+        "value": "625M",
         "demand": "7/10"
     },
     "HUGE MRS CLAWS": {
@@ -1060,7 +1060,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE COOL CAT": {
-        "value": "500M",
+        "value": "650M",
         "demand": "7/10"
     },
     "HUGE SAFARI DOG": {
@@ -1112,7 +1112,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE PARTY PENGUIN": {
-        "value": "500M",
+        "value": "650M",
         "demand": "7/10"
     },
     "HUGE BASKETBALL RETRIEVER": {
@@ -4877,6 +4877,14 @@
     },
     "TITANIC JELLY DRAGON": {
         "value": "2.6B",
+        "demand": "7/10"
+    },
+    "RAINBOW HUGE JELLY AXOLOTL": {
+        "value": "275M",
+        "demand": "7/10"
+    },
+    "RAINBOW HUGE JELLY MONKEY": {
+        "value": "350M",
         "demand": "7/10"
     },
     "SHINY HUGE JELLY AXOLOTL": {
