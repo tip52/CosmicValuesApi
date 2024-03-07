@@ -3016,31 +3016,31 @@
         "demand": "2/10"
     },
     "HUGE HUNTER ENCHANT": {
-        "value": "3.7M",
+        "value": "3.5M",
         "demand": "3/10"
     },
     "LIGHTNING ENCHANT": {
-        "value": "8K",
+        "value": "4K",
         "demand": "1/10"
     },
     "LUCKY BLOCK ENCHANT": {
-        "value": "7.5M",
-        "demand": "4/10"
+        "value": "24M",
+        "demand": "5/10"
     },
     "MIDAS TOUCH": {
         "value": "3K",
         "demand": "1/10"
     },
     "SHINY HUNTER ENCHANT": {
-        "value": "550K",
-        "demand": "3/10"
+        "value": "460K",
+        "demand": "2/10"
     },
     "STARFALL ENCHANT": {
-        "value": "900K",
+        "value": "940K",
         "demand": "3/10"
     },
     "SUPER LIGHTNING ENCHANT": {
-        "value": "800K",
+        "value": "980K",
         "demand": "3/10"
     },
     "COINS FLAG": {
@@ -4240,15 +4240,15 @@
         "demand": "5/10"
     },
     "PARTY TIME ENCHANT": {
-        "value": "1.2M",
+        "value": "1.7M",
         "demand": "2/10"
     },
     "MASSIVE COMET ENCHANT": {
-        "value": "10.5M",
+        "value": "18.5M",
         "demand": "3/10"
     },
     "DIAMOND CHEST MIMIC ENCHANT": {
-        "value": "35M",
+        "value": "47M",
         "demand": "3/10"
     },
     "HUGE LUCKI": {
@@ -4992,27 +4992,27 @@
         "demand": "4/10"
     },
     "DAMAGE POTION IX": {
-        "value": "90K",
+        "value": "55K",
         "demand": "4/10"
     },
     "DAMAGE POTION VIII": {
-        "value": "37.5K",
+        "value": "20K",
         "demand": "2/10"
     },
     "DAMAGE POTION VII": {
-        "value": "12.5K",
+        "value": "8K",
         "demand": "2/10"
     },
     "LUCKY EGGS POTIONS IX": {
-        "value": "500K",
-        "demand": "6/10"
+        "value": "160K",
+        "demand": "5/10"
     },
     "LUCKY EGGS POTION VIII": {
-        "value": "275K",
+        "value": "70K",
         "demand": "4/10"
     },
     "LUCKY EGGS POTION VII": {
-        "value": "47.5K",
+        "value": "18K",
         "demand": "3/10"
     },
     "COINS POTION IX": {
@@ -5024,7 +5024,7 @@
         "demand": "2/10"
     },
     "COINS POTION VII": {
-        "value": "8K",
+        "value": "4K",
         "demand": "1/10"
     },
     "TREASURE HUNTER POTION IX": {
