@@ -2980,11 +2980,11 @@
         "demand": "2/10"
     },
     "GLITTERING CHARM": {
-        "value": "350K",
+        "value": "475K",
         "demand": "4/10"
     },
     "ROYALTY CHARM": {
-        "value": "7.2M",
+        "value": "6.6M",
         "demand": "6/10"
     },
     "STRENGTH CHARM": {
@@ -4504,8 +4504,8 @@
         "demand": "2/10"
     },
     "PINATA": {
-        "value": "45K",
-        "demand": "9/10"
+        "value": "47.5K",
+        "demand": "7/10"
     },
     "SECRET KEY LOWER HALF": {
         "value": "7K",
@@ -4536,7 +4536,7 @@
         "demand": "2/10"
     },
     "OVERLOAD CHARM": {
-        "value": "6.4M",
+        "value": "6M",
         "demand": "4/10"
     },
     "TNT CHARM": {
@@ -4924,23 +4924,23 @@
         "demand": "3/10"
     },
     "BLACK HOLE ULTIMATE": {
-        "value": "70M",
-        "demand": "5/10"
+        "value": "82.5M",
+        "demand": "6/10"
     },
     "CHEST SPELL ULTIMATE": {
-        "value": "180M",
-        "demand": "7/10"
+        "value": "210M",
+        "demand": "6/10"
     },
     "TORNADO ULTIMATE": {
-        "value": "20M",
+        "value": "22.5M",
         "demand": "4/10"
     },
     "PET SURGE ULTIMATE": {
-        "value": "900K",
+        "value": "260K",
         "demand": "2/10"
     },
     "TNT SHOWER ULTIMATE": {
-        "value": "3.2M",
+        "value": "1.5M",
         "demand": "3/10"
     },
     "SHINY SUPER HUNTER": {
@@ -5016,11 +5016,11 @@
         "demand": "3/10"
     },
     "COINS POTION IX": {
-        "value": "85K",
+        "value": "40K",
         "demand": "3/10"
     },
     "COINS POTION VIII": {
-        "value": "25K",
+        "value": "10K",
         "demand": "2/10"
     },
     "COINS POTION VII": {
@@ -5028,15 +5028,15 @@
         "demand": "1/10"
     },
     "TREASURE HUNTER POTION IX": {
-        "value": "135K",
+        "value": "90K",
         "demand": "5/10"
     },
     "TREASURE HUNTER POTION VIII": {
-        "value": "45K",
+        "value": "25K",
         "demand": "3/10"
     },
     "TREASURE HUNTER POTION VII": {
-        "value": "10K",
+        "value": "8K",
         "demand": "2/10"
     },
     "DIAMONDS POTION VII": {
