@@ -36,7 +36,7 @@
         "demand": "6/10"
     },
     "GOLDEN HUGE FESTIVE CAT": {
-        "value": "31M",
+        "value": "33.1M",
         "demand": "6/10"
     },
     "RAINBOW HUGE FESTIVE CAT": {
@@ -48,7 +48,7 @@
         "demand": "7/10"
     },
     "GOLDEN HUGE FOREST WYVERN": {
-        "value": "105M",
+        "value": "110M",
         "demand": "5/10"
     },
     "RAINBOW HUGE FOREST WYVERN": {
@@ -220,7 +220,7 @@
         "demand": "6/10"
     },
     "HUGE HELL ROCK": {
-        "value": "18.2M",
+        "value": "17.7M",
         "demand": "6/10"
     },
     "GOLDEN HUGE HELL ROCK": {
@@ -1368,7 +1368,7 @@
         "demand": "8/10"
     },
     "HUGE HAPPY ROCK": {
-        "value": "16.4M",
+        "value": "17.3M",
         "demand": "6/10"
     },
     "GOLDEN HUGE HAPPY ROCK": {
@@ -4856,11 +4856,11 @@
         "demand": "7/10"
     },
     "HUGE HAPPY COMPUTER": {
-        "value": "15.8M",
+        "value": "17M",
         "demand": "5/10"
     },
     "GOLDEN HUGE HAPPY COMPUTER": {
-        "value": "23.6M",
+        "value": "25.6M",
         "demand": "5/10"
     },
     "RAINBOW HUGE HAPPY COMPUTER": {
