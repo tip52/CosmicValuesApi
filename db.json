@@ -440,7 +440,7 @@
         "demand": "5/10"
     },
     "GOLDEN HUGE ELF CAT": {
-        "value": "28M",
+        "value": "28.5M",
         "demand": "6/10"
     },
     "RAINBOW HUGE ELF CAT": {
@@ -452,7 +452,7 @@
         "demand": "5/10"
     },
     "GOLDEN HUGE ELF DOG": {
-        "value": "28.5M",
+        "value": "29M",
         "demand": "6/10"
     },
     "RAINBOW HUGE ELF DOG": {
@@ -480,11 +480,11 @@
         "demand": "6/10"
     },
     "HUGE SNOWMAN": {
-        "value": "40M",
+        "value": "41M",
         "demand": "6/10"
     },
     "GOLDEN HUGE SNOWMAN": {
-        "value": "60M",
+        "value": "62.4M",
         "demand": "6/10"
     },
     "RAINBOW HUGE SNOWMAN": {
@@ -520,11 +520,11 @@
         "demand": "7/10"
     },
     "HUGE PARTY CROWN DUCKY": {
-        "value": "31.5M",
+        "value": "33M",
         "demand": "6/10"
     },
     "GOLDEN HUGE PARTY CROWN DUCKY": {
-        "value": "60M",
+        "value": "64.3M",
         "demand": "6/10"
     },
     "RAINBOW HUGE PARTY CROWN DUCKY": {
@@ -548,7 +548,7 @@
         "demand": "7/10"
     },
     "HUGE LUCKI DOMINUS": {
-        "value": "48M",
+        "value": "49M",
         "demand": "6/10"
     },
     "GOLDEN HUGE LUCKI DOMINUS": {
@@ -560,11 +560,11 @@
         "demand": "7/10"
     },
     "HUGE DOODLE CAT": {
-        "value": "22M",
+        "value": "24M",
         "demand": "5/10"
     },
     "GOLDEN HUGE DOODLE CAT": {
-        "value": "29.5M",
+        "value": "31.2M",
         "demand": "5/10"
     },
     "RAINBOW HUGE DOODLE CAT": {
@@ -572,7 +572,7 @@
         "demand": "7/10"
     },
     "HUGE NEON CAT": {
-        "value": "30M",
+        "value": "32M",
         "demand": "6/10"
     },
     "RAINBOW HUGE NEON CAT": {
@@ -580,7 +580,7 @@
         "demand": "7/10"
     },
     "HUGE NEON GRIFFIN": {
-        "value": "38.5M",
+        "value": "40M",
         "demand": "6/10"
     },
     "RAINBOW HUGE NEON GRIFFIN": {
@@ -592,7 +592,7 @@
         "demand": "5/10"
     },
     "GOLDEN HUGE DOODLE FAIRY": {
-        "value": "30M",
+        "value": "32.6M",
         "demand": "5/10"
     },
     "RAINBOW HUGE DOODLE FAIRY": {
@@ -612,7 +612,7 @@
         "demand": "6/10"
     },
     "HUGE CHAMELEON": {
-        "value": "31M",
+        "value": "32.1M",
         "demand": "6/10"
     },
     "RAINBOW HUGE CHAMELEON": {
@@ -624,7 +624,7 @@
         "demand": "5/10"
     },
     "GOLDEN HUGE KING COBRA": {
-        "value": "32.5M",
+        "value": "32M",
         "demand": "5/10"
     },
     "RAINBOW HUGE KING COBRA": {
