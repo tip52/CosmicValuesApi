@@ -4188,7 +4188,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE FLUFFY CAT": {
-        "value": "78.1M",
+        "value": "80.5M",
         "demand": "6/10"
     },
     "HUGE KNIGHT BEAGLE": {
@@ -4200,7 +4200,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE KNIGHT BEAGLE": {
-        "value": "71.4M",
+        "value": "75M",
         "demand": "6/10"
     },
     "HUGE ZEBRA": {
@@ -4212,7 +4212,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE ZEBRA": {
-        "value": "65M",
+        "value": "68.5M",
         "demand": "6/10"
     },
     "HUGE ROBBER PUG": {
@@ -4224,7 +4224,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE ROBBER PUG": {
-        "value": "65.5M",
+        "value": "69.5M",
         "demand": "6/10"
     },
     "BANANA HOVERBOARD": {
@@ -4416,7 +4416,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE EMOJI CAT": {
-        "value": "200M",
+        "value": "210M",
         "demand": "6/10"
     },
     "SHINY HUGE EMOJI CAT": {
@@ -4428,7 +4428,7 @@
         "demand": "7/10"
     },
     "RAINBOW HUGE EMOJI MONKEY": {
-        "value": "325M",
+        "value": "330M",
         "demand": "6/10"
     },
     "SHINY HUGE EMOJI MONKEY": {
@@ -4812,11 +4812,11 @@
         "demand": "9/10"
     },
     "RAINBOW HUGE VALENTINES CAT": {
-        "value": "280M",
+        "value": "290M",
         "demand": "7/10"
     },
     "RAINBOW HUGE HEART BALLOON CAT": {
-        "value": "430M",
+        "value": "435M",
         "demand": "7/10"
     },
     "DUCKY HOVERBOARD": {
@@ -4864,7 +4864,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE HAPPY COMPUTER": {
-        "value": "60.5M",
+        "value": "64.5M",
         "demand": "6/10"
     },
     "HUGE JELLY AXOLOTL": {
@@ -4880,11 +4880,11 @@
         "demand": "7/10"
     },
     "RAINBOW HUGE JELLY AXOLOTL": {
-        "value": "275M",
+        "value": "250M",
         "demand": "7/10"
     },
     "RAINBOW HUGE JELLY MONKEY": {
-        "value": "350M",
+        "value": "325M",
         "demand": "7/10"
     },
     "RAINBOW TITANIC JELLY DRAGON": {
@@ -5156,7 +5156,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE BAT": {
-        "value": "100M",
+        "value": "105M",
         "demand": "6/10"
     },
     "HUGE WILLOW WISP": {
@@ -5168,7 +5168,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE WILLOW WISP": {
-        "value": "130M",
+        "value": "135M",
         "demand": "7/10"
     },
     "HUGE RED FLUFFY": {
@@ -5183,6 +5183,10 @@
         "value": "50M",
         "demand": "4/10"
     },
+    "RAINBOW HUGE PASTEL ELEPHANT": {
+        "value": "175M",
+        "demand": "7/10"
+    },
     "HUGE KOI FISH": {
         "value": "35M",
         "demand": "4/10"
@@ -5192,8 +5196,8 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE KOI FISH": {
-        "value": "95M",
-        "demand": "5/10"
+        "value": "103M",
+        "demand": "6/10"
     },
     "HUGE ELEPHANT": {
         "value": "40M",
@@ -5212,11 +5216,15 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE BEE": {
-        "value": "90M",
+        "value": "106.5M",
         "demand": "6/10"
     },
     "SHINY HUGE HAPPY COMPUTER": {
         "value": "70M",
+        "demand": "7/10"
+    },
+    "SHINY GOLDEN HUGE HAPPY COMPUTER": {
+        "value": "155M",
         "demand": "7/10"
     },
     "HUGE COLORFUL WISP": {
