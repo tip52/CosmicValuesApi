@@ -24,7 +24,7 @@
         "demand": "5/10"
     },
     "GOLDEN HUGE SANTA PAWS": {
-        "value": "110M",
+        "value": "115M",
         "demand": "6/10"
     },
     "RAINBOW HUGE SANTA PAWS": {
@@ -144,7 +144,7 @@
         "demand": "8/10"
     },
     "GOLDEN HUGE STORM AGONY": {
-        "value": "410M",
+        "value": "420M",
         "demand": "7/10"
     },
     "RAINBOW HUGE STORM AGONY": {
@@ -272,7 +272,7 @@
         "demand": "6/10"
     },
     "GOLDEN HUGE SCARY CAT": {
-        "value": "32.5M",
+        "value": "33M",
         "demand": "6/10"
     },
     "RAINBOW HUGE SCARY CAT": {
@@ -484,7 +484,7 @@
         "demand": "6/10"
     },
     "GOLDEN HUGE SNOWMAN": {
-        "value": "62.4M",
+        "value": "64M",
         "demand": "6/10"
     },
     "RAINBOW HUGE SNOWMAN": {
@@ -500,7 +500,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE MRS CLAWS": {
-        "value": "86.7M",
+        "value": "87.5M",
         "demand": "6/10"
     },
     "HUGE GRINCH CAT": {
@@ -552,7 +552,7 @@
         "demand": "6/10"
     },
     "GOLDEN HUGE LUCKI DOMINUS": {
-        "value": "80M",
+        "value": "84M",
         "demand": "6/10"
     },
     "RAINBOW HUGE LUCKI DOMINUS": {
@@ -604,7 +604,7 @@
         "demand": "5/10"
     },
     "GOLDEN HUGE PTERODACTYL": {
-        "value": "31.5M",
+        "value": "32M",
         "demand": "5/10"
     },
     "RAINBOW HUGE PTERODACTYL": {
@@ -924,7 +924,7 @@
         "demand": "6/10"
     },
     "GOLDEN HUGE EASTER DOMINUS": {
-        "value": "29M",
+        "value": "31M",
         "demand": "6/10"
     },
     "RAINBOW HUGE EASTER DOMINUS": {
@@ -972,7 +972,7 @@
         "demand": "7/10"
     },
     "HUGE EASTER YETI": {
-        "value": "43.5M",
+        "value": "44M",
         "demand": "6/10"
     },
     "GOLDEN HUGE EASTER YETI": {
@@ -5141,6 +5141,10 @@
     },
     "TITANIC BREAD SHIBA": {
         "value": "2.5B",
+        "demand": "7/10"
+    },
+    "RAINBOW TITANIC BREAD SHIBA": {
+        "value": "10.5B",
         "demand": "7/10"
     },
     "HUGE HI-TECH TIGER": {
