@@ -5212,7 +5212,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE KOI FISH": {
-        "value": "103M",
+        "value": "110M",
         "demand": "6/10"
     },
     "HUGE ELEPHANT": {
@@ -5223,6 +5223,10 @@
         "value": "65M",
         "demand": "4/10"
     },
+    "RAINBOW HUGE ELEPHANT": {
+        "value": "145M",
+        "demand": "6/10"
+    },
     "HUGE BEE": {
         "value": "38M",
         "demand": "4/10"
@@ -5232,7 +5236,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE BEE": {
-        "value": "106.5M",
+        "value": "108M",
         "demand": "6/10"
     },
     "SHINY HUGE HAPPY COMPUTER": {
