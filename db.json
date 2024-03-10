@@ -1,6 +1,6 @@
 {
     "HUGE CAT": {
-        "value": "515M",
+        "value": "570M",
         "demand": "8/10"
     },
     "RAINBOW HUGE CAT": {
@@ -164,7 +164,7 @@
         "demand": "6/10"
     },
     "HUGE EASTER CAT": {
-        "value": "172M",
+        "value": "180M",
         "demand": "7/10"
     },
     "GOLDEN HUGE EASTER CAT": {
@@ -404,7 +404,7 @@
         "demand": "7/10"
     },
     "HUGE ANIME AGONY": {
-        "value": "170M",
+        "value": "185M",
         "demand": "7/10"
     },
     "GOLDEN HUGE ANIME AGONY": {
@@ -416,7 +416,7 @@
         "demand": "7/10"
     },
     "HUGE ANIME UNICORN": {
-        "value": "42M",
+        "value": "46M",
         "demand": "6/10"
     },
     "RAINBOW HUGE ANIME UNICORN": {
@@ -644,7 +644,7 @@
         "demand": "6/10"
     },
     "HUGE ANGELUS": {
-        "value": "570M",
+        "value": "600M",
         "demand": "8/10"
     },
     "GOLDEN HUGE ANGELUS": {
@@ -744,7 +744,7 @@
         "demand": "7/10"
     },
     "HUGE DIAMOND CAT": {
-        "value": "300M",
+        "value": "310M",
         "demand": "7/10"
     },
     "GOLDEN HUGE DIAMOND CAT": {
@@ -964,7 +964,7 @@
         "demand": "7/10"
     },
     "HUGE AMETHYST DRAGON": {
-        "value": "51M",
+        "value": "54M",
         "demand": "7/10"
     },
     "RAINBOW HUGE AMETHYST DRAGON": {
@@ -1248,7 +1248,7 @@
         "demand": "6/10"
     },
     "HUGE ATLANTEAN ORCA": {
-        "value": "44.5M",
+        "value": "45.5M",
         "demand": "6/10"
     },
     "RAINBOW HUGE ATLANTEAN ORCA": {
@@ -1256,7 +1256,7 @@
         "demand": "7/10"
     },
     "HUGE ATLANTEAN DOLPHIN": {
-        "value": "47.5M",
+        "value": "48.5M",
         "demand": "7/10"
     },
     "RAINBOW HUGE ATLANTEAN DOLPHIN": {
@@ -1288,7 +1288,7 @@
         "demand": "7/10"
     },
     "HUGE ARCADE CAT": {
-        "value": "50.5M",
+        "value": "52M",
         "demand": "7/10"
     },
     "GOLDEN HUGE ARCADE CAT": {
@@ -1680,7 +1680,7 @@
         "demand": "8/10"
     },
     "HUGE APPLE CAPYBARA": {
-        "value": "122.5M",
+        "value": "140M",
         "demand": "7/10"
     },
     "GOLDEN HUGE APPLE CAPYBARA": {
@@ -4280,7 +4280,7 @@
         "demand": "7/10"
     },
     "HUGE ANGEL CAT": {
-        "value": "380M",
+        "value": "400M",
         "demand": "8/10"
     },
     "GOLDEN HUGE ANGEL CAT": {
@@ -5154,6 +5154,10 @@
     "RAINBOW TITANIC BREAD SHIBA": {
         "value": "10.5B",
         "demand": "7/10"
+    },
+    "HUGE ABYSSAL AXOLOTL": {
+        "value": "110M",
+        "demand": "5/10"
     },
     "HUGE HI-TECH TIGER": {
         "value": "47.5M",
