@@ -4116,7 +4116,7 @@
         "demand": "9/10"
     },
     "HUGE PRESENT CAT": {
-        "value": "4.2B",
+        "value": "4.6B",
         "demand": "7/10"
     },
     "RAINBOW HUGE HOLIDAY PEGASUS": {
@@ -4324,7 +4324,7 @@
         "demand": "5/10"
     },
     "HUGE OWL": {
-        "value": "4.25B",
+        "value": "6.9B",
         "demand": "6/10"
     },
     "HUGE WHITE TIGER": {
@@ -4404,7 +4404,7 @@
         "demand": "7/10"
     },
     "HUGE SENSEI PENGUIN": {
-        "value": "3.9B",
+        "value": "4.6B",
         "demand": "8/10"
     },
     "EMOJI CAT": {
@@ -4825,6 +4825,10 @@
     },
     "RAINBOW HUGE HEART BALLOON CAT": {
         "value": "450M",
+        "demand": "7/10"
+    },
+    "HUGE EMPYREAN AXOLOTL": {
+        "value": "2.5B",
         "demand": "7/10"
     },
     "DUCKY HOVERBOARD": {
