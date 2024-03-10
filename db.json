@@ -384,11 +384,11 @@
         "demand": "7/10"
     },
     "HUGE SCARECROW CAT": {
-        "value": "25.05M",
+        "value": "27M",
         "demand": "5/10"
     },
     "GOLDEN HUGE SCARECROW CAT": {
-        "value": "28.5M",
+        "value": "30M",
         "demand": "5/10"
     },
     "RAINBOW HUGE SCARECROW CAT": {
@@ -984,19 +984,19 @@
         "demand": "6/10"
     },
     "HUGE GOBLIN": {
-        "value": "22.6M",
+        "value": "23.5M",
         "demand": "5/10"
     },
     "GOLDEN HUGE GOBLIN": {
-        "value": "27M",
+        "value": "29M",
         "demand": "5/10"
     },
     "RAINBOW HUGE GOBLIN": {
-        "value": "70M",
+        "value": "75M",
         "demand": "5/10"
     },
     "HUGE COLORFUL SLIME": {
-        "value": "22.65M",
+        "value": "25M",
         "demand": "5/10"
     },
     "GOLDEN HUGE COLORFUL SLIME": {
@@ -4260,7 +4260,7 @@
         "demand": "3/10"
     },
     "HUGE LUCKI": {
-        "value": "53.5M",
+        "value": "56M",
         "demand": "6/10"
     },
     "HIPPOMELON BOOTH": {
@@ -4864,15 +4864,15 @@
         "demand": "7/10"
     },
     "HUGE HAPPY COMPUTER": {
-        "value": "19.7M",
+        "value": "22M",
         "demand": "5/10"
     },
     "GOLDEN HUGE HAPPY COMPUTER": {
-        "value": "26.8M",
+        "value": "31.25M",
         "demand": "5/10"
     },
     "RAINBOW HUGE HAPPY COMPUTER": {
-        "value": "64.5M",
+        "value": "73M",
         "demand": "6/10"
     },
     "HUGE JELLY AXOLOTL": {
@@ -5236,15 +5236,15 @@
         "demand": "6/10"
     },
     "SHINY HUGE HAPPY COMPUTER": {
-        "value": "70M",
+        "value": "78M",
         "demand": "7/10"
     },
     "SHINY GOLDEN HUGE HAPPY COMPUTER": {
-        "value": "155M",
+        "value": "170M",
         "demand": "7/10"
     },
     "HUGE COLORFUL WISP": {
-        "value": "32M",
+        "value": "33.5M",
         "demand": "6/10"
     }
 }
