@@ -3000,11 +3000,11 @@
         "demand": "1/10"
     },
     "CHEST BREAKER ENCHANT": {
-        "value": "70M",
-        "demand": "1/10"
+        "value": "38M",
+        "demand": "2/10"
     },
     "CHEST MIMIC ENCHANT": {
-        "value": "275M",
+        "value": "350M",
         "demand": "8/10"
     },
     "EXOTIC PET ENCHANT": {
@@ -3012,7 +3012,7 @@
         "demand": "2/10"
     },
     "FIREWORKS ENCHANT": {
-        "value": "1.4M",
+        "value": "2M",
         "demand": "6/10"
     },
     "FORTUNE ENCHANT": {
@@ -3020,7 +3020,7 @@
         "demand": "2/10"
     },
     "HUGE HUNTER ENCHANT": {
-        "value": "3.5M",
+        "value": "5.8M",
         "demand": "3/10"
     },
     "LIGHTNING ENCHANT": {
@@ -3028,7 +3028,7 @@
         "demand": "1/10"
     },
     "LUCKY BLOCK ENCHANT": {
-        "value": "31.5M",
+        "value": "37.5M",
         "demand": "6/10"
     },
     "MIDAS TOUCH": {
@@ -3036,15 +3036,15 @@
         "demand": "1/10"
     },
     "SHINY HUNTER ENCHANT": {
-        "value": "460K",
+        "value": "770K",
         "demand": "2/10"
     },
     "STARFALL ENCHANT": {
-        "value": "940K",
+        "value": "1.05M",
         "demand": "3/10"
     },
     "SUPER LIGHTNING ENCHANT": {
-        "value": "980K",
+        "value": "800K",
         "demand": "3/10"
     },
     "COINS FLAG": {
@@ -4244,15 +4244,15 @@
         "demand": "5/10"
     },
     "PARTY TIME ENCHANT": {
-        "value": "2.25M",
-        "demand": "2/10"
+        "value": "3.4M",
+        "demand": "4/10"
     },
     "MASSIVE COMET ENCHANT": {
-        "value": "22M",
-        "demand": "3/10"
+        "value": "31M",
+        "demand": "4/10"
     },
     "DIAMOND CHEST MIMIC ENCHANT": {
-        "value": "51.5M",
+        "value": "68.5M",
         "demand": "3/10"
     },
     "HUGE LUCKI": {
@@ -4492,7 +4492,7 @@
         "demand": "3/10"
     },
     "MAGIC ORB ENCHANT": {
-        "value": "250K",
+        "value": "220K",
         "demand": "3/10"
     },
     "MAGIC SHARD": {
@@ -4960,11 +4960,11 @@
         "demand": "3/10"
     },
     "SHINY SUPER HUNTER": {
-        "value": "28.5M",
+        "value": "40M",
         "demand": "6/10"
     },
     "BOSS CHEST MIMIC": {
-        "value": "92.5M",
+        "value": "125M",
         "demand": "8/10"
     },
     "EXCLUSIVE SUPER JELLY EGG": {
