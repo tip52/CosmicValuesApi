@@ -1224,7 +1224,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE TIKI DOMINUS": {
-        "value": "700M",
+        "value": "800M",
         "demand": "7/10"
     },
     "HUGE PUFFERFISH": {
@@ -1252,7 +1252,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE ATLANTEAN ORCA": {
-        "value": "260M",
+        "value": "275M",
         "demand": "7/10"
     },
     "HUGE ATLANTEAN DOLPHIN": {
@@ -1260,7 +1260,7 @@
         "demand": "7/10"
     },
     "RAINBOW HUGE ATLANTEAN DOLPHIN": {
-        "value": "460M",
+        "value": "475M",
         "demand": "7/10"
     },
     "HUGE LUAU CAT": {
@@ -1272,7 +1272,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE LUAU CAT": {
-        "value": "185M",
+        "value": "192.5M",
         "demand": "6/10"
     },
     "HUGE SANDCASTLE CAT": {
@@ -1284,7 +1284,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE SANDCASTLE CAT": {
-        "value": "925M",
+        "value": "1B",
         "demand": "7/10"
     },
     "HUGE ARCADE CAT": {
@@ -1296,7 +1296,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE ARCADE CAT": {
-        "value": "295M",
+        "value": "310M",
         "demand": "7/10"
     },
     "HUGE SUN ANGELUS": {
@@ -1308,7 +1308,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE SUN ANGELUS": {
-        "value": "270M",
+        "value": "280M",
         "demand": "7/10"
     },
     "HUGE PARTY MONKEY": {
@@ -1332,7 +1332,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE WILD FIRE AGONY": {
-        "value": "280M",
+        "value": "300M",
         "demand": "7/10"
     },
     "HUGE COSMIC AGONY": {
@@ -1340,7 +1340,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE COSMIC AGONY": {
-        "value": "450M",
+        "value": "475M",
         "demand": "8/10"
     },
     "HUGE COSMIC AXOLOTL": {
@@ -1348,7 +1348,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE COSMIC AXOLOTL": {
-        "value": "250M",
+        "value": "260M",
         "demand": "7/10"
     },
     "HUGE LUCKI AGONY": {
@@ -1384,7 +1384,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE VAMPIRE BAT": {
-        "value": "250M",
+        "value": "260M",
         "demand": "7/10"
     },
     "HUGE STEALTH DRAGON": {
@@ -1396,7 +1396,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE STEALTH DRAGON": {
-        "value": "170M",
+        "value": "175M",
         "demand": "7/10"
     },
     "HUGE STEALTH BOBCAT": {
@@ -1408,7 +1408,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE STEALTH BOBCAT": {
-        "value": "200M",
+        "value": "210M",
         "demand": "6/10"
     },
     "HUGE MOSAIC LAMB": {
@@ -1420,7 +1420,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE MOSAIC LAMB": {
-        "value": "140M",
+        "value": "145M",
         "demand": "7/10"
     },
     "HUGE MOSAIC GRIFFIN": {
@@ -1432,7 +1432,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE MOSAIC GRIFFIN": {
-        "value": "104.5M",
+        "value": "108M",
         "demand": "6/10"
     },
     "HUGE MOSAIC CORGI": {
@@ -1444,7 +1444,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE MOSAIC CORGI": {
-        "value": "83M",
+        "value": "88.5M",
         "demand": "6/10"
     },
     "HUGE PIXEL DRAGON": {
@@ -1456,7 +1456,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE PIXEL DRAGON": {
-        "value": "260M",
+        "value": "270M",
         "demand": "7/10"
     },
     "HUGE PIXEL CORGI": {
