@@ -5191,6 +5191,10 @@
         "value": "64M",
         "demand": "7/10"
     },
+    "RAINBOW HUGE RED FLUFFY": {
+        "value": "875M",
+        "demand": "7/10"
+    },
     "HUGE PASTEL ELEPHANT": {
         "value": "30M",
         "demand": "6/10"
@@ -5200,7 +5204,7 @@
         "demand": "4/10"
     },
     "RAINBOW HUGE PASTEL ELEPHANT": {
-        "value": "175M",
+        "value": "185M",
         "demand": "7/10"
     },
     "HUGE KOI FISH": {
@@ -5212,7 +5216,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE KOI FISH": {
-        "value": "110M",
+        "value": "114M",
         "demand": "6/10"
     },
     "HUGE ELEPHANT": {
@@ -5224,7 +5228,7 @@
         "demand": "4/10"
     },
     "RAINBOW HUGE ELEPHANT": {
-        "value": "145M",
+        "value": "155M",
         "demand": "6/10"
     },
     "HUGE BEE": {
