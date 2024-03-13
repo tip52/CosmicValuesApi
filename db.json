@@ -124,15 +124,15 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE CUPCAKE": {
-        "value": "86M",
+        "value": "90M",
         "demand": "6/10"
     },
     "HUGE PONY": {
-        "value": "50M",
+        "value": "52M",
         "demand": "6/10"
     },
     "GOLDEN HUGE PONY": {
-        "value": "66M",
+        "value": "85M",
         "demand": "6/10"
     },
     "RAINBOW HUGE PONY": {
@@ -140,11 +140,11 @@
         "demand": "7/10"
     },
     "HUGE STORM AGONY": {
-        "value": "300M",
+        "value": "305M",
         "demand": "8/10"
     },
     "GOLDEN HUGE STORM AGONY": {
-        "value": "420M",
+        "value": "435M",
         "demand": "7/10"
     },
     "RAINBOW HUGE STORM AGONY": {
@@ -4280,7 +4280,7 @@
         "demand": "7/10"
     },
     "HUGE ANGEL CAT": {
-        "value": "650M",
+        "value": "400M",
         "demand": "8/10"
     },
     "GOLDEN HUGE ANGEL CAT": {
