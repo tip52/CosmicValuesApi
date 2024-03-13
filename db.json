@@ -3424,75 +3424,75 @@
         "demand": "6/10"
     },
     "DOMINUS ASTRA": {
-        "value": "8M",
+        "value": "25M",
         "demand": "7/10"
     },
     "STORM WOLF": {
-        "value": "10.25M",
+        "value": "25M",
         "demand": "8/10"
     },
     "GALAXY DRAGON": {
-        "value": "7.5M",
-        "demand": "7/10"
+        "value": "28M",
+        "demand": "8/10"
     },
     "DOMORTUUS ASTRA": {
-        "value": "18.5M",
-        "demand": "8/10"
+        "value": "48M",
+        "demand": "9/10"
     },
     "EMPYREAN AGONY": {
-        "value": "13M",
-        "demand": "8/10"
+        "value": "33M",
+        "demand": "9/10"
     },
     "NEBULA DRAGON": {
-        "value": "9M",
+        "value": "33M",
         "demand": "8/10"
     },
     "GALAXY PEGASUS": {
-        "value": "8.5M",
+        "value": "24M",
         "demand": "7/10"
     },
     "DOMINUS DARKWING": {
-        "value": "10.5M",
-        "demand": "8/10"
+        "value": "38M",
+        "demand": "9/10"
     },
     "STORM DRAGON": {
-        "value": "7.35M",
-        "demand": "7/10"
-    },
-    "WICKED ANGELUS": {
-        "value": "9.75M",
+        "value": "17M",
         "demand": "8/10"
     },
-    "SAPPHIRE PHOENIX": {
-        "value": "4.5M",
-        "demand": "5/10"
+    "WICKED ANGELUS": {
+        "value": "25M",
+        "demand": "9/10"
     },
-    "CHEST MIMIC": {
-        "value": "7M",
+    "SAPPHIRE PHOENIX": {
+        "value": "13M",
         "demand": "7/10"
     },
+    "CHEST MIMIC": {
+        "value": "18M",
+        "demand": "8/10"
+    },
     "ELECTRIC SLIME": {
-        "value": "9.5M",
+        "value": "24M",
         "demand": "8/10"
     },
     "MUSHROOM KING": {
-        "value": "8.75M",
-        "demand": "7/10"
+        "value": "29M",
+        "demand": "8/10"
     },
     "NOOBORTUUS": {
-        "value": "14.5M",
-        "demand": "7/10"
+        "value": "40M",
+        "demand": "9/10"
     },
     "SOCK MONKEY": {
+        "value": "9M",
+        "demand": "7/10"
+    },
+    "SOCK CORGI": {
         "value": "4.5M",
         "demand": "6/10"
     },
-    "SOCK CORGI": {
-        "value": "2M",
-        "demand": "5/10"
-    },
     "SOCK CAT": {
-        "value": "1.7M",
+        "value": "4.5M",
         "demand": "6/10"
     },
     "PUNKEY": {
@@ -3500,28 +3500,28 @@
         "demand": "4/10"
     },
     "DOGE": {
-        "value": "7.4M",
+        "value": "18M",
         "demand": "7/10"
     },
     "BLOBFISH": {
-        "value": "5M",
-        "demand": "6/10"
+        "value": "11M",
+        "demand": "7/10"
     },
     "GUEST NOOB": {
-        "value": "7.2M",
+        "value": "17M",
         "demand": "7/10"
     },
     "HELL CHEST MIMIC": {
-        "value": "8.75M",
-        "demand": "6/10"
+        "value": "21M",
+        "demand": "8/10"
     },
     "PTERODACTYL": {
         "value": "3.5M",
         "demand": "6/10"
     },
     "GRUMPY CAT": {
-        "value": "4.1M",
-        "demand": "6/10"
+        "value": "9M",
+        "demand": "7/10"
     },
     "LAVA SCORPION": {
         "value": "1.2M",
@@ -3552,11 +3552,11 @@
         "demand": "4/10"
     },
     "LUCKY CAT": {
-        "value": "950K",
+        "value": "5M",
         "demand": "6/10"
     },
     "STORM AGONY": {
-        "value": "1.7M",
+        "value": "6M",
         "demand": "7/10"
     },
     "STARFALL DRAGON": {
@@ -3636,8 +3636,8 @@
         "demand": "5/10"
     },
     "INFERNO CAT": {
-        "value": "2.4M",
-        "demand": "6/10"
+        "value": "8M",
+        "demand": "8/10"
     },
     "NEON TWILIGHT DRAGON": {
         "value": "600K",
@@ -4360,7 +4360,7 @@
         "demand": "6/10"
     },
     "NYAN CAT": {
-        "value": "16.5M",
+        "value": "37.5M",
         "demand": "9/10"
     },
     "SHINY HUGE FLUFFY CAT": {
@@ -4392,8 +4392,8 @@
         "demand": "7/10"
     },
     "STACKED DOGE NOOB": {
-        "value": "4.95M",
-        "demand": "5/10"
+        "value": "12.5M",
+        "demand": "6/10"
     },
     "TITANIC CORGI": {
         "value": "2.75B",
