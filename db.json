@@ -2163,6 +2163,10 @@
         "value": "17.5B",
         "demand": "7/10"
     },
+    "TITANIC HIPPOMELON": {
+        "value": "32.5B",
+        "demand": "8/10"
+    },
     "TITANIC BLOBFISH": {
         "value": "10B",
         "demand": "8/10"
@@ -4885,7 +4889,7 @@
     },
     "TITANIC JELLY DRAGON": {
         "value": "3.7B",
-        "demand": "7/10"
+        "demand": "8/10"
     },
     "RAINBOW HUGE JELLY AXOLOTL": {
         "value": "290M",
