@@ -436,7 +436,7 @@
         "demand": "6/10"
     },
     "HUGE ELF CAT": {
-        "value": "29.9M",
+        "value": "30.85M",
         "demand": "5/10"
     },
     "GOLDEN HUGE ELF CAT": {
@@ -448,7 +448,7 @@
         "demand": "6/10"
     },
     "HUGE ELF DOG": {
-        "value": "29.9M",
+        "value": "30.85M",
         "demand": "5/10"
     },
     "GOLDEN HUGE ELF DOG": {
@@ -468,7 +468,7 @@
         "demand": "6/10"
     },
     "HUGE JOLLY PENGUIN": {
-        "value": "29.5M",
+        "value": "27.1M",
         "demand": "5/10"
     },
     "GOLDEN HUGE JOLLY PENGUIN": {
@@ -492,7 +492,7 @@
         "demand": "7/10"
     },
     "HUGE MRS CLAWS": {
-        "value": "34M",
+        "value": "33M",
         "demand": "5/10"
     },
     "GOLDEN HUGE MRS CLAWS": {
@@ -588,7 +588,7 @@
         "demand": "8/10"
     },
     "HUGE DOODLE FAIRY": {
-        "value": "35.35M",
+        "value": "35.8M",
         "demand": "5/10"
     },
     "GOLDEN HUGE DOODLE FAIRY": {
@@ -692,7 +692,7 @@
         "demand": "6/10"
     },
     "HUGE KNIFE CAT": {
-        "value": "39M",
+        "value": "40M",
         "demand": "6/10"
     },
     "RAINBOW HUGE KNIFE CAT": {
@@ -808,7 +808,7 @@
         "demand": "7/10"
     },
     "HUGE CLOVER UNICORN": {
-        "value": "40M",
+        "value": "39.8M",
         "demand": "5/10"
     },
     "GOLDEN HUGE CLOVER UNICORN": {
@@ -896,7 +896,7 @@
         "demand": "6/10"
     },
     "HUGE ERROR CAT": {
-        "value": "33.35M",
+        "value": "32.65M",
         "demand": "5/10"
     },
     "GOLDEN HUGE ERROR CAT": {
@@ -908,7 +908,7 @@
         "demand": "6/10"
     },
     "HUGE MARSHMALLOW AGONY": {
-        "value": "36M",
+        "value": "33.75M",
         "demand": "6/10"
     },
     "GOLDEN HUGE MARSHMALLOW AGONY": {
@@ -920,7 +920,7 @@
         "demand": "7/10"
     },
     "HUGE EASTER DOMINUS": {
-        "value": "36.95M",
+        "value": "35.85M",
         "demand": "6/10"
     },
     "GOLDEN HUGE EASTER DOMINUS": {
@@ -944,7 +944,7 @@
         "demand": "6/10"
     },
     "HUGE EASTER BUNNY": {
-        "value": "32M",
+        "value": "30.8M",
         "demand": "5/10"
     },
     "GOLDEN HUGE EASTER BUNNY": {
@@ -1140,7 +1140,7 @@
         "demand": "7/10"
     },
     "HUGE NIGHTMARE SPIRIT": {
-        "value": "42M",
+        "value": "42.15M",
         "demand": "6/10"
     },
     "RAINBOW HUGE NIGHTMARE SPIRIT": {
@@ -1204,7 +1204,7 @@
         "demand": "7/10"
     },
     "HUGE CHEF CAT": {
-        "value": "31M",
+        "value": "30.65M",
         "demand": "5/10"
     },
     "HUGE BIG MASKOT": {
@@ -1264,7 +1264,7 @@
         "demand": "7/10"
     },
     "HUGE LUAU CAT": {
-        "value": "35.1M",
+        "value": "34.65M",
         "demand": "6/10"
     },
     "GOLDEN HUGE LUAU CAT": {
@@ -1344,7 +1344,7 @@
         "demand": "8/10"
     },
     "HUGE COSMIC AXOLOTL": {
-        "value": "48M",
+        "value": "47.45M",
         "demand": "5/10"
     },
     "RAINBOW HUGE COSMIC AXOLOTL": {
@@ -1424,7 +1424,7 @@
         "demand": "7/10"
     },
     "HUGE MOSAIC GRIFFIN": {
-        "value": "35M",
+        "value": "35.65M",
         "demand": "6/10"
     },
     "GOLDEN HUGE MOSAIC GRIFFIN": {
@@ -1436,7 +1436,7 @@
         "demand": "6/10"
     },
     "HUGE MOSAIC CORGI": {
-        "value": "32.9M",
+        "value": "33.15M",
         "demand": "5/10"
     },
     "GOLDEN HUGE MOSAIC CORGI": {
@@ -1484,7 +1484,7 @@
         "demand": "7/10"
     },
     "HUGE TIEDYE CORGI": {
-        "value": "36.4M",
+        "value": "36.55M",
         "demand": "5/10"
     },
     "GOLDEN HUGE TIEDYE CORGI": {
@@ -1496,7 +1496,7 @@
         "demand": "7/10"
     },
     "HUGE TIEDYE CAT": {
-        "value": "33.7M",
+        "value": "32.7M",
         "demand": "6/10"
     },
     "GOLDEN HUGE TIEDYE CAT": {
@@ -1832,7 +1832,7 @@
         "demand": "7/10"
     },
     "HUGE SKELETON": {
-        "value": "31M",
+        "value": "30.95M",
         "demand": "5/10"
     },
     "GOLDEN HUGE SKELETON": {
@@ -1844,7 +1844,7 @@
         "demand": "5/10"
     },
     "HUGE GHOST": {
-        "value": "32.8M",
+        "value": "32.5M",
         "demand": "5/10"
     },
     "GOLDEN HUGE GHOST": {
@@ -2100,7 +2100,7 @@
         "demand": "8/10"
     },
     "HUGE STRAWBERRY CORGI": {
-        "value": "33.4M",
+        "value": "33.75M",
         "demand": "5/10"
     },
     "RAINBOW HUGE STRAWBERRY CORGI": {
@@ -4148,7 +4148,7 @@
         "demand": "8/10"
     },
     "HUGE JOLLY NARWHAL": {
-        "value": "29.2M",
+        "value": "27M",
         "demand": "5/10"
     },
     "HUGE PROPELLER CAT": {
