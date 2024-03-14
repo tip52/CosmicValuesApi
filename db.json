@@ -4,7 +4,7 @@
         "demand": "8/10"
     },
     "RAINBOW HUGE CAT": {
-        "value": "1.05B",
+        "value": "1.075B",
         "demand": "7/10"
     },
     "HUGE PUMPKIN CAT": {
@@ -16,7 +16,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE PUMPKIN CAT": {
-        "value": "135M",
+        "value": "140M",
         "demand": "7/10"
     },
     "HUGE SANTA PAWS": {
@@ -28,7 +28,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE SANTA PAWS": {
-        "value": "335M",
+        "value": "345M",
         "demand": "7/10"
     },
     "HUGE FESTIVE CAT": {
@@ -52,7 +52,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE FOREST WYVERN": {
-        "value": "280M",
+        "value": "290M",
         "demand": "7/10"
     },
     "HUGE HACKED CAT": {
@@ -64,7 +64,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE HACKED CAT": {
-        "value": "135.2M",
+        "value": "145M",
         "demand": "6/10"
     },
     "HUGE GARGOYLE DRAGON": {
@@ -76,7 +76,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE GARGOYLE DRAGON": {
-        "value": "260M",
+        "value": "270M",
         "demand": "7/10"
     },
     "HUGE DOG": {
@@ -88,7 +88,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE DOG": {
-        "value": "255M",
+        "value": "270M",
         "demand": "7/10"
     },
     "HUGE DRAGON": {
@@ -2332,7 +2332,7 @@
         "demand": "8/10"
     },
     "SHINY HUGE PARTY PENGUIN": {
-        "value": "285M",
+        "value": "310M",
         "demand": "6/10"
     },
     "SHINY HUGE PARTY AXOLOTL": {
@@ -2352,7 +2352,7 @@
         "demand": "4/10"
     },
     "SHINY HUGE SNOWMAN": {
-        "value": "160M",
+        "value": "175M",
         "demand": "6/10"
     },
     "SHINY HUGE JOLLY PENGUIN": {
@@ -2396,15 +2396,15 @@
         "demand": "5/10"
     },
     "SHINY HUGE REINDEER AXOLOTL": {
-        "value": "475M",
+        "value": "500M",
         "demand": "6/10"
     },
     "SHINY HUGE REINDEER DOG": {
-        "value": "455M",
+        "value": "475M",
         "demand": "6/10"
     },
     "SHINY HUGE SANTA DRAGON": {
-        "value": "655M",
+        "value": "700M",
         "demand": "7/10"
     },
     "SHINY HUGE SANTA MONKEY": {
