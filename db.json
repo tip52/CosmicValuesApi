@@ -780,7 +780,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE COMET CYCLOPS": {
-        "value": "315M",
+        "value": "340M",
         "demand": "7/10"
     },
     "HUGE COMET AGONY": {
@@ -804,7 +804,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE CLOVER DRAGON": {
-        "value": "615M",
+        "value": "650M",
         "demand": "7/10"
     },
     "HUGE CLOVER UNICORN": {
@@ -828,7 +828,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE LEPRECHAUN CAT": {
-        "value": "97.5M",
+        "value": "100M",
         "demand": "6/10"
     },
     "HUGE BREAD SHIBA": {
@@ -852,7 +852,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE KAWAII CAT": {
-        "value": "575M",
+        "value": "610M",
         "demand": "7/10"
     },
     "HUGE NINJA AXOLOTL": {
@@ -864,7 +864,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE NINJA AXOLOTL": {
-        "value": "250M",
+        "value": "265M",
         "demand": "6/10"
     },
     "HUGE KAWAII DRAGON": {
@@ -876,7 +876,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE KAWAII DRAGON": {
-        "value": "180M",
+        "value": "190M",
         "demand": "6/10"
     },
     "HUGE HOLOGRAM AXOLOTL": {
@@ -884,7 +884,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE HOLOGRAM AXOLOTL": {
-        "value": "265M",
+        "value": "290M",
         "demand": "6/10"
     },
     "HUGE HOLOGRAM SHARK": {
@@ -892,7 +892,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE HOLOGRAM SHARK": {
-        "value": "230M",
+        "value": "245M",
         "demand": "6/10"
     },
     "HUGE ERROR CAT": {
@@ -904,7 +904,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE ERROR CAT": {
-        "value": "97.5M",
+        "value": "100M",
         "demand": "6/10"
     },
     "HUGE MARSHMALLOW AGONY": {
@@ -916,7 +916,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE MARSHMALLOW AGONY": {
-        "value": "117.5M",
+        "value": "130M",
         "demand": "7/10"
     },
     "HUGE EASTER DOMINUS": {
@@ -928,7 +928,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE EASTER DOMINUS": {
-        "value": "120M",
+        "value": "117M",
         "demand": "7/10"
     },
     "HUGE PAINTED CAT": {
@@ -952,7 +952,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE EASTER BUNNY": {
-        "value": "290M",
+        "value": "310M",
         "demand": "6/10"
     },
     "HUGE REDSTONE CAT": {
@@ -960,7 +960,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE REDSTONE CAT": {
-        "value": "250M",
+        "value": "275M",
         "demand": "7/10"
     },
     "HUGE AMETHYST DRAGON": {
@@ -968,7 +968,7 @@
         "demand": "7/10"
     },
     "RAINBOW HUGE AMETHYST DRAGON": {
-        "value": "390M",
+        "value": "415M",
         "demand": "7/10"
     },
     "HUGE EASTER YETI": {
@@ -980,7 +980,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE EASTER YETI": {
-        "value": "117.5M",
+        "value": "126M",
         "demand": "6/10"
     },
     "HUGE GOBLIN": {
@@ -992,7 +992,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE GOBLIN": {
-        "value": "97.5M",
+        "value": "100M",
         "demand": "5/10"
     },
     "HUGE COLORFUL SLIME": {
@@ -1004,7 +1004,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE COLORFUL SLIME": {
-        "value": "100M",
+        "value": "120M",
         "demand": "6/10"
     },
     "HUGE GECKO": {
@@ -1036,7 +1036,7 @@
         "demand": "7/10"
     },
     "RAINBOW HUGE M10 PROTOTYPE": {
-        "value": "375M",
+        "value": "400M",
         "demand": "7/10"
     },
     "HUGE PINATA CAT": {
@@ -1080,7 +1080,7 @@
         "demand": "7/10"
     },
     "RAINBOW HUGE JELLY PIG": {
-        "value": "510M",
+        "value": "550M",
         "demand": "8/10"
     },
     "HUGE JELLY CORGI": {
@@ -1088,7 +1088,7 @@
         "demand": "7/10"
     },
     "RAINBOW HUGE JELLY CORGI": {
-        "value": "375M",
+        "value": "400M",
         "demand": "7/10"
     },
     "HUGE SOMBRERO CHIHUAHUA": {
@@ -1136,7 +1136,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE FIREFIGHTER DALMATIAN": {
-        "value": "235M",
+        "value": "245M",
         "demand": "7/10"
     },
     "HUGE NIGHTMARE SPIRIT": {
@@ -1144,7 +1144,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE NIGHTMARE SPIRIT": {
-        "value": "285M",
+        "value": "300M",
         "demand": "7/10"
     },
     "HUGE NIGHTMARE KRAKEN": {
@@ -3004,8 +3004,8 @@
         "demand": "1/10"
     },
     "CHEST BREAKER ENCHANT": {
-        "value": "38M",
-        "demand": "2/10"
+        "value": "14M",
+        "demand": "1/10"
     },
     "CHEST MIMIC ENCHANT": {
         "value": "400M",
