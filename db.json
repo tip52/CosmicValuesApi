@@ -2172,11 +2172,11 @@
         "demand": "7/10"
     },
     "TITANIC HIPPOMELON": {
-        "value": "41.6B",
+        "value": "42.9B",
         "demand": "8/10"
     },
     "TITANIC BLOBFISH": {
-        "value": "13.2B",
+        "value": "13.7B",
         "demand": "8/10"
     },
     "TITANIC HOLOGRAM CAT": {
@@ -2232,12 +2232,8 @@
         "demand": "8/10"
     },
     "TITANIC CAT": {
-        "value": "11.2B",
+        "value": "11.55B",
         "demand": "7/10"
-    },
-    "GOLDEN TITANIC CAT": {
-        "value": "24B",
-        "demand": "8/10"
     },
     "TITANIC COSMIC PEGASUS": {
         "value": "3.8B",
