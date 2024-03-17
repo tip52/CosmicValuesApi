@@ -220,15 +220,15 @@
         "demand": "6/10"
     },
     "HUGE HELL ROCK": {
-        "value": "31.2M",
+        "value": "30M",
         "demand": "6/10"
     },
     "GOLDEN HUGE HELL ROCK": {
-        "value": "38.5M",
+        "value": "38M",
         "demand": "6/10"
     },
     "RAINBOW HUGE HELL ROCK": {
-        "value": "98.5M",
+        "value": "97M",
         "demand": "7/10"
     },
     "HUGE CYBORG CAPYBARA": {
@@ -1360,19 +1360,19 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE LUCKI AGONY": {
-        "value": "4.5B",
+        "value": "4.6B",
         "demand": "8/10"
     },
     "HUGE HAPPY ROCK": {
-        "value": "28.8M",
+        "value": "28.5M",
         "demand": "6/10"
     },
     "GOLDEN HUGE HAPPY ROCK": {
-        "value": "44.5M",
+        "value": "43.7M",
         "demand": "6/10"
     },
     "RAINBOW HUGE HAPPY ROCK": {
-        "value": "92.5M",
+        "value": "91.3M",
         "demand": "7/10"
     },
     "HUGE VAMPIRE BAT": {
@@ -3408,7 +3408,7 @@
         "demand": "6/10"
     },
     "HUGE EVOLVED HELL ROCK": {
-        "value": "40M",
+        "value": "40.3M",
         "demand": "5/10"
     },
     "RAINBOW HUGE EVOLVED HELL ROCK": {
@@ -4884,15 +4884,15 @@
         "demand": "7/10"
     },
     "HUGE HAPPY COMPUTER": {
-        "value": "28.7M",
+        "value": "28.3M",
         "demand": "5/10"
     },
     "GOLDEN HUGE HAPPY COMPUTER": {
-        "value": "37M",
+        "value": "39M",
         "demand": "5/10"
     },
     "RAINBOW HUGE HAPPY COMPUTER": {
-        "value": "94.1M",
+        "value": "93.6M",
         "demand": "6/10"
     },
     "HUGE JELLY AXOLOTL": {
@@ -5300,11 +5300,15 @@
         "demand": "6/10"
     },
     "SHINY HUGE HAPPY COMPUTER": {
-        "value": "92.5M",
+        "value": "93.6M",
         "demand": "7/10"
     },
     "SHINY GOLDEN HUGE HAPPY COMPUTER": {
-        "value": "170M",
+        "value": "215M",
+        "demand": "7/10"
+    },
+    "SHINY RAINBOW HUGE HAPPY COMPUTER": {
+        "value": "650M",
         "demand": "7/10"
     },
     "HUGE COLORFUL WISP": {
@@ -5318,5 +5322,33 @@
     "SHINY TITANIC KAWAII CAT": {
         "value": "9B",
         "demand": "7/10"
+    },
+    "HUGE JESTER DOG": {
+        "value": "65M",
+        "demand": "5/10"
+    },
+    "RAINBOW HUGE JESTER DOG": {
+        "value": "210M",
+        "demand": "6/10"
+    },
+    "SHINY HUGE JESTER DOG": {
+        "value": "115M",
+        "demand": "6/10"
+    },
+    "HUGE SUPER TIGER": {
+        "value": "100M",
+        "demand": "6/10"
+    },
+    "HUGE RICH CAT": {
+        "value": "85M",
+        "demand": "5/10"
+    },
+    "RAINBOW HUGE RICH CAT": {
+        "value": "350M",
+        "demand": "6/10"
+    },
+    "GOLDEN HUGE RICH CAT": {
+        "value": "115M",
+        "demand": "5/10"
     }
 }
