@@ -1696,7 +1696,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE UNICORN": {
-        "value": "500M",
+        "value": "510M",
         "demand": "7/10"
     },
     "HUGE CRYSTAL DOG": {
@@ -1720,7 +1720,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE NIGHTFALL WOLF": {
-        "value": "355M",
+        "value": "370M",
         "demand": "7/10"
     },
     "HUGE NIGHTFALL PEGASUS": {
@@ -1732,7 +1732,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE NIGHTFALL PEGASUS": {
-        "value": "390M",
+        "value": "410M",
         "demand": "7/10"
     },
     "HUGE CHEST MIMIC": {
@@ -1744,7 +1744,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE CHEST MIMIC": {
-        "value": "515M",
+        "value": "530M",
         "demand": "7/10"
     },
     "HUGE TECH CHEST MIMIC": {
@@ -1780,7 +1780,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE SAPPHIRE PHOENIX": {
-        "value": "305M",
+        "value": "320M",
         "demand": "7/10"
     },
     "HUGE TECHNO CAT": {
@@ -1804,7 +1804,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE CHEERFUL YETI": {
-        "value": "300M",
+        "value": "325M",
         "demand": "6/10"
     },
     "HUGE CORGI": {
@@ -1816,7 +1816,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE CORGI": {
-        "value": "400M",
+        "value": "420M",
         "demand": "7/10"
     },
     "HUGE DUCKY": {
@@ -1828,7 +1828,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE DUCKY": {
-        "value": "405M",
+        "value": "425M",
         "demand": "7/10"
     },
     "HUGE SKELETON": {
@@ -1840,7 +1840,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE SKELETON": {
-        "value": "125M",
+        "value": "130M",
         "demand": "5/10"
     },
     "HUGE GHOST": {
@@ -1852,7 +1852,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE GHOST": {
-        "value": "125M",
+        "value": "135M",
         "demand": "5/10"
     },
     "HUGE MONKEY": {
@@ -1888,7 +1888,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE REINDEER AXOLOTL": {
-        "value": "550M",
+        "value": "580M",
         "demand": "7/10"
     },
     "HUGE REINDEER DOG": {
@@ -1900,7 +1900,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE REINDEER DOG": {
-        "value": "560M",
+        "value": "590M",
         "demand": "7/10"
     },
     "HUGE SANTA DRAGON": {
@@ -1912,7 +1912,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE SANTA DRAGON": {
-        "value": "950M",
+        "value": "975M",
         "demand": "8/10"
     },
     "HUGE SANTA MONKEY": {
@@ -1924,7 +1924,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE SANTA MONKEY": {
-        "value": "850M",
+        "value": "875M",
         "demand": "7/10"
     },
     "HUGE SQUIRREL": {
@@ -1956,7 +1956,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE GLEEBO THE ALIEN": {
-        "value": "550M",
+        "value": "565M",
         "demand": "7/10"
     },
     "HUGE PASTEL SOCK DRAGON": {
@@ -1992,7 +1992,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE CROCODILE": {
-        "value": "175M",
+        "value": "178M",
         "demand": "6/10"
     },
     "HUGE MERMAID CAT": {
@@ -2004,7 +2004,7 @@
         "demand": "4/10"
     },
     "RAINBOW HUGE MERMAID CAT": {
-        "value": "170M",
+        "value": "176M",
         "demand": "6/10"
     },
     "HUGE GIRAFFE": {
@@ -2016,7 +2016,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE GIRAFFE": {
-        "value": "150M",
+        "value": "159M",
         "demand": "6/10"
     },
     "HUGE RED PANDA": {
@@ -2032,7 +2032,15 @@
         "demand": "6/10"
     },
     "HUGE BEARSERKER": {
-        "value": "180M",
+        "value": "140M",
+        "demand": "6/10"
+    },
+    "GOLDEN HUGE BEARSERKER": {
+        "value": "250M",
+        "demand": "6/10"
+    },
+    "RAINBOW HUGE BEARSERKER": {
+        "value": "350M",
         "demand": "6/10"
     },
     "HUGE DOVE": {
@@ -2064,7 +2072,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE POSEIDON CORGI": {
-        "value": "100M",
+        "value": "107M",
         "demand": "7/10"
     },
     "HUGE FOSSIL DRAGON": {
