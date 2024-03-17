@@ -1372,7 +1372,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE HAPPY ROCK": {
-        "value": "90.5M",
+        "value": "92.5M",
         "demand": "7/10"
     },
     "HUGE VAMPIRE BAT": {
@@ -1384,7 +1384,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE VAMPIRE BAT": {
-        "value": "305M",
+        "value": "330M",
         "demand": "7/10"
     },
     "HUGE STEALTH DRAGON": {
@@ -1396,7 +1396,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE STEALTH DRAGON": {
-        "value": "210M",
+        "value": "220M",
         "demand": "7/10"
     },
     "HUGE STEALTH BOBCAT": {
@@ -1408,7 +1408,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE STEALTH BOBCAT": {
-        "value": "240M",
+        "value": "250M",
         "demand": "6/10"
     },
     "HUGE MOSAIC LAMB": {
@@ -1420,7 +1420,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE MOSAIC LAMB": {
-        "value": "170M",
+        "value": "180M",
         "demand": "7/10"
     },
     "HUGE MOSAIC GRIFFIN": {
@@ -1432,7 +1432,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE MOSAIC GRIFFIN": {
-        "value": "130M",
+        "value": "135M",
         "demand": "6/10"
     },
     "HUGE MOSAIC CORGI": {
@@ -1444,7 +1444,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE MOSAIC CORGI": {
-        "value": "105M",
+        "value": "107.5M",
         "demand": "6/10"
     },
     "HUGE PIXEL DRAGON": {
@@ -1456,7 +1456,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE PIXEL DRAGON": {
-        "value": "310M",
+        "value": "335M",
         "demand": "7/10"
     },
     "HUGE PIXEL CORGI": {
@@ -3012,43 +3012,43 @@
         "demand": "8/10"
     },
     "EXOTIC PET ENCHANT": {
-        "value": "20K",
+        "value": "11K",
         "demand": "2/10"
     },
     "FIREWORKS ENCHANT": {
-        "value": "2M",
-        "demand": "6/10"
+        "value": "1.1M",
+        "demand": "4/10"
     },
     "FORTUNE ENCHANT": {
-        "value": "35K",
+        "value": "19K",
         "demand": "2/10"
     },
     "HUGE HUNTER ENCHANT": {
-        "value": "5.8M",
+        "value": "6M",
         "demand": "3/10"
     },
     "LIGHTNING ENCHANT": {
-        "value": "4K",
+        "value": "1.5K",
         "demand": "1/10"
     },
     "LUCKY BLOCK ENCHANT": {
-        "value": "37.5M",
-        "demand": "6/10"
+        "value": "23M",
+        "demand": "3/10"
     },
     "MIDAS TOUCH": {
         "value": "3K",
         "demand": "1/10"
     },
     "SHINY HUNTER ENCHANT": {
-        "value": "770K",
-        "demand": "2/10"
+        "value": "1M",
+        "demand": "3/10"
     },
     "STARFALL ENCHANT": {
-        "value": "1.05M",
+        "value": "920K",
         "demand": "3/10"
     },
     "SUPER LIGHTNING ENCHANT": {
-        "value": "800K",
+        "value": "750K",
         "demand": "3/10"
     },
     "COINS FLAG": {
@@ -4248,15 +4248,15 @@
         "demand": "5/10"
     },
     "PARTY TIME ENCHANT": {
-        "value": "3.4M",
+        "value": "3.1M",
         "demand": "4/10"
     },
     "MASSIVE COMET ENCHANT": {
-        "value": "31M",
+        "value": "30M",
         "demand": "4/10"
     },
     "DIAMOND CHEST MIMIC ENCHANT": {
-        "value": "72M",
+        "value": "79M",
         "demand": "5/10"
     },
     "HUGE LUCKI": {
@@ -4488,15 +4488,15 @@
         "demand": "3/10"
     },
     "LARGE TAP ENCHANT": {
-        "value": "10K",
-        "demand": "4/10"
+        "value": "3.4K",
+        "demand": "2/10"
     },
     "LUCKY BLOCK": {
         "value": "12K",
         "demand": "3/10"
     },
     "MAGIC ORB ENCHANT": {
-        "value": "220K",
+        "value": "200K",
         "demand": "3/10"
     },
     "MAGIC SHARD": {
@@ -4528,7 +4528,7 @@
         "demand": "7/10"
     },
     "SUPERBLAST ENCHANT": {
-        "value": "15K",
+        "value": "2.4K",
         "demand": "3/10"
     },
     "DAYCARE TICKET": {
@@ -4972,12 +4972,12 @@
         "demand": "3/10"
     },
     "SHINY SUPER HUNTER": {
-        "value": "55M",
+        "value": "63M",
         "demand": "7/10"
     },
     "BOSS CHEST MIMIC": {
-        "value": "165M",
-        "demand": "8/10"
+        "value": "120M",
+        "demand": "6/10"
     },
     "EXCLUSIVE SUPER JELLY EGG": {
         "value": "13.7M",
