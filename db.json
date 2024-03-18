@@ -5140,7 +5140,7 @@
         "demand": "2/10"
     },
     "HUGE MACHINE BLURRED DOMINUS EGG": {
-        "value": "72.5M",
+        "value": "92M",
         "demand": "6/10"
     },
     "HUGE CYBER AGONY": {
@@ -5355,12 +5355,36 @@
         "value": "115M",
         "demand": "5/10"
     },
+    "ARCADE EGG 20X": {
+        "value": "2.4M",
+        "demand": "5/10"
+    },
+    "ARCADE EGG 50X": {
+        "value": "6.25M",
+        "demand": "6/10"
+    },
+    "ARCADE EGG 10X": {
+        "value": "700K",
+        "demand": "4/10"
+    },
+    "ARCADE EGG 1X": {
+        "value": "400K",
+        "demand": "2/10"
+    },
+    "ARCADE EGG 5X": {
+        "value": "550K",
+        "demand": "3/10"
+    },
     "SUPER MAGNET ENCHANT": {
         "value": "75M",
         "demand": "7/10"
     },
     "BOSS LUCKY BLOCK ENCHANT": {
         "value": "125M",
+        "demand": "5/10"
+    },
+    "SUPER HERO EXCLUSIVE EGG": {
+        "value": "13M",
         "demand": "5/10"
     },
     "ADVENTURER LOOTBOX": {
