@@ -1,30 +1,30 @@
 {
     "HUGE CAT": {
-        "value": "870M",
+        "value": "1B",
         "demand": "8/10"
     },
     "RAINBOW HUGE CAT": {
-        "value": "1.6B",
+        "value": "1.7B",
         "demand": "7/10"
     },
     "HUGE PUMPKIN CAT": {
-        "value": "47M",
+        "value": "47.5M",
         "demand": "7/10"
     },
     "GOLDEN HUGE PUMPKIN CAT": {
-        "value": "54.6M",
+        "value": "56M",
         "demand": "6/10"
     },
     "RAINBOW HUGE PUMPKIN CAT": {
-        "value": "186M",
+        "value": "205M",
         "demand": "7/10"
     },
     "HUGE SANTA PAWS": {
-        "value": "122.5M",
+        "value": "140M",
         "demand": "5/10"
     },
     "GOLDEN HUGE SANTA PAWS": {
-        "value": "135M",
+        "value": "147.5M",
         "demand": "6/10"
     },
     "RAINBOW HUGE SANTA PAWS": {
@@ -32,23 +32,23 @@
         "demand": "7/10"
     },
     "HUGE FESTIVE CAT": {
-        "value": "42M",
+        "value": "40.5M",
         "demand": "6/10"
     },
     "GOLDEN HUGE FESTIVE CAT": {
-        "value": "48M",
+        "value": "47M",
         "demand": "6/10"
     },
     "RAINBOW HUGE FESTIVE CAT": {
-        "value": "146M",
+        "value": "150M",
         "demand": "6/10"
     },
     "HUGE FOREST WYVERN": {
-        "value": "117.5M",
+        "value": "125M",
         "demand": "7/10"
     },
     "GOLDEN HUGE FOREST WYVERN": {
-        "value": "135M",
+        "value": "150M",
         "demand": "5/10"
     },
     "RAINBOW HUGE FOREST WYVERN": {
@@ -64,7 +64,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE HACKED CAT": {
-        "value": "156M",
+        "value": "167.5M",
         "demand": "6/10"
     },
     "HUGE GARGOYLE DRAGON": {
@@ -72,7 +72,7 @@
         "demand": "6/10"
     },
     "GOLDEN HUGE GARGOYLE DRAGON": {
-        "value": "170M",
+        "value": "190M",
         "demand": "6/10"
     },
     "RAINBOW HUGE GARGOYLE DRAGON": {
@@ -80,7 +80,7 @@
         "demand": "7/10"
     },
     "HUGE DOG": {
-        "value": "51M",
+        "value": "53M",
         "demand": "6/10"
     },
     "GOLDEN HUGE DOG": {
@@ -96,7 +96,7 @@
         "demand": "6/10"
     },
     "GOLDEN HUGE DRAGON": {
-        "value": "80M",
+        "value": "85M",
         "demand": "6/10"
     },
     "RAINBOW HUGE DRAGON": {
@@ -104,11 +104,11 @@
         "demand": "7/10"
     },
     "HUGE LUCKY CAT": {
-        "value": "85M",
+        "value": "90M",
         "demand": "6/10"
     },
     "GOLDEN HUGE LUCKY CAT": {
-        "value": "100M",
+        "value": "110M",
         "demand": "6/10"
     },
     "RAINBOW HUGE LUCKY CAT": {
