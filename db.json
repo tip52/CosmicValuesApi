@@ -4536,7 +4536,7 @@
         "demand": "3/10"
     },
     "DAYCARE TICKET": {
-        "value": "200K",
+        "value": "65K",
         "demand": "3/10"
     },
     "MYSTERY TICKET": {
@@ -5353,6 +5353,30 @@
     },
     "GOLDEN HUGE RICH CAT": {
         "value": "115M",
+        "demand": "5/10"
+    },
+    "SUPER MAGNET ENCHANT": {
+        "value": "75M",
+        "demand": "7/10"
+    },
+    "BOSS LUCKY BLOCK ENCHANT": {
+        "value": "125M",
+        "demand": "5/10"
+    },
+    "ADVENTURER LOOTBOX": {
+        "value": "42.5M",
+        "demand": "6/10"
+    },
+    "EXCLUSIVE DAYCARE SLOT VOUCHER": {
+        "value": "7.8M",
+        "demand": "4/10"
+    },
+    "HIDDEN TREASURE ULTIMATE": {
+        "value": "215M",
+        "demand": "6/10"
+    },
+    "LIGHTNING STORM ULTIMATE": {
+        "value": "28M",
         "demand": "5/10"
     }
 }
