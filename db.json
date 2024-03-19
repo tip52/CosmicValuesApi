@@ -788,7 +788,7 @@
         "demand": "7/10"
     },
     "GOLDEN HUGE COMET AGONY": {
-        "value": "380M",
+        "value": "400M",
         "demand": "6/10"
     },
     "RAINBOW HUGE COMET AGONY": {
@@ -796,7 +796,7 @@
         "demand": "7/10"
     },
     "HUGE CLOVER DRAGON": {
-        "value": "58M",
+        "value": "60M",
         "demand": "6/10"
     },
     "GOLDEN HUGE CLOVER DRAGON": {
@@ -808,15 +808,15 @@
         "demand": "7/10"
     },
     "HUGE CLOVER UNICORN": {
-        "value": "46M",
-        "demand": "5/10"
-    },
-    "GOLDEN HUGE CLOVER UNICORN": {
         "value": "47.5M",
         "demand": "5/10"
     },
+    "GOLDEN HUGE CLOVER UNICORN": {
+        "value": "50M",
+        "demand": "5/10"
+    },
     "RAINBOW HUGE CLOVER UNICORN": {
-        "value": "120M",
+        "value": "125M",
         "demand": "6/10"
     },
     "HUGE LEPRECHAUN CAT": {
@@ -828,27 +828,27 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE LEPRECHAUN CAT": {
-        "value": "100M",
+        "value": "105M",
         "demand": "6/10"
     },
     "HUGE BREAD SHIBA": {
-        "value": "870M",
+        "value": "890M",
         "demand": "7/10"
     },
     "GOLDEN HUGE BREAD SHIBA": {
-        "value": "925M",
+        "value": "1.05B",
         "demand": "7/10"
     },
     "RAINBOW HUGE BREAD SHIBA": {
-        "value": "4.25B",
+        "value": "4.4B",
         "demand": "7/10"
     },
     "HUGE KAWAII CAT": {
-        "value": "145M",
+        "value": "160M",
         "demand": "7/10"
     },
     "GOLDEN HUGE KAWAII CAT": {
-        "value": "150M",
+        "value": "175M",
         "demand": "6/10"
     },
     "RAINBOW HUGE KAWAII CAT": {
@@ -872,7 +872,7 @@
         "demand": "5/10"
     },
     "GOLDEN HUGE KAWAII DRAGON": {
-        "value": "48M",
+        "value": "50M",
         "demand": "5/10"
     },
     "RAINBOW HUGE KAWAII DRAGON": {
@@ -888,7 +888,7 @@
         "demand": "6/10"
     },
     "HUGE HOLOGRAM SHARK": {
-        "value": "46M",
+        "value": "47.5M",
         "demand": "6/10"
     },
     "RAINBOW HUGE HOLOGRAM SHARK": {
@@ -896,7 +896,7 @@
         "demand": "6/10"
     },
     "HUGE ERROR CAT": {
-        "value": "38.5M",
+        "value": "39M",
         "demand": "5/10"
     },
     "GOLDEN HUGE ERROR CAT": {
@@ -916,11 +916,11 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE MARSHMALLOW AGONY": {
-        "value": "130M",
+        "value": "140M",
         "demand": "7/10"
     },
     "HUGE EASTER DOMINUS": {
-        "value": "43M",
+        "value": "41M",
         "demand": "6/10"
     },
     "GOLDEN HUGE EASTER DOMINUS": {
@@ -928,11 +928,11 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE EASTER DOMINUS": {
-        "value": "117M",
+        "value": "150M",
         "demand": "7/10"
     },
     "HUGE PAINTED CAT": {
-        "value": "39M",
+        "value": "43M",
         "demand": "5/10"
     },
     "GOLDEN HUGE PAINTED CAT": {
@@ -940,7 +940,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE PAINTED CAT": {
-        "value": "115M",
+        "value": "125M",
         "demand": "6/10"
     },
     "HUGE EASTER BUNNY": {
@@ -956,7 +956,7 @@
         "demand": "6/10"
     },
     "HUGE REDSTONE CAT": {
-        "value": "55M",
+        "value": "56M",
         "demand": "6/10"
     },
     "RAINBOW HUGE REDSTONE CAT": {
@@ -964,7 +964,7 @@
         "demand": "7/10"
     },
     "HUGE AMETHYST DRAGON": {
-        "value": "65M",
+        "value": "72.5M",
         "demand": "7/10"
     },
     "RAINBOW HUGE AMETHYST DRAGON": {
@@ -980,11 +980,11 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE EASTER YETI": {
-        "value": "126M",
+        "value": "130M",
         "demand": "6/10"
     },
     "HUGE GOBLIN": {
-        "value": "31M",
+        "value": "30M",
         "demand": "5/10"
     },
     "GOLDEN HUGE GOBLIN": {
@@ -1008,19 +1008,19 @@
         "demand": "6/10"
     },
     "HUGE GECKO": {
-        "value": "36.5M",
+        "value": "43M",
         "demand": "5/10"
     },
     "GOLDEN HUGE GECKO": {
-        "value": "52.5M",
+        "value": "55M",
         "demand": "5/10"
     },
     "RAINBOW HUGE GECKO": {
-        "value": "115M",
+        "value": "125M",
         "demand": "6/10"
     },
     "HUGE KRAKEN": {
-        "value": "240M",
+        "value": "245M",
         "demand": "6/10"
     },
     "GOLDEN HUGE KRAKEN": {
@@ -1028,11 +1028,11 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE KRAKEN": {
-        "value": "2.3B",
+        "value": "2.4B",
         "demand": "7/10"
     },
     "HUGE M10 PROTOTYPE": {
-        "value": "117.5M",
+        "value": "125M",
         "demand": "7/10"
     },
     "RAINBOW HUGE M10 PROTOTYPE": {
@@ -1040,7 +1040,7 @@
         "demand": "8/10"
     },
     "HUGE PINATA CAT": {
-        "value": "145M",
+        "value": "150M",
         "demand": "7/10"
     },
     "GOLDEN HUGE PINATA CAT": {
