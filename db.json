@@ -444,7 +444,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE ELF CAT": {
-        "value": "120M",
+        "value": "130M",
         "demand": "6/10"
     },
     "HUGE ELF DOG": {
@@ -456,7 +456,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE ELF DOG": {
-        "value": "110M",
+        "value": "130M",
         "demand": "6/10"
     },
     "HUGE CROWNED CAT": {
@@ -628,7 +628,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE KING COBRA": {
-        "value": "110M",
+        "value": "105M",
         "demand": "7/10"
     },
     "HUGE PEACOCK": {
@@ -640,7 +640,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE PEACOCK": {
-        "value": "100M",
+        "value": "105M",
         "demand": "6/10"
     },
     "HUGE ANGELUS": {
@@ -904,7 +904,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE ERROR CAT": {
-        "value": "100M",
+        "value": "105M",
         "demand": "6/10"
     },
     "HUGE MARSHMALLOW AGONY": {
@@ -916,7 +916,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE MARSHMALLOW AGONY": {
-        "value": "140M",
+        "value": "135M",
         "demand": "7/10"
     },
     "HUGE EASTER DOMINUS": {
@@ -928,7 +928,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE EASTER DOMINUS": {
-        "value": "150M",
+        "value": "145M",
         "demand": "7/10"
     },
     "HUGE PAINTED CAT": {
@@ -940,7 +940,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE PAINTED CAT": {
-        "value": "125M",
+        "value": "122M",
         "demand": "6/10"
     },
     "HUGE EASTER BUNNY": {
@@ -980,7 +980,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE EASTER YETI": {
-        "value": "130M",
+        "value": "126M",
         "demand": "6/10"
     },
     "HUGE GOBLIN": {
@@ -1004,7 +1004,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE COLORFUL SLIME": {
-        "value": "120M",
+        "value": "105M",
         "demand": "6/10"
     },
     "HUGE GECKO": {
@@ -1768,7 +1768,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE ENCHANTED DEER": {
-        "value": "100M",
+        "value": "105M",
         "demand": "5/10"
     },
     "HUGE SAPPHIRE PHOENIX": {
@@ -1852,7 +1852,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE GHOST": {
-        "value": "135M",
+        "value": "140M",
         "demand": "5/10"
     },
     "HUGE MONKEY": {
@@ -1936,7 +1936,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE SQUIRREL": {
-        "value": "110M",
+        "value": "112.5M",
         "demand": "6/10"
     },
     "HUGE WHITE BALLOON CAT": {
@@ -2072,7 +2072,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE POSEIDON CORGI": {
-        "value": "107M",
+        "value": "111M",
         "demand": "7/10"
     },
     "HUGE FOSSIL DRAGON": {
@@ -4164,7 +4164,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE PROPELLER CAT": {
-        "value": "105M",
+        "value": "120M",
         "demand": "6/10"
     },
     "HUGE WIZARD WESTIE": {
@@ -4188,7 +4188,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE SHADOW DOMINUS": {
-        "value": "142M",
+        "value": "145M",
         "demand": "7/10"
     },
     "HUGE FLUFFY CAT": {
@@ -4200,7 +4200,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE FLUFFY CAT": {
-        "value": "122.5M",
+        "value": "130M",
         "demand": "6/10"
     },
     "HUGE KNIGHT BEAGLE": {
@@ -4212,7 +4212,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE KNIGHT BEAGLE": {
-        "value": "116M",
+        "value": "126M",
         "demand": "6/10"
     },
     "HUGE ZEBRA": {
@@ -4224,7 +4224,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE ZEBRA": {
-        "value": "100M",
+        "value": "105M",
         "demand": "6/10"
     },
     "HUGE ROBBER PUG": {
@@ -4236,7 +4236,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE ROBBER PUG": {
-        "value": "104.5M",
+        "value": "112M",
         "demand": "6/10"
     },
     "BANANA HOVERBOARD": {
@@ -5272,7 +5272,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE KOI FISH": {
-        "value": "151M",
+        "value": "142.5M",
         "demand": "6/10"
     },
     "SHINY HUGE KOI FISH": {
@@ -5288,7 +5288,7 @@
         "demand": "4/10"
     },
     "RAINBOW HUGE ELEPHANT": {
-        "value": "185M",
+        "value": "180M",
         "demand": "6/10"
     },
     "SHINY HUGE ELEPHANT": {
@@ -5304,7 +5304,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE BEE": {
-        "value": "113M",
+        "value": "130M",
         "demand": "6/10"
     },
     "SHINY HUGE BEE": {
@@ -5358,6 +5358,10 @@
     "HUGE SUPER TIGER": {
         "value": "100M",
         "demand": "6/10"
+    },
+    "RAINBOW HUGE SUPER TIGER": {
+        "value": "350M",
+        "demand": "7/10"
     },
     "HUGE RICH CAT": {
         "value": "85M",
