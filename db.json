@@ -2308,7 +2308,7 @@
         "demand": "5/10"
     },
     "SHINY HUGE WHITE BALLOON CAT": {
-        "value": "2.3B",
+        "value": "2.55B",
         "demand": "8/10"
     },
     "SHINY HUGE BALLOON CAT": {
@@ -2612,7 +2612,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE TIKI DOMINUS": {
-        "value": "915M",
+        "value": "975M",
         "demand": "7/10"
     },
     "SHINY HUGE PUFFERFISH": {
@@ -2640,7 +2640,7 @@
         "demand": "5/10"
     },
     "SHINY HUGE WILD FIRE AGONY": {
-        "value": "235M",
+        "value": "250M",
         "demand": "6/10"
     },
     "SHINY HUGE COSMIC AXOLOTL": {
@@ -2660,23 +2660,23 @@
         "demand": "5/10"
     },
     "SHINY HUGE VAMPIRE BAT": {
-        "value": "200M",
+        "value": "210M",
         "demand": "6/10"
     },
     "SHINY HUGE TIEDYE AXOLOTL": {
-        "value": "255M",
+        "value": "265M",
         "demand": "4/10"
     },
     "SHINY HUGE TIEDYE BUNNY": {
-        "value": "235M",
+        "value": "245M",
         "demand": "3/10"
     },
     "SHINY HUGE TIEDYE CAT": {
-        "value": "185M",
+        "value": "195M",
         "demand": "5/10"
     },
     "SHINY HUGE TIEDYE CORGI": {
-        "value": "190M",
+        "value": "200M",
         "demand": "5/10"
     },
     "SHINY HUGE CRYSTAL DOG": {
@@ -2812,7 +2812,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE TECHNO CAT": {
-        "value": "140M",
+        "value": "150M",
         "demand": "6/10"
     },
     "SHINY HUGE CHEERFUL YETI": {
@@ -4384,7 +4384,7 @@
         "demand": "6/10"
     },
     "SHINY HUGE ZEBRA": {
-        "value": "107.5M",
+        "value": "115M",
         "demand": "5/10"
     },
     "SHINY HUGE HOLIDAY PEGASUS": {
@@ -4684,7 +4684,7 @@
         "demand": "1/10"
     },
     "SHINY HUGE UNICORN DRAGON": {
-        "value": "985M",
+        "value": "1.1B",
         "demand": "6/10"
     },
     "SHINY HUGE STRAWBERRY CORGI": {
@@ -4760,43 +4760,43 @@
         "demand": "9/10"
     },
     "SHINY BLUE HUGE CHROMA LUCKI": {
-        "value": "170M",
+        "value": "180M",
         "demand": "6/10"
     },
     "SHINY ORANGE HUGE CHROMA LUCKI": {
-        "value": "205M",
+        "value": "215M",
         "demand": "7/10"
     },
     "SHINY PINK HUGE CHROMA LUCKI": {
-        "value": "165M",
+        "value": "175M",
         "demand": "6/10"
     },
     "SHINY RED HUGE CHROMA LUCKI": {
-        "value": "325M",
+        "value": "345M",
         "demand": "8/10"
     },
     "SHINY YELLOW HUGE CHROMA LUCKI": {
-        "value": "160M",
+        "value": "170M",
         "demand": "6/10"
     },
     "SHINY BLUE HUGE CHROMA LUCKY BLOCK": {
-        "value": "250M",
+        "value": "260M",
         "demand": "7/10"
     },
     "SHINY ORANGE HUGE CHROMA LUCKY BLOCK": {
-        "value": "625M",
+        "value": "650M",
         "demand": "7/10"
     },
     "SHINY PINK HUGE CHROMA LUCKY BLOCK": {
-        "value": "225M",
+        "value": "235M",
         "demand": "6/10"
     },
     "SHINY RED HUGE CHROMA LUCKY BLOCK": {
-        "value": "1.4B",
+        "value": "1.5B",
         "demand": "8/10"
     },
     "SHINY YELLOW HUGE CHROMA LUCKY BLOCK": {
-        "value": "200M",
+        "value": "210M",
         "demand": "6/10"
     },
     "RAINBOW BLUE HUGE CHROMA LUCKY BLOCK": {
@@ -4828,7 +4828,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE VALENTINES CAT": {
-        "value": "220M",
+        "value": "230M",
         "demand": "6/10"
     },
     "SHINY HUGE HEART BALLOON CAT": {
@@ -5232,7 +5232,7 @@
         "demand": "7/10"
     },
     "SHINY HUGE WILLOW WISP": {
-        "value": "125M",
+        "value": "140M",
         "demand": "6/10"
     },
     "HUGE RED FLUFFY": {
@@ -5361,6 +5361,10 @@
     },
     "HUGE SUPER TIGER": {
         "value": "100M",
+        "demand": "6/10"
+    },
+    "SHINY HUGE SUPER TIGER": {
+        "value": "300M",
         "demand": "6/10"
     },
     "RAINBOW HUGE SUPER TIGER": {
