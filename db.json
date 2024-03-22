@@ -2144,7 +2144,7 @@
         "demand": "7/10"
     },
     "RAINBOW TITANIC BLUE BALLOON CAT": {
-        "value": "19.95B",
+        "value": "25B",
         "demand": "7/10"
     },
     "TITANIC RED BALLOON CAT": {
@@ -2152,7 +2152,7 @@
         "demand": "7/10"
     },
     "RAINBOW TITANIC RED BALLOON CAT": {
-        "value": "19.95B",
+        "value": "25B",
         "demand": "7/10"
     },
     "TITANIC HUBERT": {
@@ -2160,7 +2160,7 @@
         "demand": "7/10"
     },
     "RAINBOW TITANIC HUBERT": {
-        "value": "29.4B",
+        "value": "36.3B",
         "demand": "7/10"
     },
     "TITANIC DOMINUS ASTRA": {
@@ -2168,7 +2168,7 @@
         "demand": "6/10"
     },
     "RAINBOW TITANIC DOMINUS ASTRA": {
-        "value": "33.6B",
+        "value": "41.3B",
         "demand": "7/10"
     },
     "TITANIC HIPPOMELON": {
@@ -2184,7 +2184,7 @@
         "demand": "6/10"
     },
     "RAINBOW TITANIC HOLOGRAM CAT": {
-        "value": "33.6B",
+        "value": "42.5B",
         "demand": "7/10"
     },
     "TITANIC CAPYBARA": {
@@ -2192,7 +2192,7 @@
         "demand": "7/10"
     },
     "RAINBOW TITANIC CAPYBARA": {
-        "value": "65.1B",
+        "value": "80B",
         "demand": "9/10"
     },
     "TITANIC LUCKI": {
@@ -2200,11 +2200,11 @@
         "demand": "6/10"
     },
     "RAINBOW TITANIC LUCKI": {
-        "value": "24.15B",
+        "value": "29B",
         "demand": "7/10"
     },
     "TITANIC MYSTIC CORGI": {
-        "value": "5.9B",
+        "value": "6.45B",
         "demand": "8/10"
     },
     "RAINBOW TITANIC MYSTIC CORGI": {
@@ -2224,7 +2224,7 @@
         "demand": "7/10"
     },
     "RAINBOW TITANIC TIEDYE CAT": {
-        "value": "63B",
+        "value": "77.5B",
         "demand": "9/10"
     },
     "TITANIC TIEDYE DRAGON": {
@@ -2248,7 +2248,7 @@
         "demand": "8/10"
     },
     "RAINBOW TITANIC COSMIC PEGASUS": {
-        "value": "29.4B",
+        "value": "35B",
         "demand": "8/10"
     },
     "TITANIC FIRE DRAGON": {
@@ -2272,7 +2272,7 @@
         "demand": "7/10"
     },
     "RAINBOW TITANIC SCARY CORGI": {
-        "value": "27.3B",
+        "value": "32.5B",
         "demand": "7/10"
     },
     "TITANIC BANANA CAT": {
@@ -2872,31 +2872,31 @@
         "demand": "9/10"
     },
     "SHINY TITANIC BLUE BALLOON CAT": {
-        "value": "9.66B",
+        "value": "11.5B",
         "demand": "6/10"
     },
     "SHINY TITANIC RED BALLOON CAT": {
-        "value": "9.66B",
+        "value": "11.5B",
         "demand": "7/10"
     },
     "SHINY TITANIC HUBERT": {
-        "value": "10.08B",
+        "value": "12B",
         "demand": "7/10"
     },
     "SHINY TITANIC DOMINUS ASTRA": {
-        "value": "10.08B",
+        "value": "12B",
         "demand": "6/10"
     },
     "SHINY TITANIC HOLOGRAM CAT": {
-        "value": "10.08B",
+        "value": "12B",
         "demand": "6/10"
     },
     "SHINY TITANIC CAPYBARA": {
-        "value": "10.5B",
+        "value": "12.5B",
         "demand": "7/10"
     },
     "SHINY TITANIC LUCKI": {
-        "value": "10.08B",
+        "value": "12B",
         "demand": "7/10"
     },
     "SHINY TITANIC MYSTIC CORGI": {
@@ -2908,11 +2908,11 @@
         "demand": "8/10"
     },
     "SHINY TITANIC TIEDYE CAT": {
-        "value": "14.47B",
+        "value": "17.5B",
         "demand": "7/10"
     },
     "SHINY TITANIC TIEDYE DRAGON": {
-        "value": "14.47B",
+        "value": "17.5B",
         "demand": "7/10"
     },
     "SHINY TITANIC ATLANTEAN JELLYFISH": {
@@ -2920,7 +2920,7 @@
         "demand": "7/10"
     },
     "SHINY TITANIC COSMIC PEGASUS": {
-        "value": "10.5B",
+        "value": "13B",
         "demand": "7/10"
     },
     "AXOLOTL BOOTH": {
@@ -4344,11 +4344,11 @@
         "demand": "6/10"
     },
     "SHINY TITANIC MONKEY": {
-        "value": "9.66B",
+        "value": "11.5B",
         "demand": "7/10"
     },
     "RAINBOW TITANIC MONKEY": {
-        "value": "35.7B",
+        "value": "42.5B",
         "demand": "8/10"
     },
     "SHINY TITANIC SILVER DRAGON": {
@@ -4452,11 +4452,11 @@
         "demand": "8/10"
     },
     "RAINBOW TITANIC EMOJI CORGI": {
-        "value": "25.2B",
+        "value": "32.5B",
         "demand": "7/10"
     },
     "SHINY TITANIC EMOJI CORGI": {
-        "value": "17.64B",
+        "value": "21B",
         "demand": "7/10"
     },
     "CRITICAL CHARM": {
@@ -4700,15 +4700,15 @@
         "demand": "8/10"
     },
     "SHINY TITANIC SCARY CORGI": {
-        "value": "16.8B",
+        "value": "20B",
         "demand": "7/10"
     },
     "SHINY TITANIC CORGI": {
-        "value": "9.66B",
+        "value": "11.5B",
         "demand": "6/10"
     },
     "SHINY TITANIC AXOLOTL": {
-        "value": "8.82B",
+        "value": "11B",
         "demand": "6/10"
     },
     "BLUE HUGE CHROMA LUCKI": {
@@ -4872,11 +4872,11 @@
         "demand": "3/10"
     },
     "RAINBOW TITANIC CORGI": {
-        "value": "17.64B",
+        "value": "21B",
         "demand": "6/10"
     },
     "RAINBOW TITANIC AXOLOTL": {
-        "value": "16.8B",
+        "value": "20B",
         "demand": "6/10"
     },
     "EXCLUSIVE VALENTINES EGG": {
@@ -5384,7 +5384,7 @@
         "demand": "7/10"
     },
     "TITANIC BAT CAT": {
-        "value": "5.4B",
+        "value": "5.7B",
         "demand": "7/10"
     },
     "HUGE WHALE SHARK": {
