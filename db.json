@@ -1,6 +1,6 @@
 {
     "HUGE CAT": {
-        "value": "1.35B",
+        "value": "1.55B",
         "demand": "8/10"
     },
     "RAINBOW HUGE CAT": {
@@ -44,11 +44,11 @@
         "demand": "6/10"
     },
     "HUGE FOREST WYVERN": {
-        "value": "160M",
+        "value": "170M",
         "demand": "7/10"
     },
     "GOLDEN HUGE FOREST WYVERN": {
-        "value": "175M",
+        "value": "190M",
         "demand": "5/10"
     },
     "RAINBOW HUGE FOREST WYVERN": {
@@ -164,7 +164,7 @@
         "demand": "6/10"
     },
     "HUGE EASTER CAT": {
-        "value": "260M",
+        "value": "275M",
         "demand": "7/10"
     },
     "GOLDEN HUGE EASTER CAT": {
@@ -232,7 +232,7 @@
         "demand": "7/10"
     },
     "HUGE CYBORG CAPYBARA": {
-        "value": "210M",
+        "value": "220M",
         "demand": "7/10"
     },
     "GOLDEN HUGE CYBORG CAPYBARA": {
@@ -244,7 +244,7 @@
         "demand": "7/10"
     },
     "HUGE CAPYBARA": {
-        "value": "190M",
+        "value": "205M",
         "demand": "7/10"
     },
     "GOLDEN HUGE CAPYBARA": {
@@ -460,11 +460,11 @@
         "demand": "6/10"
     },
     "HUGE CROWNED CAT": {
-        "value": "3.8B",
+        "value": "4.75B",
         "demand": "7/10"
     },
     "HUGE CROWNED CORGI": {
-        "value": "14.5B",
+        "value": "17.5B",
         "demand": "6/10"
     },
     "HUGE JOLLY PENGUIN": {
@@ -744,7 +744,7 @@
         "demand": "7/10"
     },
     "HUGE DIAMOND CAT": {
-        "value": "485M",
+        "value": "560M",
         "demand": "7/10"
     },
     "GOLDEN HUGE DIAMOND CAT": {
@@ -784,7 +784,7 @@
         "demand": "7/10"
     },
     "HUGE COMET AGONY": {
-        "value": "225M",
+        "value": "240M",
         "demand": "7/10"
     },
     "GOLDEN HUGE COMET AGONY": {
@@ -832,7 +832,7 @@
         "demand": "6/10"
     },
     "HUGE BREAD SHIBA": {
-        "value": "945M",
+        "value": "1.08B",
         "demand": "7/10"
     },
     "GOLDEN HUGE BREAD SHIBA": {
@@ -1192,7 +1192,7 @@
         "demand": "6/10"
     },
     "HUGE GAMER SHIBA": {
-        "value": "300M",
+        "value": "345M",
         "demand": "6/10"
     },
     "GOLDEN HUGE GAMER SHIBA": {
@@ -1240,7 +1240,7 @@
         "demand": "7/10"
     },
     "HUGE BUTTERFLY": {
-        "value": "1B",
+        "value": "1.23B",
         "demand": "8/10"
     },
     "GOLDEN HUGE BUTTERFLY": {
@@ -1336,7 +1336,7 @@
         "demand": "7/10"
     },
     "HUGE COSMIC AGONY": {
-        "value": "160M",
+        "value": "180M",
         "demand": "6/10"
     },
     "RAINBOW HUGE COSMIC AGONY": {
@@ -1736,7 +1736,7 @@
         "demand": "7/10"
     },
     "HUGE CHEST MIMIC": {
-        "value": "225M",
+        "value": "240M",
         "demand": "6/10"
     },
     "GOLDEN HUGE CHEST MIMIC": {
@@ -2044,7 +2044,7 @@
         "demand": "6/10"
     },
     "HUGE DOVE": {
-        "value": "100M",
+        "value": "115M",
         "demand": "6/10"
     },
     "GOLDEN HUGE DOVE": {
@@ -4868,7 +4868,7 @@
         "demand": "7/10"
     },
     "HUGE EMPYREAN AXOLOTL": {
-        "value": "4.75B",
+        "value": "6B",
         "demand": "7/10"
     },
     "DUCKY HOVERBOARD": {
