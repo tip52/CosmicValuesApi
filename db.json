@@ -248,7 +248,7 @@
         "demand": "7/10"
     },
     "GOLDEN HUGE CAPYBARA": {
-        "value": "280M",
+        "value": "300M",
         "demand": "7/10"
     },
     "RAINBOW HUGE CAPYBARA": {
@@ -260,7 +260,7 @@
         "demand": "6/10"
     },
     "GOLDEN HUGE PARTY CAT": {
-        "value": "125M",
+        "value": "130M",
         "demand": "6/10"
     },
     "RAINBOW HUGE PARTY CAT": {
@@ -268,11 +268,11 @@
         "demand": "6/10"
     },
     "HUGE SCARY CAT": {
-        "value": "47.5M",
+        "value": "50M",
         "demand": "6/10"
     },
     "GOLDEN HUGE SCARY CAT": {
-        "value": "52.5M",
+        "value": "57.5M",
         "demand": "6/10"
     },
     "RAINBOW HUGE SCARY CAT": {
@@ -280,11 +280,11 @@
         "demand": "6/10"
     },
     "HUGE SCARY CORGI": {
-        "value": "44M",
+        "value": "47.5M",
         "demand": "6/10"
     },
     "GOLDEN HUGE SCARY CORGI": {
-        "value": "55M",
+        "value": "57.5M",
         "demand": "6/10"
     },
     "RAINBOW HUGE SCARY CORGI": {
@@ -332,7 +332,7 @@
         "demand": "6/10"
     },
     "GOLDEN HUGE BALLOON CAT": {
-        "value": "85M",
+        "value": "95M",
         "demand": "5/10"
     },
     "RAINBOW HUGE BALLOON CAT": {
@@ -348,7 +348,7 @@
         "demand": "7/10"
     },
     "HUGE GREEN BALLOON CAT": {
-        "value": "80M",
+        "value": "85M",
         "demand": "6/10"
     },
     "HUGE NEON TWILIGHT DRAGON": {
@@ -408,7 +408,7 @@
         "demand": "7/10"
     },
     "GOLDEN HUGE ANIME AGONY": {
-        "value": "750M",
+        "value": "825M",
         "demand": "7/10"
     },
     "RAINBOW HUGE ANIME AGONY": {
@@ -416,7 +416,7 @@
         "demand": "8/10"
     },
     "HUGE ANIME UNICORN": {
-        "value": "72.5M",
+        "value": "77.5M",
         "demand": "6/10"
     },
     "RAINBOW HUGE ANIME UNICORN": {
@@ -424,11 +424,11 @@
         "demand": "7/10"
     },
     "HUGE PARTY DOG": {
-        "value": "54M",
+        "value": "62.5M",
         "demand": "6/10"
     },
     "GOLDEN HUGE PARTY DOG": {
-        "value": "85M",
+        "value": "90M",
         "demand": "6/10"
     },
     "RAINBOW HUGE PARTY DOG": {
@@ -436,11 +436,11 @@
         "demand": "6/10"
     },
     "HUGE ELF CAT": {
-        "value": "45M",
+        "value": "50M",
         "demand": "5/10"
     },
     "GOLDEN HUGE ELF CAT": {
-        "value": "52.5M",
+        "value": "57.5M",
         "demand": "6/10"
     },
     "RAINBOW HUGE ELF CAT": {
@@ -448,11 +448,11 @@
         "demand": "6/10"
     },
     "HUGE ELF DOG": {
-        "value": "45M",
+        "value": "50M",
         "demand": "5/10"
     },
     "GOLDEN HUGE ELF DOG": {
-        "value": "52.5M",
+        "value": "57.5M",
         "demand": "6/10"
     },
     "RAINBOW HUGE ELF DOG": {
@@ -468,7 +468,7 @@
         "demand": "6/10"
     },
     "HUGE JOLLY PENGUIN": {
-        "value": "41M",
+        "value": "43.5M",
         "demand": "5/10"
     },
     "GOLDEN HUGE JOLLY PENGUIN": {
@@ -480,11 +480,11 @@
         "demand": "6/10"
     },
     "HUGE SNOWMAN": {
-        "value": "80M",
+        "value": "90M",
         "demand": "6/10"
     },
     "GOLDEN HUGE SNOWMAN": {
-        "value": "90M",
+        "value": "100M",
         "demand": "6/10"
     },
     "RAINBOW HUGE SNOWMAN": {
@@ -492,11 +492,11 @@
         "demand": "7/10"
     },
     "HUGE MRS CLAWS": {
-        "value": "51M",
+        "value": "52.5M",
         "demand": "5/10"
     },
     "GOLDEN HUGE MRS CLAWS": {
-        "value": "55M",
+        "value": "57.5M",
         "demand": "5/10"
     },
     "RAINBOW HUGE MRS CLAWS": {
@@ -504,7 +504,7 @@
         "demand": "6/10"
     },
     "HUGE GRINCH CAT": {
-        "value": "62.5M",
+        "value": "65M",
         "demand": "6/10"
     },
     "RAINBOW HUGE GRINCH CAT": {
@@ -512,7 +512,7 @@
         "demand": "7/10"
     },
     "HUGE PRESENT CHEST MIMIC": {
-        "value": "75M",
+        "value": "85M",
         "demand": "6/10"
     },
     "RAINBOW HUGE PRESENT CHEST MIMIC": {
