@@ -444,7 +444,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE ELF CAT": {
-        "value": "135M",
+        "value": "150M",
         "demand": "6/10"
     },
     "HUGE ELF DOG": {
@@ -456,7 +456,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE ELF DOG": {
-        "value": "135M",
+        "value": "150M",
         "demand": "6/10"
     },
     "HUGE CROWNED CAT": {
@@ -476,7 +476,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE JOLLY PENGUIN": {
-        "value": "120M",
+        "value": "135M",
         "demand": "6/10"
     },
     "HUGE SNOWMAN": {
@@ -500,7 +500,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE MRS CLAWS": {
-        "value": "172.5M",
+        "value": "195M",
         "demand": "6/10"
     },
     "HUGE GRINCH CAT": {
@@ -568,7 +568,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE DOODLE CAT": {
-        "value": "140M",
+        "value": "155M",
         "demand": "7/10"
     },
     "HUGE NEON CAT": {
@@ -596,7 +596,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE DOODLE FAIRY": {
-        "value": "135M",
+        "value": "150M",
         "demand": "6/10"
     },
     "HUGE PTERODACTYL": {
@@ -608,7 +608,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE PTERODACTYL": {
-        "value": "125M",
+        "value": "140M",
         "demand": "6/10"
     },
     "HUGE CHAMELEON": {
@@ -628,7 +628,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE KING COBRA": {
-        "value": "130M",
+        "value": "150M",
         "demand": "7/10"
     },
     "HUGE PEACOCK": {
@@ -640,7 +640,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE PEACOCK": {
-        "value": "125M",
+        "value": "150M",
         "demand": "6/10"
     },
     "HUGE ANGELUS": {
@@ -652,7 +652,7 @@
         "demand": "7/10"
     },
     "RAINBOW HUGE ANGELUS": {
-        "value": "8.25B",
+        "value": "9.25B",
         "demand": "8/10"
     },
     "HUGE ORCA": {
@@ -752,7 +752,7 @@
         "demand": "7/10"
     },
     "RAINBOW HUGE DIAMOND CAT": {
-        "value": "3.15B",
+        "value": "3.3B",
         "demand": "8/10"
     },
     "HUGE STORM DOMINUS": {
@@ -5454,6 +5454,10 @@
     "SHINY HUGE RICH CAT": {
         "value": "400M",
         "demand": "6/10"
+    },
+    "HUGE CLOVER FAIRY": {
+        "value": "135M",
+        "demand": "5/10"
     },
     "GOLDEN HUGE WHALE SHARK": {
         "value": "400M",
