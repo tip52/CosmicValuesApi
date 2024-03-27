@@ -4944,11 +4944,11 @@
         "demand": "8/10"
     },
     "RAINBOW HUGE JELLY AXOLOTL": {
-        "value": "475M",
+        "value": "500M",
         "demand": "7/10"
     },
     "RAINBOW HUGE JELLY MONKEY": {
-        "value": "640M",
+        "value": "670M",
         "demand": "7/10"
     },
     "RAINBOW TITANIC JELLY DRAGON": {
@@ -5195,6 +5195,10 @@
         "value": "335M",
         "demand": "6/10"
     },
+    "RAINBOW HUGE LUMI AXOLOTL": {
+        "value": "1B",
+        "demand": "7/10"
+    },
     "RAINBOW TITANIC LOVE LAMB": {
         "value": "25.45B",
         "demand": "8/10"
@@ -5240,7 +5244,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE HI-TECH TIGER": {
-        "value": "375M",
+        "value": "400M",
         "demand": "6/10"
     },
     "HUGE BAT": {
@@ -5284,7 +5288,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE RED FLUFFY": {
-        "value": "730M",
+        "value": "720M",
         "demand": "7/10"
     },
     "SHINY HUGE RED FLUFFY": {
@@ -5420,7 +5424,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE WHALE SHARK": {
-        "value": "700M",
+        "value": "680M",
         "demand": "7/10"
     },
     "HUGE MYSTICAL FOX": {
@@ -5432,7 +5436,7 @@
         "demand": "5/10"
     },
     "RAINBOW HUGE JESTER DOG": {
-        "value": "400M",
+        "value": "425M",
         "demand": "6/10"
     },
     "SHINY HUGE JESTER DOG": {
@@ -5448,7 +5452,7 @@
         "demand": "6/10"
     },
     "RAINBOW HUGE SUPER TIGER": {
-        "value": "550M",
+        "value": "575M",
         "demand": "7/10"
     },
     "HUGE RICH CAT": {
