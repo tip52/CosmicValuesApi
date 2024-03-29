@@ -3032,8 +3032,8 @@
         "demand": "1/10"
     },
     "CHEST BREAKER ENCHANT": {
-        "value": "5M",
-        "demand": "1/10"
+        "value": "7.5M",
+        "demand": "3/10"
     },
     "CHEST MIMIC ENCHANT": {
         "value": "825M",
@@ -3044,7 +3044,7 @@
         "demand": "2/10"
     },
     "FIREWORKS ENCHANT": {
-        "value": "260K",
+        "value": "225K",
         "demand": "2/10"
     },
     "FORTUNE ENCHANT": {
@@ -3052,7 +3052,7 @@
         "demand": "2/10"
     },
     "HUGE HUNTER ENCHANT": {
-        "value": "8.25M",
+        "value": "9.5M",
         "demand": "5/10"
     },
     "LIGHTNING ENCHANT": {
@@ -3104,7 +3104,7 @@
         "demand": "6/10"
     },
     "OVERSIZED HOVERBOARD": {
-        "value": "46M",
+        "value": "49M",
         "demand": "4/10"
     },
     "BALLOON HOVERBOARD": {
@@ -3112,11 +3112,11 @@
         "demand": "4/10"
     },
     "CAT HOVERBOARD": {
-        "value": "385K",
+        "value": "350K",
         "demand": "3/10"
     },
     "FIRE DRAGON HOVERBOARD": {
-        "value": "57M",
+        "value": "69M",
         "demand": "5/10"
     },
     "HUGE HOLIDAY PEGASUS": {
@@ -3128,11 +3128,11 @@
         "demand": "2/10"
     },
     "RAINBOW HOVERBOARD": {
-        "value": "2.6M",
+        "value": "4.2M",
         "demand": "2/10"
     },
     "WATERMELON HOVERBOARD": {
-        "value": "2.9M",
+        "value": "2.5M",
         "demand": "2/10"
     },
     "COINS POTION 5": {
@@ -4268,15 +4268,15 @@
         "demand": "3/10"
     },
     "NOOB HOVERBOARD": {
-        "value": "10M",
+        "value": "11.5M",
         "demand": "4/10"
     },
     "UFO HOVERBOARD": {
-        "value": "34M",
+        "value": "41M",
         "demand": "5/10"
     },
     "PARTY TIME ENCHANT": {
-        "value": "3.3M",
+        "value": "4.5M",
         "demand": "4/10"
     },
     "MASSIVE COMET ENCHANT": {
@@ -4612,7 +4612,7 @@
         "demand": "5/10"
     },
     "PEGASUS HOVERBOARD": {
-        "value": "345M",
+        "value": "315M",
         "demand": "6/10"
     },
     "M10 BOOTH": {
@@ -4628,7 +4628,7 @@
         "demand": "3/10"
     },
     "HIGH-TECH HOVERBOARD": {
-        "value": "5.9M",
+        "value": "7M",
         "demand": "3/10"
     },
     "GREEN CHRISTMAS ORNAMENT": {
@@ -4664,7 +4664,7 @@
         "demand": "2/10"
     },
     "PRESENT HOVERBOARD": {
-        "value": "425M",
+        "value": "415M",
         "demand": "5/10"
     },
     "DOODLE HOVERBOARD": {
@@ -4672,11 +4672,11 @@
         "demand": "3/10"
     },
     "SLEIGH HOVERBOARD": {
-        "value": "20.5M",
+        "value": "24.5M",
         "demand": "3/10"
     },
     "STEAMPUNK HOVERBOARD": {
-        "value": "6.9M",
+        "value": "8.5M",
         "demand": "2/10"
     },
     "RUDOLPH HOVERBOARD": {
@@ -4876,7 +4876,7 @@
         "demand": "7/10"
     },
     "DUCKY HOVERBOARD": {
-        "value": "200M",
+        "value": "245M",
         "demand": "6/10"
     },
     "EMPYREAN BOOTH": {
@@ -5028,15 +5028,15 @@
         "demand": "6/10"
     },
     "HOLOGRAM HOVERBOARD": {
-        "value": "3M",
+        "value": "3.5M",
         "demand": "3/10"
     },
     "TOILET HOVERBOARD": {
-        "value": "9.7M",
+        "value": "11M",
         "demand": "4/10"
     },
     "ROCKET HOVERBOARD": {
-        "value": "33M",
+        "value": "40.5M",
         "demand": "5/10"
     },
     "FRUIT BOOTH": {
