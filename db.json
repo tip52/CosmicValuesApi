@@ -3036,7 +3036,7 @@
         "demand": "1/10"
     },
     "CHEST MIMIC ENCHANT": {
-        "value": "750M",
+        "value": "800M",
         "demand": "8/10"
     },
     "EXOTIC PET ENCHANT": {
@@ -3060,7 +3060,7 @@
         "demand": "1/10"
     },
     "LUCKY BLOCK ENCHANT": {
-        "value": "30M",
+        "value": "43M",
         "demand": "5/10"
     },
     "MIDAS TOUCH": {
@@ -4280,7 +4280,7 @@
         "demand": "4/10"
     },
     "MASSIVE COMET ENCHANT": {
-        "value": "37.5M",
+        "value": "41.5M",
         "demand": "6/10"
     },
     "DIAMOND CHEST MIMIC ENCHANT": {
@@ -5508,7 +5508,7 @@
         "demand": "3/10"
     },
     "SUPER MAGNET ENCHANT": {
-        "value": "83M",
+        "value": "92M",
         "demand": "7/10"
     },
     "BOSS LUCKY BLOCK ENCHANT": {
