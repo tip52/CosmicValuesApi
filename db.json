@@ -4932,11 +4932,11 @@
         "demand": "6/10"
     },
     "HUGE JELLY AXOLOTL": {
-        "value": "84M",
+        "value": "92M",
         "demand": "6/10"
     },
     "HUGE JELLY MONKEY": {
-        "value": "115M",
+        "value": "123M",
         "demand": "7/10"
     },
     "TITANIC JELLY DRAGON": {
@@ -5184,11 +5184,11 @@
         "demand": "6/10"
     },
     "HUGE CYBER AGONY": {
-        "value": "63M",
+        "value": "62.5M",
         "demand": "5/10"
     },
     "HUGE LUMI AXOLOTL": {
-        "value": "187.5M",
+        "value": "210M",
         "demand": "6/10"
     },
     "GOLDEN HUGE LUMI AXOLOTL": {
@@ -5228,7 +5228,7 @@
         "demand": "7/10"
     },
     "HUGE ABYSSAL AXOLOTL": {
-        "value": "180M",
+        "value": "214M",
         "demand": "5/10"
     },
     "GOLDEN HUGE ABYSSAL AXOLOTL": {
@@ -5236,7 +5236,7 @@
         "demand": "5/10"
     },
     "HUGE HI-TECH TIGER": {
-        "value": "83.5M",
+        "value": "86M",
         "demand": "5/10"
     },
     "GOLDEN HUGE HI-TECH TIGER": {
@@ -5248,7 +5248,7 @@
         "demand": "6/10"
     },
     "HUGE BAT": {
-        "value": "46.1M",
+        "value": "51M",
         "demand": "5/10"
     },
     "GOLDEN HUGE BAT": {
@@ -5264,7 +5264,7 @@
         "demand": "5/10"
     },
     "HUGE WILLOW WISP": {
-        "value": "48.5M",
+        "value": "49M",
         "demand": "5/10"
     },
     "GOLDEN HUGE WILLOW WISP": {
@@ -5280,7 +5280,7 @@
         "demand": "6/10"
     },
     "HUGE RED FLUFFY": {
-        "value": "92.5M",
+        "value": "115M",
         "demand": "7/10"
     },
     "GOLDEN HUGE RED FLUFFY": {
@@ -5296,7 +5296,7 @@
         "demand": "6/10"
     },
     "HUGE PASTEL ELEPHANT": {
-        "value": "53.5M",
+        "value": "54M",
         "demand": "6/10"
     },
     "GOLDEN HUGE PASTEL ELEPHANT": {
@@ -5312,11 +5312,11 @@
         "demand": "6/10"
     },
     "HUGE BLURRED DOMINUS": {
-        "value": "1.03B",
+        "value": "1.1B",
         "demand": "7/10"
     },
     "HUGE KOI FISH": {
-        "value": "52.5M",
+        "value": "61M",
         "demand": "5/10"
     },
     "GOLDEN HUGE KOI FISH": {
@@ -5332,12 +5332,12 @@
         "demand": "6/10"
     },
     "HUGE ELEPHANT": {
-        "value": "71.5M",
-        "demand": "4/10"
+        "value": "68M",
+        "demand": "6/10"
     },
     "GOLDEN HUGE ELEPHANT": {
         "value": "85M",
-        "demand": "4/10"
+        "demand": "6/10"
     },
     "RAINBOW HUGE ELEPHANT": {
         "value": "205M",
@@ -5348,8 +5348,8 @@
         "demand": "6/10"
     },
     "HUGE BEE": {
-        "value": "63M",
-        "demand": "4/10"
+        "value": "68M",
+        "demand": "6/10"
     },
     "GOLDEN HUGE BEE": {
         "value": "85M",
@@ -5376,7 +5376,7 @@
         "demand": "7/10"
     },
     "HUGE COLORFUL WISP": {
-        "value": "53.5M",
+        "value": "61M",
         "demand": "6/10"
     },
     "GOLDEN HUGE COLORFUL WISP": {
@@ -5419,8 +5419,16 @@
         "value": "15.9B",
         "demand": "7/10"
     },
+    "HUGE ARCADE DRAGON": {
+        "value": "925M",
+        "demand": "7/10"
+    },
+    "HUGE FIREFLY": {
+        "value": "950M",
+        "demand": "7/10"
+    },
     "HUGE WHALE SHARK": {
-        "value": "145M",
+        "value": "130M",
         "demand": "6/10"
     },
     "RAINBOW HUGE WHALE SHARK": {
@@ -5432,7 +5440,7 @@
         "demand": "7/10"
     },
     "HUGE JESTER DOG": {
-        "value": "66M",
+        "value": "63M",
         "demand": "5/10"
     },
     "RAINBOW HUGE JESTER DOG": {
@@ -5444,7 +5452,7 @@
         "demand": "6/10"
     },
     "HUGE SUPER TIGER": {
-        "value": "125M",
+        "value": "117M",
         "demand": "6/10"
     },
     "SHINY HUGE SUPER TIGER": {
@@ -5456,7 +5464,7 @@
         "demand": "7/10"
     },
     "HUGE RICH CAT": {
-        "value": "71.5M",
+        "value": "66M",
         "demand": "5/10"
     },
     "RAINBOW HUGE RICH CAT": {
