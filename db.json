@@ -4996,23 +4996,23 @@
         "demand": "3/10"
     },
     "BLACK HOLE ULTIMATE": {
-        "value": "155M",
-        "demand": "8/10"
+        "value": "175M",
+        "demand": "7/10"
     },
     "CHEST SPELL ULTIMATE": {
-        "value": "250M",
+        "value": "275M",
         "demand": "6/10"
     },
     "TORNADO ULTIMATE": {
-        "value": "10M",
+        "value": "9.5M",
         "demand": "4/10"
     },
     "PET SURGE ULTIMATE": {
-        "value": "85K",
-        "demand": "2/10"
+        "value": "95K",
+        "demand": "4/10"
     },
     "TNT SHOWER ULTIMATE": {
-        "value": "1.4M",
+        "value": "1.25M",
         "demand": "3/10"
     },
     "SHINY SUPER HUNTER": {
@@ -5532,11 +5532,11 @@
         "demand": "4/10"
     },
     "HIDDEN TREASURE ULTIMATE": {
-        "value": "250M",
-        "demand": "6/10"
+        "value": "300M",
+        "demand": "7/10"
     },
     "LIGHTNING STORM ULTIMATE": {
-        "value": "13M",
+        "value": "9M",
         "demand": "5/10"
     }
 }
