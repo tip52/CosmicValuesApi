@@ -3240,43 +3240,43 @@
         "demand": "2/10"
     },
     "SEASON 1 BASIC GIFT": {
-        "value": "8M",
+        "value": "16M",
         "demand": "4/10"
     },
     "SEASON 1 RARE GIFT": {
-        "value": "9.5M",
+        "value": "17.5M",
         "demand": "5/10"
     },
     "SEASON 1 EPIC GIFT": {
-        "value": "14.5M",
+        "value": "40.5M",
         "demand": "7/10"
     },
     "SEASON 1 LEGENDARY GIFT": {
-        "value": "30M",
+        "value": "67M",
         "demand": "8/10"
     },
     "SEASON 1 MYTHICAL GIFT": {
-        "value": "85M",
+        "value": "215M",
         "demand": "9/10"
     },
     "SEASON 2 BASIC GIFT": {
-        "value": "8.5M",
+        "value": "20M",
         "demand": "4/10"
     },
     "SEASON 2 RARE GIFT": {
-        "value": "10.5M",
+        "value": "25M",
         "demand": "5/10"
     },
     "SEASON 2 EPIC GIFT": {
-        "value": "15.5M",
+        "value": "38M",
         "demand": "6/10"
     },
     "SEASON 2 LEGENDARY GIFT": {
-        "value": "31.5M",
+        "value": "73M",
         "demand": "7/10"
     },
     "SEASON 2 MYTHICAL GIFT": {
-        "value": "95M",
+        "value": "215M",
         "demand": "9/10"
     },
     "EXCLUSIVE ORIGINAL EGG": {
