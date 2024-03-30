@@ -1424,7 +1424,7 @@
         "demand": "7/10"
     },
     "HUGE MOSAIC GRIFFIN": {
-        "value": "58M",
+        "value": "61.5M",
         "demand": "6/10"
     },
     "GOLDEN HUGE MOSAIC GRIFFIN": {
@@ -1436,7 +1436,7 @@
         "demand": "6/10"
     },
     "HUGE MOSAIC CORGI": {
-        "value": "58M",
+        "value": "62M",
         "demand": "5/10"
     },
     "GOLDEN HUGE MOSAIC CORGI": {
@@ -1448,7 +1448,7 @@
         "demand": "6/10"
     },
     "HUGE PIXEL DRAGON": {
-        "value": "57M",
+        "value": "62M",
         "demand": "5/10"
     },
     "GOLDEN HUGE PIXEL DRAGON": {
@@ -1460,11 +1460,11 @@
         "demand": "7/10"
     },
     "HUGE PIXEL CORGI": {
-        "value": "46.5M",
+        "value": "50.5M",
         "demand": "5/10"
     },
     "GOLDEN HUGE PIXEL CORGI": {
-        "value": "56.5M",
+        "value": "60M",
         "demand": "5/10"
     },
     "RAINBOW HUGE PIXEL CORGI": {
@@ -1472,11 +1472,11 @@
         "demand": "6/10"
     },
     "HUGE EMPYREAN AGONY": {
-        "value": "107M",
+        "value": "110M",
         "demand": "7/10"
     },
     "GOLDEN HUGE EMPYREAN AGONY": {
-        "value": "125M",
+        "value": "130M",
         "demand": "6/10"
     },
     "RAINBOW HUGE EMPYREAN AGONY": {
@@ -1484,11 +1484,11 @@
         "demand": "7/10"
     },
     "HUGE TIEDYE CORGI": {
-        "value": "60M",
+        "value": "65M",
         "demand": "5/10"
     },
     "GOLDEN HUGE TIEDYE CORGI": {
-        "value": "72.5M",
+        "value": "80M",
         "demand": "6/10"
     },
     "RAINBOW HUGE TIEDYE CORGI": {
@@ -1496,11 +1496,11 @@
         "demand": "7/10"
     },
     "HUGE TIEDYE CAT": {
-        "value": "57M",
+        "value": "65M",
         "demand": "6/10"
     },
     "GOLDEN HUGE TIEDYE CAT": {
-        "value": "72.5M",
+        "value": "80M",
         "demand": "6/10"
     },
     "RAINBOW HUGE TIEDYE CAT": {
@@ -1508,7 +1508,7 @@
         "demand": "6/10"
     },
     "HUGE TIEDYE BUNNY": {
-        "value": "68.5M",
+        "value": "71.5M",
         "demand": "5/10"
     },
     "GOLDEN HUGE TIEDYE BUNNY": {
@@ -1520,7 +1520,7 @@
         "demand": "6/10"
     },
     "HUGE TIEDYE AXOLOTL": {
-        "value": "103M",
+        "value": "105M",
         "demand": "5/10"
     },
     "GOLDEN HUGE TIEDYE AXOLOTL": {
@@ -1556,11 +1556,11 @@
         "demand": "7/10"
     },
     "HUGE EXQUISITE CAT": {
-        "value": "92M",
+        "value": "98.5M",
         "demand": "6/10"
     },
     "GOLDEN HUGE EXQUISITE CAT": {
-        "value": "115M",
+        "value": "120M",
         "demand": "6/10"
     },
     "RAINBOW HUGE EXQUISITE CAT": {
@@ -1568,7 +1568,7 @@
         "demand": "7/10"
     },
     "HUGE EXQUISITE PARROT": {
-        "value": "79M",
+        "value": "80.5M",
         "demand": "5/10"
     },
     "GOLDEN HUGE EXQUISITE PARROT": {
@@ -1580,11 +1580,11 @@
         "demand": "6/10"
     },
     "HUGE MASKED OWL": {
-        "value": "126M",
+        "value": "130M",
         "demand": "5/10"
     },
     "GOLDEN HUGE MASKED OWL": {
-        "value": "160M",
+        "value": "165M",
         "demand": "5/10"
     },
     "RAINBOW HUGE MASKED OWL": {
@@ -1592,11 +1592,11 @@
         "demand": "7/10"
     },
     "HUGE TURTLE": {
-        "value": "100M",
+        "value": "115M",
         "demand": "5/10"
     },
     "GOLDEN HUGE TURTLE": {
-        "value": "135M",
+        "value": "140M",
         "demand": "5/10"
     },
     "RAINBOW HUGE TURTLE": {
@@ -1604,7 +1604,7 @@
         "demand": "6/10"
     },
     "HUGE HUSKY": {
-        "value": "120M",
+        "value": "125M",
         "demand": "6/10"
     },
     "GOLDEN HUGE HUSKY": {
@@ -1616,7 +1616,7 @@
         "demand": "7/10"
     },
     "HUGE SHARK": {
-        "value": "95M",
+        "value": "100M",
         "demand": "6/10"
     },
     "GOLDEN HUGE SHARK": {
@@ -1628,7 +1628,7 @@
         "demand": "7/10"
     },
     "HUGE FAIRY": {
-        "value": "137M",
+        "value": "142.5M",
         "demand": "5/10"
     },
     "GOLDEN HUGE FAIRY": {
@@ -1640,11 +1640,11 @@
         "demand": "7/10"
     },
     "HUGE SHADOW GRIFFIN": {
-        "value": "325M",
+        "value": "350M",
         "demand": "7/10"
     },
     "GOLDEN HUGE SHADOW GRIFFIN": {
-        "value": "375M",
+        "value": "400M",
         "demand": "6/10"
     },
     "RAINBOW HUGE SHADOW GRIFFIN": {
@@ -1664,7 +1664,7 @@
         "demand": "8/10"
     },
     "HUGE BEAR": {
-        "value": "108M",
+        "value": "115M",
         "demand": "6/10"
     },
     "GOLDEN HUGE BEAR": {
@@ -1676,7 +1676,7 @@
         "demand": "8/10"
     },
     "HUGE APPLE CAPYBARA": {
-        "value": "310M",
+        "value": "325M",
         "demand": "7/10"
     },
     "GOLDEN HUGE APPLE CAPYBARA": {
@@ -1688,7 +1688,7 @@
         "demand": "7/10"
     },
     "HUGE UNICORN": {
-        "value": "95M",
+        "value": "96.5M",
         "demand": "6/10"
     },
     "GOLDEN HUGE UNICORN": {
@@ -1700,7 +1700,7 @@
         "demand": "7/10"
     },
     "HUGE CRYSTAL DOG": {
-        "value": "53M",
+        "value": "55M",
         "demand": "5/10"
     },
     "GOLDEN HUGE CRYSTAL DOG": {
@@ -1712,11 +1712,11 @@
         "demand": "6/10"
     },
     "HUGE NIGHTFALL WOLF": {
-        "value": "88M",
+        "value": "97.5M",
         "demand": "6/10"
     },
     "GOLDEN HUGE NIGHTFALL WOLF": {
-        "value": "105M",
+        "value": "115M",
         "demand": "6/10"
     },
     "RAINBOW HUGE NIGHTFALL WOLF": {
@@ -1724,11 +1724,11 @@
         "demand": "7/10"
     },
     "HUGE NIGHTFALL PEGASUS": {
-        "value": "91.5M",
+        "value": "100M",
         "demand": "6/10"
     },
     "GOLDEN HUGE NIGHTFALL PEGASUS": {
-        "value": "110M",
+        "value": "120M",
         "demand": "6/10"
     },
     "RAINBOW HUGE NIGHTFALL PEGASUS": {
